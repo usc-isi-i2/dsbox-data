@@ -1,0 +1,1 @@
+The term could refer to the abstract data structures used to define files, or to the actual software or firmware components that implement the abstract ideas.

@@ -1,0 +1,1 @@
+When calling an international number from a fixed line phone, the + must be replaced with the international call prefix chosen by the country the call is being made from.

@@ -1,0 +1,1 @@
+Tangible assets contain various subclasses, including current assets and fixed assets.J.

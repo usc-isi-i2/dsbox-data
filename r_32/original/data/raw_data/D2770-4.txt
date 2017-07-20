@@ -1,0 +1,1 @@
+Because the PMV model was derived from data collected in a controlled climate, it is not suitable for applications in naturally ventilated spaces which often have high levels of air movement.

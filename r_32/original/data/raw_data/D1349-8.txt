@@ -1,0 +1,3 @@
+He’s not quite an adult, he’s not quite a kid.	0
+Q2499	what is spongebob's real address	D1349	SpongeBob SquarePants	D1349-9	Think a Stan Laurel, Jerry Lewis kind of child-man.	0
+Q2499	what is spongebob's real address	D1349	SpongeBob SquarePants	D1349-10	Kind of like a Munchkin but not quite, kind of like a kid, but not in a Charlie Brown child’s voice on the TV shows.

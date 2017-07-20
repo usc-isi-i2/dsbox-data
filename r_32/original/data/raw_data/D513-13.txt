@@ -1,0 +1,1 @@
+For applications requiring fast access, but not necessarily data persistence after power loss, SSDs may be constructed from random-access memory (RAM).

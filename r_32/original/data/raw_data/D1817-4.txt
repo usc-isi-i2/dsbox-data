@@ -1,0 +1,1 @@
+A measurement system can be accurate but not precise, precise but not accurate, neither, or both.

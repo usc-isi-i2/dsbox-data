@@ -1,0 +1,1 @@
+Data warehousing and business intelligence in general demand the accuracy, validity and correctness of data despite hardware failures, software bugs or human error.

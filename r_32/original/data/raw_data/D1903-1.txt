@@ -1,0 +1,1 @@
+The database forked from Borland 's open source edition of InterBase in 2000, but since Firebird 1.5 the code has been largely rewritten.

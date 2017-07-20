@@ -1,0 +1,1 @@
+However, this is not an easily-portable method because the DS needs to be within range of a suitable Wi-Fi card.

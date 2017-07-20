@@ -1,0 +1,1 @@
+ARM-based processors and systems on a chip include the Qualcomm Snapdragon , nVidia Tegra , Marvell Xscale and Texas Instruments OMAP , as well as ARM's Cortex series and Apple System on Chips (used in its iPhones ).

@@ -1,0 +1,1 @@
+By contrast, for a thermodynamically closed system (i.e., one which is closed to exchanges of matter, but open to exchanges of non-material energy, such as heat and work, with the surroundings) mass is (usually) only approximately conserved.

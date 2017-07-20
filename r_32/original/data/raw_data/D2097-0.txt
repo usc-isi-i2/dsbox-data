@@ -1,0 +1,1 @@
+Pressure as exerted by particle collisions inside a closed container.

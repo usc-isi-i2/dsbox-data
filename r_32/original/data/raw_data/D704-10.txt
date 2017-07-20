@@ -1,0 +1,1 @@
+Television diplexer consisting of a high-pass filter (left) and a low-pass filter (right).

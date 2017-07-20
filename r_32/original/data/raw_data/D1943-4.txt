@@ -1,0 +1,1 @@
+The codomain is a set containing the function's output, whereas the image is only the part of the codomain where the elements are outputs of the function.

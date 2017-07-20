@@ -1,0 +1,1 @@
+Ideally, all variables in an experiment will be controlled (accounted for by the control measurements) and none will be uncontrolled.

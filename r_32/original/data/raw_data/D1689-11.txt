@@ -1,0 +1,1 @@
+Prints are created by transferring ink from a matrix or through a prepared screen to a sheet of paper or other material.

@@ -1,0 +1,1 @@
+(As a general rule, pier numbers in Manhattan can be determined by adding 40 to the corresponding cross-street.)

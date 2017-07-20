@@ -1,0 +1,1 @@
+It uses an external power supply to make the DRAM non-volatile.

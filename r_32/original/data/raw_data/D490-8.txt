@@ -1,0 +1,1 @@
+The cell divides twice, potentially producing up to four haploid cells containing one copy of each chromosome.

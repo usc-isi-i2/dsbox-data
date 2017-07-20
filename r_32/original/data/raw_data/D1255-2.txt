@@ -1,0 +1,1 @@
+In set theory , the union (denoted by ∪) of a collection of sets is the set of all distinct elements in the collection.

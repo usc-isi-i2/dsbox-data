@@ -1,0 +1,1 @@
+Earthquake prediction "is usually defined as the specification of the time, location, and magnitude of a future earthquake within stated limits", and particularly of "the next strong earthquake to occur in a region."

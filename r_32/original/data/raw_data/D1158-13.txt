@@ -1,0 +1,1 @@
+These facilities allow customers to write or install scripts for applications like forums and content management .

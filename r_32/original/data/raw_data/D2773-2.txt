@@ -1,0 +1,1 @@
+The idea of Express editions is to provide streamlined, easy-to-use and easy-to-learn IDEs for users other than professional software developers, such as hobbyists and students.

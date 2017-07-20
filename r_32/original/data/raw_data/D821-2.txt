@@ -1,0 +1,1 @@
+During each heartbeat, blood pressure varies between a maximum ( systolic ) and a minimum ( diastolic ) pressure.

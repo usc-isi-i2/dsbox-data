@@ -1,0 +1,1 @@
+Internet Explorer 9 supports several CSS 3 properties, embedded ICC v2 or v4 color profiles support via Windows Color System , and has improved JavaScript performance.

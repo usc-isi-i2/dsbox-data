@@ -1,0 +1,1 @@
+SAS replaces the older Parallel SCSI (pronounced "scuzzy") bus technology that first appeared in the mid-1980s.

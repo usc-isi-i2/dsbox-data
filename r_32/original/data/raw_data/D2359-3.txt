@@ -1,0 +1,1 @@
+It also makes written music easier to follow, since each bar of staff symbols can be read and played as a batch.

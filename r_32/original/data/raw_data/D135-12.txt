@@ -1,0 +1,1 @@
+Synoptic surface weather observations use code numbers to record and report the types of tropospheric cloud visible at each scheduled observation time based on the height and physical appearance of the clouds.

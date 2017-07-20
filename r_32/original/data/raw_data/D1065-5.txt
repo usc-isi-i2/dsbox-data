@@ -1,0 +1,1 @@
+EHRs may include a range of data, including demographics , medical history, medication and allergies, immunization status, laboratory test results, radiology images, vital signs, personal stats like age and weight, and billing information.

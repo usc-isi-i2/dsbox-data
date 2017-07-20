@@ -1,0 +1,1 @@
+If components are missing the total is adjusted to 0.

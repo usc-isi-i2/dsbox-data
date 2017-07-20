@@ -1,0 +1,1 @@
+The 1.57 mm pin can carry 5 A of current, while the 2.36 mm can carry 8.5 A.

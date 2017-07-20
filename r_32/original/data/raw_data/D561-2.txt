@@ -1,0 +1,1 @@
+Conventionally, a computer consists of at least one processing element, typically a central processing unit (CPU) and some form of memory .

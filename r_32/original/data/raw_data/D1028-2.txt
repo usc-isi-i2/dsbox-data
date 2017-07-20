@@ -1,0 +1,1 @@
+Measurements are defined by a probe attached to the third moving axis of this machine.

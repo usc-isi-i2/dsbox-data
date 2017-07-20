@@ -1,0 +1,1 @@
+The most common use of web servers is to host websites , but there are other uses such as gaming , data storage or running enterprise applications .

@@ -1,0 +1,1 @@
+Credit scoring also has a lot of overlap with data mining , which uses many similar techniques.

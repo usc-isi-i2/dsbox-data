@@ -1,0 +1,1 @@
+A typical neuron possesses a cell body (often called the soma ), dendrites , and an axon .

@@ -1,0 +1,1 @@
+A simple dry magnetic portable compass.

@@ -1,0 +1,1 @@
+An endless-loop outgoing message tape used in dual-cassette-based answering machines

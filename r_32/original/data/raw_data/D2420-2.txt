@@ -1,0 +1,1 @@
+The exception are the ones specifying shipments, which have lower precedence than others listing sales.

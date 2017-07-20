@@ -1,0 +1,1 @@
+In 1982, the Internet protocol suite (TCP/IP) was standardized, and consequently, the concept of a world-wide network of interconnected TCP/IP networks, called the Internet, was introduced.

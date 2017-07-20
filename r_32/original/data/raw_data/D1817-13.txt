@@ -1,0 +1,1 @@
+For example, in the IEEE 754-2008 standard it means the number of bits in the significand , so it is used as a measure for the relative accuracy with which an arbitrary number can be represented.

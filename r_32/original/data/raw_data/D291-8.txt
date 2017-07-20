@@ -1,0 +1,1 @@
+The AWG tables are for a single, solid, round conductor.

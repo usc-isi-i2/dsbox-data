@@ -1,0 +1,1 @@
+It is algebraically simpler though practically less robust than the average absolute deviation .

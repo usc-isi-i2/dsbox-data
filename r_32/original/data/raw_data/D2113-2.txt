@@ -1,0 +1,1 @@
+Essentially, lean is centered on preserving value with less work.

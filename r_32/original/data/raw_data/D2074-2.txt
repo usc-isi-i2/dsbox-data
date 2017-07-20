@@ -1,0 +1,1 @@
+The red curve is the graph of a function f in the Cartesian plane , consisting of all points with coordinates of the form (x,f(x)).

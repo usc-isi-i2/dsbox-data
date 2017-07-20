@@ -1,0 +1,1 @@
+A useful property of standard deviation is that, unlike variance, it is expressed in the same units as the data.

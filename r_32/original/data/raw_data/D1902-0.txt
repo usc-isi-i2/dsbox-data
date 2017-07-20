@@ -1,0 +1,1 @@
+In computing , booting (also known as booting up) is the initial set of operations that a computer system performs when electrical power to the CPU is switched on.

@@ -1,0 +1,1 @@
+PHP is free software released under the PHP License , which is incompatible with the GNU General Public License (GPL) due to restrictions on the usage of the term PHP.

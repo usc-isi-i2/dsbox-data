@@ -1,0 +1,1 @@
+Many maps are static two-dimensional, geometrically accurate (or approximately accurate) representations of three-dimensional space , while others are dynamic or interactive, even three-dimensional.

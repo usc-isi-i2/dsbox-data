@@ -1,0 +1,1 @@
+Microsoft has released Internet Explorer 9 as a major out-of-band version that is not tied to the release schedule of any particular version of Windows, unlike previous versions.

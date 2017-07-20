@@ -1,0 +1,1 @@
+Windows PowerShell is Microsoft 's task automation framework, consisting of a command-line shell and associated scripting language built on .NET Framework .

@@ -1,0 +1,1 @@
+Zinc-air batteries type PR44 require air to work.

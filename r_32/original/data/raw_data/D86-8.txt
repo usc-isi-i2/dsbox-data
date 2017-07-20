@@ -1,0 +1,1 @@
+In addition to expressing the variability of a population, standard deviation is commonly used to measure confidence in statistical conclusions.

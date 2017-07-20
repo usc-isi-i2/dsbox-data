@@ -1,0 +1,1 @@
+This helps prevent certain exploits that store code via a buffer overflow , for example.

@@ -1,0 +1,1 @@
+An OLED (organic light-emitting diode) is a light-emitting diode (LED) in which the emissive electroluminescent layer is a film of organic compound which emits light in response to an electric current.

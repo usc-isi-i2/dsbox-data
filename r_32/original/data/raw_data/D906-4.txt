@@ -1,0 +1,1 @@
+When used without qualification, "weather" is understood to be the weather of Earth .

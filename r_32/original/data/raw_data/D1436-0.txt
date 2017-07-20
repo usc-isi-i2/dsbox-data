@@ -1,0 +1,1 @@
+The seven SI base units and the interdependency of their definitions: for example, to extract the definition of the metre from the speed of light , the definition of the second must be known while the ampere and candela are both dependent on the definition of energy which in turn is defined in terms of length , mass and time .

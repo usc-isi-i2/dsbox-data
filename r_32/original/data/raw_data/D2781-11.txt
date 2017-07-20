@@ -1,0 +1,1 @@
+ARM periodically releases updates to its core — currently ARMv7 and ARMv8 — which chip manufacturers can then license and use for their own devices.

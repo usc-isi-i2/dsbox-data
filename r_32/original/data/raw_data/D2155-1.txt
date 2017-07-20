@@ -1,0 +1,1 @@
+An Ethernet hub, active hub, network hub, repeater hub, multiport repeater or hub is a device for connecting multiple Ethernet devices together and making them act as a single network segment .

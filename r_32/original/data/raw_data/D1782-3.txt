@@ -1,0 +1,1 @@
+Some file systems are "virtual", in that the "files" supplied are computed on request (e.g. procfs ) or are merely a mapping into a different file system used as a backing store.

@@ -1,0 +1,1 @@
+The technical underpinning and standardization of the core protocols ( IPv4 and IPv6 ) is an activity of the Internet Engineering Task Force (IETF), a non-profit organization of loosely affiliated international participants that anyone may associate with by contributing technical expertise.

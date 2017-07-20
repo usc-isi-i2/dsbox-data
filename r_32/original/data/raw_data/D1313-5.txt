@@ -1,0 +1,1 @@
+Body mass index is defined as the individual's body mass divided by the square of their height.

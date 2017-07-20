@@ -1,0 +1,1 @@
+Treatments attempt to return function after an attack, prevent new attacks, and prevent disability.

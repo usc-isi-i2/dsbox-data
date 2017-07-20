@@ -1,0 +1,1 @@
+Devices connected to the bus appear to the processor to be connected directly to the processor bus, and are assigned addresses in the processor's address space.

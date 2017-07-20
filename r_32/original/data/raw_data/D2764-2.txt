@@ -1,0 +1,1 @@
+Abnormal values from a CBC may be a result of false positives and thus the CBC may need to be repeated for a patient (or replaced with a more specific test).

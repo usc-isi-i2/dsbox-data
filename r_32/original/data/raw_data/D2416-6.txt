@@ -1,0 +1,1 @@
+Direct3D is also used by other software applications for visualization and graphics tasks such as CAD/CAM engineering.

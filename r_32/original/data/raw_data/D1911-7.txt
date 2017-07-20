@@ -1,0 +1,1 @@
+There are two indications, one from the initial pulse of the probe, and the second due to the back wall echo.

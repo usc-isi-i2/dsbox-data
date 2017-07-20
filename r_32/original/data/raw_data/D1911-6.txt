@@ -1,0 +1,1 @@
+LEFT: A probe sends a sound wave into a test material.

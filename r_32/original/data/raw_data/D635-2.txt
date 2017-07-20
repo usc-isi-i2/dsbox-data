@@ -1,0 +1,1 @@
+The device features an LED to indicate when the microphone is active.

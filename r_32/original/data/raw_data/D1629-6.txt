@@ -1,0 +1,1 @@
+These applications can then use Windows PowerShell functionality to implement certain operations, including those exposed via the graphical interface .

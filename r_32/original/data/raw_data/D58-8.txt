@@ -1,0 +1,1 @@
+Colors containing only one wavelength are also called pure colors .

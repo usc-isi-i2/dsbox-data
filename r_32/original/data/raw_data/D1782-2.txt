@@ -1,0 +1,1 @@
+Some file systems are used on local data storage devices ; others provide file access via a network protocol (e.g. NFS , SMB , or 9P clients).

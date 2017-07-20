@@ -1,0 +1,1 @@
+The host may also provide an interface or control panel for managing the Web server and installing scripts, as well as other modules and service applications like e-mail.

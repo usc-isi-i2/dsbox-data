@@ -1,0 +1,1 @@
+Windows Task Manager was introduced with Windows NT 4.0 .

@@ -1,0 +1,1 @@
+This would be because the country/region listed has a small population, and therefore small total economy; the GDP is calculated as the population times the wealth per capita.

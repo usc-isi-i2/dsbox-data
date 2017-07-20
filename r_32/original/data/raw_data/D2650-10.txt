@@ -1,0 +1,1 @@
+By contrast, the original ITU V.22 standard, which was able to transmit and receive four distinct symbols (two bits per symbol), handled 1,200 bit/s by sending 600 symbols per second (600 baud) using phase shift keying .

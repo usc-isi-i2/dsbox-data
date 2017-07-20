@@ -1,0 +1,1 @@
+This chip contains a radio-frequency electromagnetic field coil that modulates an external magnetic field to transfer a coded identification number when queried by a reader device.

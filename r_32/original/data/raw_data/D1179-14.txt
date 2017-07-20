@@ -1,0 +1,1 @@
+Changes in the cross-membrane voltage can alter the function of voltage-dependent ion channels .

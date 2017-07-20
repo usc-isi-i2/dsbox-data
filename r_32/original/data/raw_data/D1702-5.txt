@@ -1,0 +1,1 @@
+A basic chronograph has an independent sweep second hand; it can be started, stopped, and returned to zero by successive pressure on the stem.

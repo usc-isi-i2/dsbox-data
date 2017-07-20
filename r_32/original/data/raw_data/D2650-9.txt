@@ -1,0 +1,1 @@
+For example, the ITU V.21 standard used audio frequency shift keying with two possible frequencies corresponding to two distinct symbols (or one bit per symbol), to carry 300 bits per second using 300 baud.

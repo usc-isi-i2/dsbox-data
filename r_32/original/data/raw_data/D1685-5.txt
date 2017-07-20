@@ -1,0 +1,1 @@
+It has also evolved to include a command-line interface capability and can be used in standalone graphical applications .

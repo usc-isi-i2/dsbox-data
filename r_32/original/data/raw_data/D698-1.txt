@@ -1,0 +1,1 @@
+The Task Manager can also be used to set process priorities, processor affinity , forcibly terminate processes, and shut down, restart, hibernate or log off from Windows.

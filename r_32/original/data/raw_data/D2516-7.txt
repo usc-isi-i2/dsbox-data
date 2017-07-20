@@ -1,0 +1,1 @@
+Generally each line of a rental invoice will refer to the actual hours, days, weeks, months, etc., being billed.

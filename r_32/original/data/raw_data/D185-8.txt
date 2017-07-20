@@ -1,0 +1,1 @@
+Thus, different IP addresses or protocols may use the same port number for communication; e.g., on a given host or interface UDP and TCP may use the same port number, or on a host with two interfaces, both addresses may be associated with a port having the same number.

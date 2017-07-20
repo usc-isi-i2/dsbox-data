@@ -1,0 +1,1 @@
+LCDs are, however, susceptible to image persistence .

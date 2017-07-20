@@ -1,0 +1,1 @@
+For this tooth, the left and right first molars would have the same number, "6", but the right one would have the symbol, "┐", over it, while the left one would have, "┌".

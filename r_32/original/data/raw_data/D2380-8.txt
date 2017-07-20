@@ -1,0 +1,1 @@
+There are three categories of card readers sorted by the type and quantity of the card slots: single card reader (e.g. 1x SD-only), multi card reader (e.g. 9-in-1) and series card reader (e.g. 4x SD only).

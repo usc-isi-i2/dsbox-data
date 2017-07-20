@@ -1,0 +1,1 @@
+All mathematical constants are definable numbers and usually are also computable numbers ( Chaitin's constant being a significant exception).

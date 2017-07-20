@@ -1,0 +1,1 @@
+A computer can have more than one CPU; this is called multiprocessing .

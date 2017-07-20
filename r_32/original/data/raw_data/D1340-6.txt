@@ -1,0 +1,1 @@
+Second-generation devices (those which only use Slot-1) do not work with GBA homebrew, but became less expensive and easier to use, rivaling many Slot-2 devices in price.

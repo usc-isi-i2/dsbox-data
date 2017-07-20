@@ -1,0 +1,1 @@
+Since October 10, 2006, no licensing fees are required to implement the I2C protocol.

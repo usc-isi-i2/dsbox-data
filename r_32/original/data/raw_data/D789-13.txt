@@ -1,0 +1,1 @@
+Since certain loans and bonds may commonly be quoted in relation to some index or underlying security , they will often be quoted as a spread over (or under) the index.

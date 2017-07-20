@@ -1,0 +1,1 @@
+This specifies that the entire number should be 15 digits or shorter, and begin with a country prefix .

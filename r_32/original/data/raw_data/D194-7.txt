@@ -1,0 +1,1 @@
+Although marketed as a 4G wireless service, LTE as specified in the 3GPP Release 8 and 9 document series does not satisfy the technical requirements the 3GPP consortium has adopted for its new standard generation, and which were originally set forth by the ITU-R organization in its IMT-Advanced specification.

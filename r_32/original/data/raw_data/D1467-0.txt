@@ -1,0 +1,1 @@
+The Windows Installer (previously known as Microsoft Installer) is a software component used for the installation, maintenance, and removal of software on modern Microsoft Windows systems.

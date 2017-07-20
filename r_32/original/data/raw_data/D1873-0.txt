@@ -1,0 +1,1 @@
+A virtual machine (VM) is a software implemented abstraction of the underlying hardware , which is presented to the application layer of the system.

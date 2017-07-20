@@ -1,0 +1,1 @@
+This rotates about the rocker shaft, and transfers the motion via a tappet to the poppet valve .

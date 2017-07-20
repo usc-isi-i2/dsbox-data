@@ -1,0 +1,1 @@
+In coding theory , block codes comprise the large and important family of error-correcting codes that encode data in blocks.

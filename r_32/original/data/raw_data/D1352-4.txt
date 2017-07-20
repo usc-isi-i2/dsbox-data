@@ -1,0 +1,1 @@
+However, devices for connecting to IDE , Ethernet , FireWire , USB and other systems may also be called host adapters.

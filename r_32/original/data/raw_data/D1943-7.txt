@@ -1,0 +1,1 @@
+These books call the actual output of the function the image.

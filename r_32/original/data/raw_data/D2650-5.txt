@@ -1,0 +1,1 @@
+These signals can be transmitted over telephone lines and demodulated by another modem at the receiver side to recover the digital data.

@@ -1,0 +1,1 @@
+The reported margin of error is typically about twice the standard deviation ­– the radius of a 95 percent confidence interval .

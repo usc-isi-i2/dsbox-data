@@ -1,0 +1,1 @@
+SATA host adapters and devices communicate via a high-speed serial cable over two pairs of conductors.

@@ -1,0 +1,1 @@
+Additional buttons on the People Meter enable guests to participate in the sample by recording their age, sex and viewing status into the system.

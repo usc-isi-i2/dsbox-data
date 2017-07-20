@@ -1,0 +1,1 @@
+On modern general purpose computers, this can take tens of seconds and typically involves performing a power-on self-test , locating and initializing peripheral devices, and then finding, loading and starting an operating system .

@@ -1,0 +1,1 @@
+Data that has integrity is identically maintained during any operation, such as transfer, storage or retrieval.

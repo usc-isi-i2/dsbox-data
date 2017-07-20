@@ -1,0 +1,1 @@
+An RFID tag attached to an automobile during production can be used to track its progress through the assembly line.

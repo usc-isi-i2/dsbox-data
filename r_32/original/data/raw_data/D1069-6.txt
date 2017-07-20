@@ -1,0 +1,1 @@
+The URL of the PAC file is either configured manually or determined automatically by the Web Proxy Autodiscovery Protocol .

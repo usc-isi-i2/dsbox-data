@@ -1,0 +1,1 @@
+Each scheme provides a different balance between the key goals: reliability and availability , performance and capacity .

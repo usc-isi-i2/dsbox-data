@@ -1,0 +1,1 @@
+The performance of optical coatings (e.g. antireflective , or AR, coatings) are typically enhanced when the thin-film coating consists of multiple layers having varying thicknesses and refractive indices .

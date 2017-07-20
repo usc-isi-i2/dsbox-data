@@ -1,0 +1,1 @@
+The Flex 3 SDK was released under the open source Mozilla Public License in 2008.

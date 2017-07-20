@@ -1,0 +1,1 @@
+In that situation, the diplexer consists of a lowpass filter connecting ports L and S and high pass filter connecting ports H and S. Ideally, all the signal power on port L is transferred to the S port and vice versa.

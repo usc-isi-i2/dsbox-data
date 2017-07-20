@@ -1,0 +1,1 @@
+The system requirements for Internet Explorer 9 are Windows 7 , Windows Server 2008 R2 , Windows Vista Service Pack 2 or Windows Server 2008 SP2 with the Platform Update .

@@ -1,0 +1,1 @@
+Microsoft was established to develop and sell BASIC interpreters for the Altair 8800 .

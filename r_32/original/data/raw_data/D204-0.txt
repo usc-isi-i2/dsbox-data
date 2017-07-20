@@ -1,0 +1,1 @@
+In computer science, an integer is a datum of integral data type, a data type which represents some finite subset of the mathematical integers .

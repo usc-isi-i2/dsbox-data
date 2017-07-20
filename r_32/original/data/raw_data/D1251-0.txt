@@ -1,0 +1,1 @@
+A graph of the US CPI from 1913 to 2006 (in blue), and its percent annual change (in red)

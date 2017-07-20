@@ -1,0 +1,1 @@
+A newer card may use a file system the host device cannot navigate.

@@ -1,0 +1,1 @@
+Bank card numbers are allocated in accordance with ISO/IEC 7812 .

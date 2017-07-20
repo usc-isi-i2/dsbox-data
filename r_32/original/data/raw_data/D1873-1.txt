@@ -1,0 +1,1 @@
+Virtual machines may be based on specifications of a hypothetical computer or emulate the computer architecture and functions of a real world computer.

@@ -1,0 +1,1 @@
+If, however, the report says there has been a "10 basis point increase" from a 10% interest rate, then we know that the interest rate of 10% has increased by 0.10% (the absolute change) to a 10.1% rate.

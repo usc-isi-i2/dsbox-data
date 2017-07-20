@@ -1,0 +1,1 @@
+A port is associated with an IP address of the host, as well as the type of protocol used for communication.

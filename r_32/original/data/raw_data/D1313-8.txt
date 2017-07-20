@@ -1,0 +1,1 @@
+† The factor for UK/US units is more precisely 703.06957964, but that level of precision is not meaningful for this calculation.

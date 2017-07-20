@@ -1,0 +1,1 @@
+In computer storage , a logical unit number, or LUN, is a number used to identify a logical unit, which is a device addressed by the SCSI protocol or protocols which encapsulate SCSI , such as Fibre Channel or iSCSI .

@@ -1,0 +1,1 @@
+A sonic boom produced by an aircraft moving at M=2.92, calculated from the cone angle of 20 degrees.

@@ -1,0 +1,1 @@
+Note that it is the combination of IP address and port number together that must be globally unique.

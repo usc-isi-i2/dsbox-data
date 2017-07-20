@@ -1,0 +1,1 @@
+It provides the recipient (and sometimes authorized intermediaries) with a means to determine how to respond to the sender of the message if needed.

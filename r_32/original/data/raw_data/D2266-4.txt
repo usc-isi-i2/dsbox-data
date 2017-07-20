@@ -1,0 +1,1 @@
+Examples of block codes are Reed–Solomon codes , Hamming codes , Hadamard codes , Expander codes , Golay codes , and Reed–Muller codes .

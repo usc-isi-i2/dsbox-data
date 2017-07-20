@@ -1,0 +1,1 @@
+A thermometer has two important elements: the temperature sensor (e.g. the bulb on a mercury-in-glass thermometer ) in which some physical change occurs with temperature, plus some means of converting this physical change into a numerical value (e.g. the visible scale that is marked on a mercury-in-glass thermometer).

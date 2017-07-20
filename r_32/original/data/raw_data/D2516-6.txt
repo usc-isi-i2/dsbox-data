@@ -1,0 +1,1 @@
+In the rental industry, an invoice must include a specific reference to the duration of the time being billed, so in addition to quantity, price and discount the invoicing amount is also based on duration.

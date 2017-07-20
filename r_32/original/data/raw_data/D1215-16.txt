@@ -1,0 +1,1 @@
+Computer programmer and author Fred Brooks makes an opposite statement regarding programming in The Mythical Man-Month : "Show me your flowcharts and conceal your tables , and I shall continue to be mystified.

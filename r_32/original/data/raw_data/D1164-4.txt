@@ -1,0 +1,1 @@
+A GUI represents the information and actions available to a user through graphical icons and visual indicators such as secondary notation , as opposed to text-based interfaces , typed command labels or text navigation.

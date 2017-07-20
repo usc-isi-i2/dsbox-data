@@ -1,0 +1,1 @@
+PCI and PCI-X are being replaced by PCI Express , but , most motherboards are still made with one or more PCI slots, which are sufficient for many uses.

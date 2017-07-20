@@ -1,0 +1,1 @@
+Two types of chemical injectors are available — a high-pressure injector that introduces the chemical after the water leaves the pump (a downstream injector) and a low-pressure injector that introduces the chemical before water enters the pump (an upstream injector).

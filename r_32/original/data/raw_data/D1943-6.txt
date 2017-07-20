@@ -1,0 +1,1 @@
+Some books say that range of this function is its codomain, the set of all real numbers, reflecting that the function is real-valued.

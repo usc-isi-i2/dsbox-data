@@ -1,0 +1,1 @@
+Many devices previously provided on PCI expansion cards are now commonly integrated onto motherboards or available in universal serial bus and PCI Express versions.

@@ -1,0 +1,1 @@
+One metaphor describes the function as a "machine" or " black box " that for each input returns a corresponding output.

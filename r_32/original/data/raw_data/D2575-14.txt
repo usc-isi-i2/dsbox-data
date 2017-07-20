@@ -1,0 +1,1 @@
+In low ambient light conditions such as a dark room an OLED screen can achieve a higher contrast ratio than an LCD, whether the LCD uses cold cathode fluorescent lamps or LED backlight .

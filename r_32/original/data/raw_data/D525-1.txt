@@ -1,0 +1,1 @@
+Since the source is moving faster (with a speed ) than the sound waves it creates, it actually leads the advancing wavefront.

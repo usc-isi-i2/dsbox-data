@@ -1,0 +1,1 @@
+Technically, any name registered in the DNS is a domain name.

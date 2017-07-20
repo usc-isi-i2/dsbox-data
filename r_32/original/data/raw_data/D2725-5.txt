@@ -1,0 +1,1 @@
+Browser hijacking can cause malware to be installed on a computer.

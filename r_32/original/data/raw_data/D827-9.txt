@@ -1,0 +1,1 @@
+(In a backlit LCD, this layer is replaced with a light source.)

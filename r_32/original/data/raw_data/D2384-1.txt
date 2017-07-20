@@ -1,0 +1,1 @@
+First proposed for military uses in the early 1960s and implemented on small networks in 1968, this method of data transmission became one of the fundamental networking technologies behind the Internet and most local area networks .

@@ -1,0 +1,1 @@
+Accordingly, modern I2C systems incorporate policies and rules from SMBus, sometimes supporting both I2C and SMBus with minimal reconfiguration required.

@@ -1,0 +1,1 @@
+The invention of integrated circuit read-only memory (ROM) of various types solved this paradox by allowing computers to be shipped with a start up program that could not be erased.

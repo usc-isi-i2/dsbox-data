@@ -1,0 +1,1 @@
+The called party might have equipment that presents caller ID before the call is answered.

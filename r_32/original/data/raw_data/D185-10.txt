@@ -1,0 +1,1 @@
+In the client-server model of application architecture, ports are used to provide a multiplexing service on each server-side port number that network clients connect to for service initiation, after which communication can be reestablished on other connection-specific port numbers.

@@ -1,0 +1,1 @@
+Some cards have a stored value with which a payment is made, while most relay a message to the cardholder's bank to withdraw funds from a payee's designated bank account.

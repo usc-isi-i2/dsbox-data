@@ -1,0 +1,1 @@
+Discs using the DVD-Video specification require a DVD drive and an H.262/MPEG-2 Part 2 decoder (e.g., a DVD player, or a computer DVD drive with a software DVD player).

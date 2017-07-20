@@ -1,0 +1,1 @@
+Windows 98 and Windows NT 4.0 both shipped with DirectX, as has every version of Windows released since.

@@ -1,0 +1,1 @@
+Individual pawns are referred to by the file on which they stand.

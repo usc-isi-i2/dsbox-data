@@ -1,0 +1,1 @@
+Some hubs may also come with a BNC and/or Attachment Unit Interface (AUI) connector to allow connection to legacy 10BASE2 or 10BASE5 network segments.

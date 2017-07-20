@@ -1,0 +1,1 @@
+File Explorer, previously known as Windows Explorer, is a file manager application and also a navigation tool that is included with releases of the Microsoft Windows operating system from Windows 95 onwards.

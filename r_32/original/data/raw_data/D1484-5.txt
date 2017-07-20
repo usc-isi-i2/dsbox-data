@@ -1,0 +1,1 @@
+If the electrode -- called a "plate" or "anode" -- is made more positive than the hot filament, a direct current flows through the vacuum to the electrode (a demonstration of the Edison effect ).

@@ -1,0 +1,1 @@
+For example a typical email system might contain 100 instances of the same one megabyte (MB) file attachment.

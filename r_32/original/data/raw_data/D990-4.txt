@@ -1,0 +1,1 @@
+Some companies choose to end their fiscal year on the same day of the week, such day being the one closest to a particular date (for example, the Friday closest to 31 December).

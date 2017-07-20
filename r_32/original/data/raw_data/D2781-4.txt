@@ -1,0 +1,1 @@
+As an IP core business, ARM Holdings itself does not manufacture its own electronic chips, but licenses its designs to other semiconductor manufacturers.

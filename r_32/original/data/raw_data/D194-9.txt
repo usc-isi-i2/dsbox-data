@@ -1,0 +1,1 @@
+The LTE Advanced standard formally satisfies the ITU-R requirements to be considered IMT-Advanced .

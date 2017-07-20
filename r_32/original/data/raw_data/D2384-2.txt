@@ -1,0 +1,1 @@
+Packet switching features delivery of variable-bit-rate data streams (sequences of packets) over a shared network.

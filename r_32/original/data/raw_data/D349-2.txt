@@ -1,0 +1,1 @@
+The framework used to determine this order quantity is also known as Barabas EOQ Model or Barabas Formula.

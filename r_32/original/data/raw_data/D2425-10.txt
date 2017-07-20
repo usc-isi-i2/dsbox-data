@@ -1,0 +1,1 @@
+Such tests are commonly used to prevent unwanted internet bots from accessing websites, since a normal human can easily read a CAPTCHA, while the bot cannot process the image letters and therefore, cannot answer properly, or at all.

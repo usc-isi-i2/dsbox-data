@@ -1,0 +1,1 @@
+And to differentiate LTE-Advanced and WiMAX-Advanced from current 4G technologies, ITU has defined them as "True 4G".

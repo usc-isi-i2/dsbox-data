@@ -1,0 +1,1 @@
+An array processor or vector processor has multiple parallel computing elements, with no one unit considered the "center".

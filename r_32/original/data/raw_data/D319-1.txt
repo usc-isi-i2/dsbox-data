@@ -1,0 +1,1 @@
+Depending on the contract, other events such as terminal illness or critical illness may also trigger payment.

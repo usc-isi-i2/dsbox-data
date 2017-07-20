@@ -1,0 +1,1 @@
+Walks are specifically excluded from this calculation.

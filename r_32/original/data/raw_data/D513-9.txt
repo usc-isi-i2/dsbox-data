@@ -1,0 +1,1 @@
+Compared with electromechanical disks, SSDs are typically less susceptible to physical shock, much quieter, have lower access time , and less latency .

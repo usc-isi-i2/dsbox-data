@@ -1,0 +1,1 @@
+It is a central repository of data which is created by integrating data from one or more disparate sources.

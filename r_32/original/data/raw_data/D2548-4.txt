@@ -1,0 +1,1 @@
+A simple calorimeter just consists of a thermometer attached to a metal container full of water suspended above a combustion chamber.

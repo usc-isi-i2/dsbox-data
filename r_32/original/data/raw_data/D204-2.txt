@@ -1,0 +1,1 @@
+Integers are commonly represented in a computer as a group of binary digits.

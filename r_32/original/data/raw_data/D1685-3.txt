@@ -1,0 +1,1 @@
+While PHP originally stood for Personal Home Page, it now stands for PHP: Hypertext Preprocessor, a recursive acronym .
