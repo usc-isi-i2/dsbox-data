@@ -10,7 +10,7 @@ from sklearn import metrics
 from sklearn.metrics import f1_score, make_scorer
 from sklearn import tree
 
-from dsbox.datapreprocessing.cleaner import Imputation, helper_func, encoder
+from dsbox.datapreprocessing.cleaner import Imputation, encoder
 
 # STEP 1: get data
 data_path = "../dsbox-data/o_185/original/data/"
@@ -35,8 +35,7 @@ imputer = Imputation(model=clf, scorer=scorer)
 # print imputer.best_imputation
 
 # method: regression
-imputer.fit(data, label, strategy="iteratively_regre")  # in current version, not really learned from this step. only evaluation
-data_clean = imputer.transform(data)
+data_clean = imputer.complete(data,spec_strategy="iteratively_regre")
 data_clean.to_csv("data_clean.csv", index=False)
 
 
