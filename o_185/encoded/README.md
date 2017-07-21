@@ -1,6 +1,6 @@
-...Convert *Player* column from text to integer codes.
-...Delete *Position* column: object/other category.
-...Insert columns to onehot encode *Position*.
+...Convert *Player* column from text to integer codes.  
+...Delete *Position* column: object/other category.  
+...Insert columns to onehot encode *Position*.  
 
 ```python
 from dsbox.datapreprocessing.cleaner import encoder

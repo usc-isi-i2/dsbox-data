@@ -1,5 +1,5 @@
-...Convert *QuestionFilename* column from text to integer codes.
-...Convert *SentenceFilename* column from text to integer codes.
+...Convert *QuestionFilename* column from text to integer codes.  
+...Convert *SentenceFilename* column from text to integer codes.  
 
 ```python
 from dsbox.datapreprocessing.cleaner import encoder

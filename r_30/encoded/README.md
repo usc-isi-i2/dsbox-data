@@ -1,12 +1,12 @@
-...Convert *text_fileName* column from text to integer codes.
-...Delete *text_language* column: object/other category.
-...Insert columns to onehot encode *text_language*.
-...Delete *author_gender* column: object/other category.
-...Insert columns to onehot encode *author_gender*.
-...Delete *author_language* column: object/other category.
-...Insert columns to onehot encode *author_language*.
-...Delete *author_region* column: object/other category.
-...Insert columns to onehot encode *author_region*.
+...Convert *text_fileName* column from text to integer codes.  
+...Delete *text_language* column: object/other category.  
+...Insert columns to onehot encode *text_language*.  
+...Delete *author_gender* column: object/other category.  
+...Insert columns to onehot encode *author_gender*.  
+...Delete *author_language* column: object/other category.  
+...Insert columns to onehot encode *author_language*.  
+...Delete *author_region* column: object/other category.  
+...Insert columns to onehot encode *author_region*.  
 
 ```python
 from dsbox.datapreprocessing.cleaner import encoder

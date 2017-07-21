@@ -1,5 +1,5 @@
-...Delete *radonFile* column: object/other category.
-...Insert columns to onehot encode *radonFile*.
+...Delete *radonFile* column: object/other category.  
+...Insert columns to onehot encode *radonFile*.  
 
 ```python
 from dsbox.datapreprocessing.cleaner import encoder

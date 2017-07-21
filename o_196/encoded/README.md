@@ -1,7 +1,7 @@
-...Delete *cylinders* column: integer category.
-...Insert columns to onehot encode *cylinders*.
-...Delete *origin* column: integer category.
-...Insert columns to onehot encode *origin*.
+...Delete *cylinders* column: integer category.  
+...Insert columns to onehot encode *cylinders*.  
+...Delete *origin* column: integer category.  
+...Insert columns to onehot encode *origin*.  
 
 ```python
 from dsbox.datapreprocessing.cleaner import encoder

@@ -1,10 +1,10 @@
-...Convert *MouseID* column from text to integer codes.
-...Delete *Genotype* column: object/other category.
-...Insert columns to onehot encode *Genotype*.
-...Delete *Treatment* column: object/other category.
-...Insert columns to onehot encode *Treatment*.
-...Delete *Behavior* column: object/other category.
-...Insert columns to onehot encode *Behavior*.
+...Convert *MouseID* column from text to integer codes.  
+...Delete *Genotype* column: object/other category.  
+...Insert columns to onehot encode *Genotype*.  
+...Delete *Treatment* column: object/other category.  
+...Insert columns to onehot encode *Treatment*.  
+...Delete *Behavior* column: object/other category.  
+...Insert columns to onehot encode *Behavior*.  
 
 ```python
 from dsbox.datapreprocessing.cleaner import encoder

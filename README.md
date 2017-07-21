@@ -23,4 +23,5 @@ we also provided results of our [profiler](https://github.com/usc-isi-i2/dsbox-p
 * original	--- contains original dataset
 * profiled	--- contains profiled data in JSON file
 * cleaned		--- contains cleaned data
+* encoded  --- contains encoded data
 
