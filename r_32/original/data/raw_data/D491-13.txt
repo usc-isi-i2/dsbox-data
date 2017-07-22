@@ -1,0 +1,1 @@
+electromagnets : electrical currents generate magnetic fields, and changing magnetic fields generate electrical currents

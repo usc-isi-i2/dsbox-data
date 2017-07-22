@@ -1,0 +1,1 @@
+Notable changes include the listing of search suggestions while queries are entered and a list of related searches (called "Explore pane") based on semantic technology from Powerset which Microsoft purchased in 2008.

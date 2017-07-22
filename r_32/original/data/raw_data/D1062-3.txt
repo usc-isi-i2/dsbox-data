@@ -1,0 +1,1 @@
+Cartogram representation of the Electoral College vote for the 2012 election , with each square representing one electoral vote.

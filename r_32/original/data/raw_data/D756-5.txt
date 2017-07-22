@@ -1,0 +1,1 @@
+When functions operate on the data, the functions must ensure integrity.

@@ -1,0 +1,1 @@
+Thus, an expanded definition for data warehousing includes business intelligence tools , tools to extract, transform and load data into the repository, and tools to manage and retrieve metadata .

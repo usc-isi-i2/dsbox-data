@@ -1,0 +1,1 @@
+PCI video cards replaced ISA and VESA cards, until growing bandwidth requirements outgrew the capabilities of PCI; the preferred interface for video cards became AGP , and then PCI Express.

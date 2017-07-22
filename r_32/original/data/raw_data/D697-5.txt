@@ -1,0 +1,1 @@
+Based on 2009 offensive levels, the probability of an average MLB player hitting for a cycle against an average team in a game is approximately 0.00590%; this corresponds to about 2.5 cycles in a 162-game season with 30 teams.

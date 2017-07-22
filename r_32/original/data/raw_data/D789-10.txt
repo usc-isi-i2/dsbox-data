@@ -1,0 +1,1 @@
+For example, if a report says there has been a "1% increase" from a 10% interest rate, this could refer to an increase either from 10% to 10.1% (relative, 1% of 10%), or from 10% to 11% (absolute, 1% plus 10%).

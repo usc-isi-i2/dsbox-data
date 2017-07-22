@@ -1,0 +1,1 @@
+For Eurostat purposes, the county (less the unitary district of Telford and Wrekin ) is a NUTS 3 region (code UKG22).

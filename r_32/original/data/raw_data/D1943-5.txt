@@ -1,0 +1,1 @@
+For example, the function is often described as a function from the real numbers to the real numbers, meaning that the codomain is R, but its image is the set of non-negative real numbers.

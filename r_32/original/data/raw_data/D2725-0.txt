@@ -1,0 +1,1 @@
+HijackThis (also HiJackThis or HJT) is an open source enumerating tool for Microsoft Windows originally created by Merijn Bellekom, and later sold to Trend Micro .

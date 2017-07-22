@@ -1,0 +1,1 @@
+PowerShell provides full access to COM and WMI , enabling administrators to perform administrative tasks on both local and remote Windows systems.

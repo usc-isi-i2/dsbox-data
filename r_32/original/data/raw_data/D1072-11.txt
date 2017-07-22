@@ -1,0 +1,1 @@
+iOS is derived from OS X , with which it shares the Darwin foundation.

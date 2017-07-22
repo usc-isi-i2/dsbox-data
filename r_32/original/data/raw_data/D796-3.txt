@@ -1,0 +1,1 @@
+Pagers operate as part of a paging system which includes one or more fixed transmitters (or in the case of response pagers and two-way pagers, one or more base stations ), as well as a number of pagers carried by mobile users.

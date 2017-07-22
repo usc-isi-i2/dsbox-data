@@ -1,0 +1,1 @@
+Since the basis is usually small, these are quoted multiplied up by 10000, and hence a "full point" movement in the "basis" is a basis point.

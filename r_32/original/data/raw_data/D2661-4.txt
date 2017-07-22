@@ -1,0 +1,1 @@
+Some defragmentation utilities try to keep smaller files within a single directory together, as they are often accessed in sequence.

@@ -1,0 +1,1 @@
+Although flash-memory capacity is usually measured in megabits (Mb), memory-card capacity is usually measured in megabytes (MB) (where 8 Mb is 1 MB).

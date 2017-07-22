@@ -1,0 +1,1 @@
+Such devices may employ separate power sources, such as batteries, to maintain data after power loss.

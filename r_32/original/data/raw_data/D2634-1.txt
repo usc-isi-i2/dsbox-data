@@ -1,0 +1,1 @@
+Note that the notes do not come in spelling order but are all adjacent (not separated by other notes).

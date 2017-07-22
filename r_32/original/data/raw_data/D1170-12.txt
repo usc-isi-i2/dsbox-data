@@ -1,0 +1,1 @@
+A data warehouse constructed from an integrated data source systems does not require ETL, staging databases, or operational data store databases.

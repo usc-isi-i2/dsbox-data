@@ -1,0 +1,1 @@
+This animation uses Earth science data from a variety of sensors on NASA Earth observing satellites to measure physical oceanography parameters such as ocean currents, ocean winds, sea surface height and sea surface temperature.

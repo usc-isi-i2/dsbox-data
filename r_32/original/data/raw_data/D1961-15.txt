@@ -1,0 +1,1 @@
+Latent heat produces changes of state without temperature change, while sensible heat produces temperature change.

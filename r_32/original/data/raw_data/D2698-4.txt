@@ -1,0 +1,1 @@
+The X9000 storage systems are designed to provide network-attached storage over both standard protocols ( CIFS , NFS , HTTP and NDMP ) as well as a proprietary protocol.

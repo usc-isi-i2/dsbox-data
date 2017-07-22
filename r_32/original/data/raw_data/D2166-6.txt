@@ -1,0 +1,1 @@
+For K < 17, an efficient design of experiments exists for this type of model, a Box–Behnken design , augmented with positive and negative axial points of length min(2, (int(1.5 + K/4))1/2), plus point(s) at the origin. There are more efficient designs, requiring fewer runs, even for K > 16.

@@ -1,0 +1,1 @@
+Signals help a reader quickly discern meaning or usefulness of a particular reference when the reference itself does not provide adequate information.

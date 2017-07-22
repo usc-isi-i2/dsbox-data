@@ -1,0 +1,1 @@
+Each shell consists of one or more subshells, and each subshell consists of one or more atomic orbitals .

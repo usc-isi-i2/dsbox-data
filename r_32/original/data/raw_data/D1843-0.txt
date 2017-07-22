@@ -1,0 +1,1 @@
+Knuckle mnemonic for the number of days in each month of the Gregorian Calendar .

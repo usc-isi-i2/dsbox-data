@@ -1,0 +1,1 @@
+It adapted the format to hold any form of data.

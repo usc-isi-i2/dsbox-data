@@ -1,0 +1,1 @@
+A duplexing automatic document feeder or DADF scans both sides in one pass.

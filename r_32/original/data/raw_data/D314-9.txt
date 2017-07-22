@@ -1,0 +1,1 @@
+As well as identifying direct evidence of a crime, digital forensics can be used to attribute evidence to specific suspects, confirm alibis or statements, determine intent , identify sources (for example, in copyright cases), or authenticate documents.

@@ -1,0 +1,1 @@
+All the signal power on port H is transferred to port S and vice versa.

@@ -1,0 +1,1 @@
+A LUN may be used with any device which supports read/write operations, such as a tape drive , but is most often used to refer to a logical disk as created on a SAN .

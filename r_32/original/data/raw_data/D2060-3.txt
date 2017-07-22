@@ -1,0 +1,1 @@
+A full telephone number is usually made up of country code (required for international calls only), area code (required for calls between telephone areas), prefix, and subscriber number.

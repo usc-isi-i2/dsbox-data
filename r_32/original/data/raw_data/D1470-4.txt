@@ -1,0 +1,1 @@
+Conventionally, the name of the root note denotes the chord.

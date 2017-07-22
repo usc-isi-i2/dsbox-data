@@ -1,0 +1,1 @@
+Unlike a bar code , the tag does not necessarily need to be within line of sight of the reader, and may be embedded in the tracked object.

@@ -1,0 +1,1 @@
+For a typical project, a milestone might be the completion of a product design while the deliverable might be the technical diagram of the product.

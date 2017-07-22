@@ -1,0 +1,1 @@
+Accuracy indicates proximity of measurement results to the true value, precision to the repeatability, or reproducibility of the measurement

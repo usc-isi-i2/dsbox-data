@@ -1,0 +1,1 @@
+SCSI Host Bus Adapter ( 16-bit ISA card)

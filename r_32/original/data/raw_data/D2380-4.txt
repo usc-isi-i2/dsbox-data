@@ -1,0 +1,1 @@
+A multi card reader is used for communication with more than one type of flash memory card .

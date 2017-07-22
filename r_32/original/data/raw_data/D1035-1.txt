@@ -1,0 +1,1 @@
+Plate motion based on Global Positioning System (GPS) satellite data from NASA JPL .

@@ -1,0 +1,1 @@
+Shuttle components included the Orbiter Vehicle (OV), a pair of recoverable Solid Rocket Boosters (SRB), and an expendable External Tank (ET) containing liquid hydrogen and liquid oxygen .

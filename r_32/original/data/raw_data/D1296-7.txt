@@ -1,0 +1,1 @@
+RAID levels greater than RAID 0 provide protection against unrecoverable (sector) read errors, as well as whole disk failure.

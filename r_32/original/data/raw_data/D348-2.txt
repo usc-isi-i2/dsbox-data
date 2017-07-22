@@ -1,0 +1,1 @@
+The cut command removes the selected data from its original position, while the copy command creates a duplicate; in both cases the selected data is placed in a clipboard .

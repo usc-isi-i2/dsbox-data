@@ -1,0 +1,1 @@
+Selenium requirements in plants differ by species, with some plants requiring relatively large amounts, and others apparently requiring none.

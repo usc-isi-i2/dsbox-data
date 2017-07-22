@@ -1,0 +1,1 @@
+Neither of those effects are considered by the ideal gas model.

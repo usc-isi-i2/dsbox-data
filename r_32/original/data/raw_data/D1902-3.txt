@@ -1,0 +1,1 @@
+Many computer systems also allow these operations to be initiated by a software command without cycling power, in what is known as a soft reboot , though some of the initial operations might be skipped on a soft reboot.

@@ -1,0 +1,1 @@
+Modems can alternatively be classified by their symbol rate , measured in baud .

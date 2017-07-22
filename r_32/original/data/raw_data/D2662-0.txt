@@ -1,0 +1,1 @@
+A service-level agreement (SLA) is a part of a service contract where a service is formally defined.

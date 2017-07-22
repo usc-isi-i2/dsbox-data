@@ -1,0 +1,1 @@
+Software can often adjust computer clocks automatically, but this can be limited and error-prone, particularly when DST dates are changed.

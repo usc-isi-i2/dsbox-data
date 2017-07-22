@@ -1,0 +1,1 @@
+An index (plural: indexes) is a list of words or phrases ('headings') and associated pointers ('locators') to where useful material relating to that heading can be found in a document.

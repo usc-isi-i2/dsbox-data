@@ -1,0 +1,1 @@
+Many SSDs use I/O interfaces developed for hard disk drives, thus permitting simple replacement in common applications.

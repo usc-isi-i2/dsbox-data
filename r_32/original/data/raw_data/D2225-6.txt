@@ -1,0 +1,1 @@
+In some styleguides, but not others, the euro sign is unspaced.

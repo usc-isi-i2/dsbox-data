@@ -1,0 +1,1 @@
+Some vendors produced SDSC cards above 1 GB before the SDA had standardized a method of doing so.

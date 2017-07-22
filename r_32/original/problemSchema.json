@@ -1,0 +1,19 @@
+{
+    "problemId": "r_32_problem",
+    "redacted": true,
+    "descriptionFile": "problemDescription.txt",
+    "taskType": "classification",
+    "taskSubType": "binaryClassification",
+    "datasets": [
+        "r_32_dataset"
+    ],
+    "target": {
+        "field": "Label",
+        "classes": [
+            0,
+            1
+        ]
+    },
+    "metric": "F1",
+    "outputType": "classLabel"
+}

@@ -1,0 +1,1 @@
+It scans a user's computer quickly, and displays browser hijacking locations, showing what entries are there.

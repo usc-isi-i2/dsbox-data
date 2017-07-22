@@ -1,0 +1,1 @@
+Typical PCI cards used in PCs include: network cards , sound cards , modems , extra ports such as USB or serial , TV tuner cards and disk controllers .

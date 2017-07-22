@@ -1,0 +1,1 @@
+The 1394 standard also defines a backplane interface, though this is not as widely used.

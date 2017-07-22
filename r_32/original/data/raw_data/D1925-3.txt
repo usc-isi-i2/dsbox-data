@@ -1,0 +1,1 @@
+Mortality rate is typically expressed in units of deaths per 1000 individuals per year; thus, a mortality rate of 9.5 (out of 1000) in a population of 1,000 would mean 9.5 deaths per year in that entire population, or 0.95% out of the total.

@@ -1,0 +1,1 @@
+It is part of the eCLipz project, said to have a goal of converging IBM's server hardware where practical (hence "ipz" in the acronym: iSeries , pSeries , and zSeries ).

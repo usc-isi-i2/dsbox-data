@@ -1,0 +1,1 @@
+When only a sample of data from a population is available, the standard deviation of the population can be estimated by a modified quantity called the "sample standard deviation".

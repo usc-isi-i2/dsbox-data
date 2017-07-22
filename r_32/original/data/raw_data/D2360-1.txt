@@ -1,0 +1,1 @@
+I2C (referred to as I-squared-C, inter-IC or I-two-C) is a multimaster serial single-ended computer bus invented by Philips used for attaching low-speed peripherals to a motherboard , embedded system , cellphone , or other electronic device.

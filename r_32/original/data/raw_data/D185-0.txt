@@ -1,0 +1,1 @@
+In computer networking , a port is an application-specific or process-specific software construct serving as a communications endpoint in a computer's host operating system.

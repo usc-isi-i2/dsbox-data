@@ -1,0 +1,1 @@
+In the deduplication process, unique chunks of data, or byte patterns, are identified and stored during a process of analysis.

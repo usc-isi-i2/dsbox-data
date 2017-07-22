@@ -1,0 +1,1 @@
+Hybrid drives or solid state hybrid drives (SSHD) combine the features of SSDs and HDDs in the same unit, containing a large hard disk drive and an SSD cache to improve performance of frequently accessed data.

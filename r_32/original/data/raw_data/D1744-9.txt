@@ -1,0 +1,1 @@
+It is the last of the five major web browsers to implement support for Scalable Vector Graphics (SVG) .

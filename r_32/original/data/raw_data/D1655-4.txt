@@ -1,0 +1,1 @@
+Add-ons for Firefox (addons.mozilla.org), the official Mozilla Foundation web site which serves as a repository of add-ons for Mozilla-based applications

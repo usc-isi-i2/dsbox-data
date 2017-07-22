@@ -1,0 +1,1 @@
+Paying Points represent a calculated gamble on the part of the buyer.

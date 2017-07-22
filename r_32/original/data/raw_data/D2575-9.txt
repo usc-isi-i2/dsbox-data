@@ -1,0 +1,1 @@
+Adding mobile ions to an OLED creates a light-emitting electrochemical cell or LEC, which has a slightly different mode of operation.

@@ -1,0 +1,1 @@
+Some kinds of memory cards with their own USB functions do not need the card reader, such as the Intelligent Stick memory card, which can plug directly into a USB slot.

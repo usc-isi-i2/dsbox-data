@@ -1,0 +1,1 @@
+However, fees are still required to obtain I2C slave addresses allocated by NXP.

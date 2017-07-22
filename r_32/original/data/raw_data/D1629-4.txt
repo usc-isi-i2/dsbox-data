@@ -1,0 +1,1 @@
+These work by accessing data in different data stores, like the filesystem or registry , which are made available to the PowerShell runtime via Windows PowerShell providers.

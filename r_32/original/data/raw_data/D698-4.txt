@@ -1,0 +1,1 @@
+The task list was capable of listing currently running processes and killing them, or creating a new process.

@@ -1,0 +1,1 @@
+A medical/clinical thermometer showing the temperature of 38.7 °C

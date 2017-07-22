@@ -1,0 +1,1 @@
+In case of a shared physical medium, the packets may be delivered according to some packet-mode multiple access scheme.

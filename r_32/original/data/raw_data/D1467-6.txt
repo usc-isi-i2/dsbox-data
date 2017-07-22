@@ -1,0 +1,1 @@
+Important features such as rollback and versioning depend on a consistent internal database for reliable operation.

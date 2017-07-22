@@ -1,0 +1,1 @@
+A three-phase system is usually more economical than an equivalent single-phase or two-phase system at the same voltage because it uses less conductor material to transmit electrical power.

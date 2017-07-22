@@ -1,0 +1,1 @@
+A third gameplay mode named hardcore is the same as survival, differing only in difficulty; it is set to hardest setting and respawning is disabled, forcing players to delete their worlds upon death.

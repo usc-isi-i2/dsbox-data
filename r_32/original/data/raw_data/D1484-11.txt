@@ -1,0 +1,1 @@
+The vast majority of modern day tubes consist of a sealed container with a vacuum inside, and essentially rely on thermionic emission of electrons from a hot filament or a cathode heated by the filament.

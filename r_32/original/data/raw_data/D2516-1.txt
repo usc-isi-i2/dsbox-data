@@ -1,0 +1,1 @@
+An invoice indicates the sale transaction only.

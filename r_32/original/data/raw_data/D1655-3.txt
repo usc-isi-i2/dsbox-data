@@ -1,0 +1,1 @@
+Add-on (Mozilla) , a piece of software that enhances and customizes Mozilla-based applications

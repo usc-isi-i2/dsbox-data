@@ -1,0 +1,1 @@
+Note, however, that for measurements with percentage as unit, the standard deviation will have percentage points as unit.

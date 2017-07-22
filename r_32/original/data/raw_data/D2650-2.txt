@@ -1,0 +1,1 @@
+The goal is to produce a signal that can be transmitted easily and decoded to reproduce the original digital data.

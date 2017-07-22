@@ -1,0 +1,1 @@
+With over 7,000 earthquakes around the world each year with a magnitude of 4.0 or greater, trivial success in earthquake prediction is easily obtained using sufficiently broad parameters of time, location, or magnitude.

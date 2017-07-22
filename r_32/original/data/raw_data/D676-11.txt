@@ -1,0 +1,1 @@
+Domain names are usually written in lowercase, although labels in the Domain Name System are case-insensitive .

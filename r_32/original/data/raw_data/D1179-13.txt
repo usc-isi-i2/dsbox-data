@@ -1,0 +1,1 @@
+All neurons are electrically excitable, maintaining voltage gradients across their membranes by means of metabolically driven ion pumps , which combine with ion channels embedded in the membrane to generate intracellular-versus-extracellular concentration differences of ions such as sodium , potassium , chloride , and calcium .

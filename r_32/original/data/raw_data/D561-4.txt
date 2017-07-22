@@ -1,0 +1,1 @@
+Peripheral devices allow information to be retrieved from an external source, and the result of operations saved and retrieved.

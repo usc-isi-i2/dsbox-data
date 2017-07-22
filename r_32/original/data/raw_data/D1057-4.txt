@@ -1,0 +1,1 @@
+The player interacts with the game by performing actions highlighted on screen related to motions on the controller, and in some cases, performing a series of quick time events during fast-paced action sequences.

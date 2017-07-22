@@ -1,0 +1,1 @@
+In contrast, parallel ATA (the redesignation for the legacy ATA specifications) used a 16-bit wide data bus with many additional support and control signals, all operating at much lower frequency.

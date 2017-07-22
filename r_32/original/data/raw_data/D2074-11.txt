@@ -1,0 +1,1 @@
+Some functions may be defined by a formula or algorithm that tells how to compute the output for a given input.

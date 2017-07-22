@@ -1,0 +1,1 @@
+Alternatively, the packets may be forwarded according to some scheduling discipline for fair queuing , traffic shaping or for differentiated or guaranteed quality of service , such as weighted fair queuing or leaky bucket .

@@ -1,0 +1,1 @@
+The MISSE project evaluates the performance, stability, and long-term survivability of materials and components planned for use by NASA, commercial companies and the Department of Defense (DOD) on future low Earth orbit (LEO), synchronous orbit and interplanetary space missions.

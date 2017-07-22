@@ -1,0 +1,1 @@
+Predictions must also be reliable, as false alarms and cancelled alarms are not only economically costly, but seriously undermine confidence in, and thereby the effectiveness of, any kind of warning.

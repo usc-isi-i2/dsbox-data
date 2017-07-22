@@ -1,0 +1,50 @@
+{
+    "datasetId": "r_32_dataset",
+    "redacted": true,
+    "descriptionFile": "dataDescription.txt",
+    "rawData": true,
+    "rawDataFileTypes": {
+        ".txt": "text/plain"
+    },
+    "trainData": {
+        "numSamples": 23366,
+        "trainData": [
+            {
+                "varName": "d3mIndex",
+                "varDescription": "",
+                "varType": "integer",
+                "varRole": "index"
+            },
+            {
+                "varName": "QuestionFilename",
+                "varDescription": "",
+                "varType": "text",
+                "varRole": "file"
+            },
+            {
+                "varName": "SentenceFilename",
+                "varDescription": "",
+                "varType": "text",
+                "varRole": "file"
+            }
+        ],
+        "trainTargets": [
+            {
+                "varName": "d3mIndex",
+                "varDescription": "",
+                "varType": "integer",
+                "varRole": "index"
+            },
+            {
+                "varName": "Label",
+                "varDescription": "",
+                "varType": "categorical",
+                "varRole": "target"
+            }
+        ]
+    },
+    "testData": {
+        "numSamples": 5842
+    },
+    "testDataSchemaMirrorsTrainDataSchema": true
+}

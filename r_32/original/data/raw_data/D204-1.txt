@@ -1,0 +1,1 @@
+Integral data types may be of different sizes and may or may not be allowed to contain negative values.

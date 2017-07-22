@@ -1,0 +1,1 @@
+Since the mid-1990s, several competitors (e.g., Siemens AG (later Infineon Technologies AG, now Intel mobile communications), NEC, Texas Instruments, STMicroelectronics (formerly SGS-Thomson), Motorola (later Freescale), Intersil, etc.) brought I2C products on the market, which are fully compatible with the NXP (formerly Philips' semiconductor division) I2C-system.

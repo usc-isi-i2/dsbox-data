@@ -1,0 +1,1 @@
+Other books say that the range is the function's image, the set of non-negative real numbers, reflecting that a number can be the output of this function if and only if it is a non-negative real number.

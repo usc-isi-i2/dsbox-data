@@ -1,0 +1,1 @@
+Both IA-32 and x64 builds are available.

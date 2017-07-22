@@ -1,0 +1,1 @@
+A diplexer multiplexes two ports onto one port, but more than two ports may be multiplexed: a three-port to one-port multiplexer is known as a triplexer.

@@ -1,0 +1,1 @@
+DEP was introduced on Linux in 2004 (kernel 2.6.8), on Windows in 2004 with Windows XP Service Pack 2, while Apple introduced DEP when they moved to x86 in 2006.

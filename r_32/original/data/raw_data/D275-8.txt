@@ -1,0 +1,1 @@
+Host devices that comply with newer versions of the specification provide backward compatibility and accept older SD cards, but this article explains several factors that can prevent the use of a newer SD card:

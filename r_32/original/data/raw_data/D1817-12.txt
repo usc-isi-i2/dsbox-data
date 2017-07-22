@@ -1,0 +1,1 @@
+In the case of full reproducibility, such as when rounding a number to a representable floating point number, the word precision has a meaning not related to reproducibility.

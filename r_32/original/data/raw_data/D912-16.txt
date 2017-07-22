@@ -1,0 +1,1 @@
+ITU-T recommendation E.123 describes how to represent an international telephone number in writing or print, starting with a plus sign ("+") and the country code.

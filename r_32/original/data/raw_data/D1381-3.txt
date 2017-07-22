@@ -1,0 +1,1 @@
+Many states share a common system of license classes, with some exceptions, and commercial license classes are standardized by federal regulation at 49 CFR part 383.

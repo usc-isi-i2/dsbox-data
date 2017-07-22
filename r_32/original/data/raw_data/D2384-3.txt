@@ -1,0 +1,1 @@
+When traversing network adapters, switches, routers and other network nodes , packets are buffered and queued, resulting in variable delay and throughput depending on the traffic load in the network.

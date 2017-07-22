@@ -1,0 +1,1 @@
+Others may permit access without enforcing access control.

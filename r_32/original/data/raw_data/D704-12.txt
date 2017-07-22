@@ -1,0 +1,1 @@
+The diplexer, being a passive device, is reciprocal: the device itself doesn't have a notion of input or output.

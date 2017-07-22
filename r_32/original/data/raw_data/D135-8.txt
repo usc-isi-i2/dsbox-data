@@ -1,0 +1,1 @@
+These include strato- for low clouds with limited convection that form mostly in uneven layers, cumulo- for complex highly-convective storm clouds, nimbo- for thick layered clouds of some complexity that can produce moderate to heavy precipitation, alto- for middle clouds, and cirro- for high clouds; the latter two of which may be of simple or moderately complex structure.

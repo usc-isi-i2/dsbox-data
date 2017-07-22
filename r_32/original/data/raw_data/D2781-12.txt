@@ -1,0 +1,1 @@
+Variants are available for each of these to include or exclude optional capabilities.

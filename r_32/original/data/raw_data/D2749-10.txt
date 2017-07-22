@@ -1,0 +1,1 @@
+North corresponds to zero degrees, and the angles increase clockwise, so east is 90 degrees, south is 180, and west is 270.

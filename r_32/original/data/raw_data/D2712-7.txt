@@ -1,0 +1,1 @@
+The term OpenID may also refer to an identifier as specified in the OpenID standard; these identifiers take the form of a unique URI , and are managed by some 'OpenID provider' that handles authentication.

@@ -1,0 +1,1 @@
+A direction may be a simple compass bearing, or a precise orientation determined by accurate survey methods.

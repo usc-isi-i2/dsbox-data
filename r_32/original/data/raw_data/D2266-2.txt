@@ -1,0 +1,1 @@
+Block Codes are conceptually useful because they allow coding theorists, mathematicians , and computer scientists to study the limitations of all block codes in a unified way.

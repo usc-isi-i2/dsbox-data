@@ -1,0 +1,1 @@
+Typically, the data rate for DVD movies ranges from 3 Mbit/s to 9.5 Mbit/s, and the bit rate is usually adaptive.

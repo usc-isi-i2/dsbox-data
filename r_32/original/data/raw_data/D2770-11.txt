@@ -1,0 +1,1 @@
+Thermal comfort calculations according to ANSI/ASHRAE Standard 55 can be freely performed with the CBE Thermal Comfort Tool for ASHRAE-55 .

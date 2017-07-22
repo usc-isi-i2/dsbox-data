@@ -1,0 +1,1 @@
+Also, its altitude for a given place is fixed and its value is given by the following formula: A = 90-Ø.

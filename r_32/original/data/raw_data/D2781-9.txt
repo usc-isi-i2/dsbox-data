@@ -1,0 +1,1 @@
+The reduced complexity and simpler design allows companies to build a low-energy system on a chip for an embedded system incorporating memory, interfaces, radios, etc.

@@ -1,0 +1,1 @@
+In principle, thermometers made of different material (e.g., coloured alcohol) might be expected to give different intermediate readings due to different expansion properties; in practice the substances used are chosen to have reasonably linear expansion characteristics as a function of true thermodynamic temperature , and so give similar results.

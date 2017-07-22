@@ -1,0 +1,1 @@
+The property of having one output for each input is represented geometrically by the fact that each vertical line (such as the yellow line through the origin) has exactly one crossing point with the curve.

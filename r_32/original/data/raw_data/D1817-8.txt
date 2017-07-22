@@ -1,0 +1,1 @@
+A measurement system is designated valid if it is both accurate and precise.

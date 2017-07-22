@@ -1,0 +1,1 @@
+A Vigilant VM-1 fire alarm control unit (FACU) / autonomous control unit (ACU) with integrated voice evacuation and fire fighter telephone system.

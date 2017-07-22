@@ -1,0 +1,1 @@
+Most stereoscopic methods present two offset images separately to the left and right eye of the viewer.

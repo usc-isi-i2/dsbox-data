@@ -1,0 +1,1 @@
+A voltage applied to the grid controls the current flowing from the filament to the plate.

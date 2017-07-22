@@ -1,0 +1,1 @@
+The usage calls attention to the requirement that, if most software is loaded onto a computer by other software already running on the computer, some mechanism must exist to load initial software onto the computer.

@@ -1,0 +1,1 @@
+Another way to make segmentation difficult is to crowd symbols together, as in Yahoo!'s current CAPTCHA format.

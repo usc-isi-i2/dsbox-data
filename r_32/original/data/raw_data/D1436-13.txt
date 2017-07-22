@@ -1,0 +1,1 @@
+The symbols of units are written in lowercase (e.g. metre has the symbol m), except that symbols for units named after persons are written with an initial capital letter (e.g., the hertz has the uppercase symbol Hz).

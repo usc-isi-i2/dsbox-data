@@ -1,0 +1,1 @@
+In computing , data integrity refers to maintaining and assuring the accuracy and consistency of data over its entire life-cycle , and is an important feature of a database or RDBMS system.

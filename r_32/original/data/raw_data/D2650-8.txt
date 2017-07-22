@@ -1,0 +1,1 @@
+The baud unit denotes symbols per second, or the number of times per second the modem sends a new signal.

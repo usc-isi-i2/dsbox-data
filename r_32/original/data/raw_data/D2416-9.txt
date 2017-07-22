@@ -1,0 +1,1 @@
+Originally, the runtimes were only installed by games or explicitly by the user.

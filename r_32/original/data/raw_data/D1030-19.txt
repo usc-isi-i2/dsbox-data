@@ -1,0 +1,1 @@
+Performance of a device meant to use a silver-oxide battery may be degraded with substitution of LR44 types.

@@ -1,0 +1,1 @@
+In iOS, there are four abstraction layers : the Core OS layer, the Core Services layer, the Media layer, and the Cocoa Touch layer.

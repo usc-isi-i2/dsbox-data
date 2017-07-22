@@ -1,0 +1,1 @@
+Strictly speaking, a storage device is not necessary for DS with FlashMe installed because homebrew can be sent to the DS using WMB .

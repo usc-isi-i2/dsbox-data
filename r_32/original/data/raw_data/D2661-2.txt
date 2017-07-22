@@ -1,0 +1,1 @@
+It does this by physically organizing the contents of the mass storage device used to store files into the smallest number of contiguous regions (fragments).

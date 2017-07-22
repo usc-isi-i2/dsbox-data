@@ -1,0 +1,9 @@
+ in his retelling of fairy tales in the Scots language.	0
+Q708	what does leeroy jenkins mean	D690	Leeroy Jenkins	D690-0	Ben Schulz, player of Leeroy Jenkins at BlizzCon 2007	0
+Q708	what does leeroy jenkins mean	D690	Leeroy Jenkins	D690-1	Leeroy Jenkins, sometimes misspelled Leroy Jenkins and often elongated with numerous additional letters, is an Internet meme named for a player character created by Ben Schulz in Blizzard Entertainment 's MMORPG , World of Warcraft .	1
+Q708	what does leeroy jenkins mean	D690	Leeroy Jenkins	D690-2	The character became popular due to a video of the game that circulated around the Internet .	0
+Q708	what does leeroy jenkins mean	D690	Leeroy Jenkins	D690-3	The phenomenon has since spread beyond the boundaries of the gaming community into other online and mainstream media .	0
+Q709	what happened to the officer in bart shooting	D691	BART Police shooting of Oscar Grant	D691-0	Oscar Grant was fatally shot by BART police officer Johannes Mehserle in Oakland, California , United States, in the early morning hours of New Year's Day 2009.	0
+Q709	what happened to the officer in bart shooting	D691	BART Police shooting of Oscar Grant	D691-1	Responding to reports of a fight on a crowded Bay Area Rapid Transit train returning from San Francisco , BART Police officers detained Oscar Grant and several other passengers on the platform at the Fruitvale BART Station .	0
+Q709	what happened to the officer in bart shooting	D691	BART Police shooting of Oscar Grant	D691-2	Officer Johannes Mehserle and another officer were restraining Grant, who was prostrate and allegedly resisting arrest.	0
+Q709	what happened to the officer in bart shooting	D691	BART Police shooting of Oscar Grant	D691-3	Officer Mehserle stood and, according to witnesses, said: Get back, I'm gonna tase him."

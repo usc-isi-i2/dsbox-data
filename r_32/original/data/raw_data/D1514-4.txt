@@ -1,0 +1,1 @@
+Located in the C:\Windows directory, it is sometimes referred to as the Windows shell , explorer.exe, or simply “Explorer”.

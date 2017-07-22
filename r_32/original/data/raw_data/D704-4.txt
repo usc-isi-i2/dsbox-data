@@ -1,0 +1,1 @@
+Typically, the signal on port L will occupy a single low frequency band and the signal on port H will occupy a higher frequency band.

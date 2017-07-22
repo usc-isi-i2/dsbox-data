@@ -1,0 +1,1 @@
+Not all computational systems rely on a central processing unit.

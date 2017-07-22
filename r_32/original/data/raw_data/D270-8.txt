@@ -1,0 +1,1 @@
+a variable length (up to 12 digits) individual account identifier,

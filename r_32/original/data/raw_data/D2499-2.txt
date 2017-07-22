@@ -1,0 +1,1 @@
+DLA is not compatible with Windows Vista and newer, although a patch exists to fix this issue under Windows Vista.

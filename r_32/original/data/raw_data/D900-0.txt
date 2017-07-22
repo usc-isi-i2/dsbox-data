@@ -1,0 +1,1 @@
+Simple gravity pendulum model assumes no friction or air resistance.

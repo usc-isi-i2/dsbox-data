@@ -1,0 +1,1 @@
+Some card issuers refers to the card number as the primary account number or PAN.

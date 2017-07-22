@@ -1,0 +1,1 @@
+In ultrasonic testing (UT), very short ultrasonic pulse-waves with center frequencies ranging from 0.1-15 MHz and occasionally up to 50 MHz are launched into materials to detect internal flaws or to characterize materials.

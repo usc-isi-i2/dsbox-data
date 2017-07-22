@@ -1,0 +1,1 @@
+Windows Phones can be configured to operate as a camera even if the phone is asleep.

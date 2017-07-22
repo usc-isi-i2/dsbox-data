@@ -1,0 +1,1 @@
+The CMP provides a rough check of kidney function, liver function, and electrolyte and fluid balance , but it is far from perfect.

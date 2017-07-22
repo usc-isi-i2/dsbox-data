@@ -1,0 +1,1 @@
+Animated, color-coded map showing the various continents and regions.

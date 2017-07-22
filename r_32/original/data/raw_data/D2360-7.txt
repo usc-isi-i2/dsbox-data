@@ -1,0 +1,1 @@
+One purpose of SMBus is to promote robustness and interoperability.

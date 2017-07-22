@@ -1,0 +1,1 @@
+Multiple web servers may be used for a high traffic website, here four Sun Fire X4200 servers are installed together

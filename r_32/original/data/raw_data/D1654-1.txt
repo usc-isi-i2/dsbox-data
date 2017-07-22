@@ -1,0 +1,1 @@
+The precise length of the trail changes over time as trails are modified or added.

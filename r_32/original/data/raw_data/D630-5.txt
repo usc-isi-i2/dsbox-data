@@ -1,0 +1,1 @@
+Document feeders are described by speed, in pages per minute or ppm, and capacity, usually in a range from 10 sheets to 200.

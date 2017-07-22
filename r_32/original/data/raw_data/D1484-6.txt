@@ -1,0 +1,1 @@
+As the current only flows in one direction, it makes it possible to convert an alternating current applied to the filament to direct current .

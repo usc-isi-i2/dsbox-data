@@ -1,0 +1,1 @@
+PHP can be deployed on most web servers and also as a standalone shell on almost every operating system and platform , free of charge.

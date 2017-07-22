@@ -1,0 +1,1 @@
+The variable involved is temperature unless specified otherwise.

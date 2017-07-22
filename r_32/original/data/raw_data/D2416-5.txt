@@ -1,0 +1,1 @@
+Direct3D (the 3D graphics API within DirectX) is widely used in the development of video games for Microsoft Windows , Microsoft Xbox , Microsoft Xbox 360 and some Sega Dreamcast games.

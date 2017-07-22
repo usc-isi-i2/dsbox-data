@@ -1,0 +1,1 @@
+Though not technically correct, the term "LUN" is often also used to refer to the logical disk itself.

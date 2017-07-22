@@ -1,0 +1,1 @@
+The use of credit or identity scoring prior to authorizing access or granting credit is an implementation of a trusted system .
