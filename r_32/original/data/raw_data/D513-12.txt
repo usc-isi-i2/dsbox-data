@@ -1,1 +1,0 @@
-, most SSDs use NAND-based flash memory , which retains data without power .

@@ -1,1 +1,0 @@
-A PowerShell scripting interface for Windows products is mandated by the Common Engineering Criteria.

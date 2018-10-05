@@ -1,1 +1,0 @@
-Braces can be either cosmetic or structural.

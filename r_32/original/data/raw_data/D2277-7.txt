@@ -1,1 +1,0 @@
-The nautical mile is nearly equal to a minute of latitude on a chart, so a distance measured with a chart divider can be roughly converted to nautical miles using the chart's latitude scale.

@@ -1,1 +1,0 @@
-Defragmentation is advantageous and relevant to file systems on electromechanical disk drives .

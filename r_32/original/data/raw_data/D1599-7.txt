@@ -1,1 +1,0 @@
-Lens design has been tailored to the requirements of digital sensors, most notably through telecentric designs.

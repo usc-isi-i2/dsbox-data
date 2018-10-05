@@ -1,0 +1,1063 @@
+[
+  {
+    "selector": [],
+    "metadata": {
+      "structural_type": "d3m.container.pandas.DataFrame",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/Table"
+      ],
+      "dimension": {
+        "name": "rows",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularRow"
+        ],
+        "length": 1340
+      },
+      "schema": "https://metadata.datadrivendiscovery.org/schemas/v0/container.json"
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__"
+    ],
+    "metadata": {
+      "dimension": {
+        "name": "columns",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularColumn"
+        ],
+        "length": 17
+      }
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      0
+    ],
+    "metadata": {
+      "name": "Player",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/Attribute",
+        "http://schema.org/Text"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "ELMER_SMITH",
+          "count": 2
+        },
+        {
+          "name": "AARON_WARD",
+          "count": 1
+        },
+        {
+          "name": "ABNER_DALRYMPLE",
+          "count": 1
+        },
+        {
+          "name": "ADAM_COMOROSKY",
+          "count": 1
+        },
+        {
+          "name": "ALAN_ASHBY",
+          "count": 1
+        },
+        {
+          "name": "ALAN_BANNISTER",
+          "count": 1
+        },
+        {
+          "name": "ALEX_GRAMMAS",
+          "count": 1
+        },
+        {
+          "name": "ALEX_JOHNSON",
+          "count": 1
+        },
+        {
+          "name": "ALEX_TREVINO",
+          "count": 1
+        },
+        {
+          "name": "ALVIN_DARK",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      1
+    ],
+    "metadata": {
+      "name": "Number_seasons",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 13,
+      "most_common_tokens": [
+        {
+          "name": "10",
+          "count": 243
+        },
+        {
+          "name": "11",
+          "count": 211
+        },
+        {
+          "name": "12",
+          "count": 183
+        },
+        {
+          "name": "13",
+          "count": 156
+        },
+        {
+          "name": "15",
+          "count": 111
+        },
+        {
+          "name": "14",
+          "count": 109
+        },
+        {
+          "name": "17",
+          "count": 84
+        },
+        {
+          "name": "16",
+          "count": 80
+        },
+        {
+          "name": "18",
+          "count": 59
+        },
+        {
+          "name": "19",
+          "count": 40
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1340,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1340,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      2
+    ],
+    "metadata": {
+      "name": "Games_played",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 8,
+      "most_common_tokens": [
+        {
+          "name": "1010",
+          "count": 4
+        },
+        {
+          "name": "1035",
+          "count": 4
+        },
+        {
+          "name": "1288",
+          "count": 4
+        },
+        {
+          "name": "1392",
+          "count": 4
+        },
+        {
+          "name": "1421",
+          "count": 4
+        },
+        {
+          "name": "1435",
+          "count": 4
+        },
+        {
+          "name": "1806",
+          "count": 4
+        },
+        {
+          "name": "1853",
+          "count": 4
+        },
+        {
+          "name": "730",
+          "count": 4
+        },
+        {
+          "name": "813",
+          "count": 4
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1340,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1340,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      3
+    ],
+    "metadata": {
+      "name": "At_bats",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 6,
+      "most_common_tokens": [
+        {
+          "name": "1963",
+          "count": 3
+        },
+        {
+          "name": "2877",
+          "count": 3
+        },
+        {
+          "name": "4019",
+          "count": 3
+        },
+        {
+          "name": "4101",
+          "count": 3
+        },
+        {
+          "name": "4255",
+          "count": 3
+        },
+        {
+          "name": "4553",
+          "count": 3
+        },
+        {
+          "name": "4992",
+          "count": 3
+        },
+        {
+          "name": "1004",
+          "count": 2
+        },
+        {
+          "name": "1125",
+          "count": 2
+        },
+        {
+          "name": "1391",
+          "count": 2
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1340,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1340,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      4
+    ],
+    "metadata": {
+      "name": "Runs",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 14,
+      "most_common_tokens": [
+        {
+          "name": "331",
+          "count": 6
+        },
+        {
+          "name": "357",
+          "count": 6
+        },
+        {
+          "name": "146",
+          "count": 5
+        },
+        {
+          "name": "163",
+          "count": 5
+        },
+        {
+          "name": "237",
+          "count": 5
+        },
+        {
+          "name": "245",
+          "count": 5
+        },
+        {
+          "name": "552",
+          "count": 5
+        },
+        {
+          "name": "562",
+          "count": 5
+        },
+        {
+          "name": "598",
+          "count": 5
+        },
+        {
+          "name": "643",
+          "count": 5
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1340,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1340,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      5
+    ],
+    "metadata": {
+      "name": "Hits",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 10,
+      "most_common_tokens": [
+        {
+          "name": "972",
+          "count": 5
+        },
+        {
+          "name": "1064",
+          "count": 4
+        },
+        {
+          "name": "1103",
+          "count": 4
+        },
+        {
+          "name": "1122",
+          "count": 4
+        },
+        {
+          "name": "1252",
+          "count": 4
+        },
+        {
+          "name": "1415",
+          "count": 4
+        },
+        {
+          "name": "682",
+          "count": 4
+        },
+        {
+          "name": "699",
+          "count": 4
+        },
+        {
+          "name": "786",
+          "count": 4
+        },
+        {
+          "name": "813",
+          "count": 4
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1340,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1340,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      6
+    ],
+    "metadata": {
+      "name": "Doubles",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 10,
+      "most_common_tokens": [
+        {
+          "name": "162",
+          "count": 11
+        },
+        {
+          "name": "128",
+          "count": 10
+        },
+        {
+          "name": "216",
+          "count": 10
+        },
+        {
+          "name": "91",
+          "count": 10
+        },
+        {
+          "name": "172",
+          "count": 9
+        },
+        {
+          "name": "190",
+          "count": 9
+        },
+        {
+          "name": "196",
+          "count": 9
+        },
+        {
+          "name": "71",
+          "count": 9
+        },
+        {
+          "name": "112",
+          "count": 8
+        },
+        {
+          "name": "147",
+          "count": 8
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1340,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1340,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      7
+    ],
+    "metadata": {
+      "name": "Triples",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 21,
+      "most_common_tokens": [
+        {
+          "name": "12",
+          "count": 28
+        },
+        {
+          "name": "28",
+          "count": 25
+        },
+        {
+          "name": "33",
+          "count": 25
+        },
+        {
+          "name": "10",
+          "count": 24
+        },
+        {
+          "name": "11",
+          "count": 24
+        },
+        {
+          "name": "26",
+          "count": 24
+        },
+        {
+          "name": "35",
+          "count": 22
+        },
+        {
+          "name": "17",
+          "count": 21
+        },
+        {
+          "name": "23",
+          "count": 21
+        },
+        {
+          "name": "31",
+          "count": 21
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1340,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1340,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      8
+    ],
+    "metadata": {
+      "name": "Home_runs",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 31,
+      "most_common_tokens": [
+        {
+          "name": "9",
+          "count": 21
+        },
+        {
+          "name": "18",
+          "count": 20
+        },
+        {
+          "name": "21",
+          "count": 20
+        },
+        {
+          "name": "22",
+          "count": 20
+        },
+        {
+          "name": "7",
+          "count": 20
+        },
+        {
+          "name": "13",
+          "count": 19
+        },
+        {
+          "name": "20",
+          "count": 19
+        },
+        {
+          "name": "27",
+          "count": 19
+        },
+        {
+          "name": "6",
+          "count": 19
+        },
+        {
+          "name": "14",
+          "count": 17
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1340,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1340,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      9
+    ],
+    "metadata": {
+      "name": "RBIs",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 16,
+      "most_common_tokens": [
+        {
+          "name": "391",
+          "count": 7
+        },
+        {
+          "name": "501",
+          "count": 7
+        },
+        {
+          "name": "591",
+          "count": 7
+        },
+        {
+          "name": "272",
+          "count": 6
+        },
+        {
+          "name": "525",
+          "count": 6
+        },
+        {
+          "name": "229",
+          "count": 5
+        },
+        {
+          "name": "230",
+          "count": 5
+        },
+        {
+          "name": "303",
+          "count": 5
+        },
+        {
+          "name": "323",
+          "count": 5
+        },
+        {
+          "name": "329",
+          "count": 5
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1340,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1340,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      10
+    ],
+    "metadata": {
+      "name": "Walks",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 23,
+      "most_common_tokens": [
+        {
+          "name": "190",
+          "count": 6
+        },
+        {
+          "name": "299",
+          "count": 6
+        },
+        {
+          "name": "309",
+          "count": 6
+        },
+        {
+          "name": "351",
+          "count": 6
+        },
+        {
+          "name": "369",
+          "count": 6
+        },
+        {
+          "name": "383",
+          "count": 6
+        },
+        {
+          "name": "142",
+          "count": 5
+        },
+        {
+          "name": "143",
+          "count": 5
+        },
+        {
+          "name": "164",
+          "count": 5
+        },
+        {
+          "name": "188",
+          "count": 5
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1340,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1340,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      11
+    ],
+    "metadata": {
+      "name": "Strikeouts",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.9850746268656716,
+      "number_of_outlier_numeric_values": 23,
+      "most_common_tokens": [
+        {
+          "name": "218.0",
+          "count": 8
+        },
+        {
+          "name": "243.0",
+          "count": 7
+        },
+        {
+          "name": "453.0",
+          "count": 7
+        },
+        {
+          "name": "251.0",
+          "count": 6
+        },
+        {
+          "name": "312.0",
+          "count": 6
+        },
+        {
+          "name": "329.0",
+          "count": 6
+        },
+        {
+          "name": "345.0",
+          "count": 6
+        },
+        {
+          "name": "357.0",
+          "count": 6
+        },
+        {
+          "name": "361.0",
+          "count": 6
+        },
+        {
+          "name": "382.0",
+          "count": 6
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1320,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1320,
+      "ratio_of_values_containing_numeric_char": 0.9850746268656716
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      12
+    ],
+    "metadata": {
+      "name": "Batting_average",
+      "structural_type": "float",
+      "semantic_types": [
+        "http://schema.org/Float",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 8,
+      "most_common_tokens": [
+        {
+          "name": "0.271",
+          "count": 31
+        },
+        {
+          "name": "0.267",
+          "count": 30
+        },
+        {
+          "name": "0.261",
+          "count": 28
+        },
+        {
+          "name": "0.262",
+          "count": 27
+        },
+        {
+          "name": "0.254",
+          "count": 26
+        },
+        {
+          "name": "0.265",
+          "count": 25
+        },
+        {
+          "name": "0.268",
+          "count": 24
+        },
+        {
+          "name": "0.273",
+          "count": 24
+        },
+        {
+          "name": "0.257",
+          "count": 23
+        },
+        {
+          "name": "0.26",
+          "count": 23
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1340,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1340,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      13
+    ],
+    "metadata": {
+      "name": "On_base_pct",
+      "structural_type": "float",
+      "semantic_types": [
+        "http://schema.org/Float",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 8,
+      "most_common_tokens": [
+        {
+          "name": "0.323",
+          "count": 24
+        },
+        {
+          "name": "0.34",
+          "count": 24
+        },
+        {
+          "name": "0.329",
+          "count": 23
+        },
+        {
+          "name": "0.333",
+          "count": 23
+        },
+        {
+          "name": "0.316",
+          "count": 21
+        },
+        {
+          "name": "0.318",
+          "count": 21
+        },
+        {
+          "name": "0.346",
+          "count": 21
+        },
+        {
+          "name": "0.351",
+          "count": 21
+        },
+        {
+          "name": "0.319",
+          "count": 20
+        },
+        {
+          "name": "0.331",
+          "count": 20
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1340,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1340,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      14
+    ],
+    "metadata": {
+      "name": "Slugging_pct",
+      "structural_type": "float",
+      "semantic_types": [
+        "http://schema.org/Float",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 8,
+      "most_common_tokens": [
+        {
+          "name": "0.351",
+          "count": 17
+        },
+        {
+          "name": "0.355",
+          "count": 15
+        },
+        {
+          "name": "0.367",
+          "count": 14
+        },
+        {
+          "name": "0.327",
+          "count": 13
+        },
+        {
+          "name": "0.343",
+          "count": 13
+        },
+        {
+          "name": "0.377",
+          "count": 13
+        },
+        {
+          "name": "0.379",
+          "count": 13
+        },
+        {
+          "name": "0.333",
+          "count": 12
+        },
+        {
+          "name": "0.358",
+          "count": 12
+        },
+        {
+          "name": "0.361",
+          "count": 12
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1340,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1340,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      15
+    ],
+    "metadata": {
+      "name": "Fielding_ave",
+      "structural_type": "float",
+      "semantic_types": [
+        "http://schema.org/Float",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 33,
+      "most_common_tokens": [
+        {
+          "name": "0.984",
+          "count": 46
+        },
+        {
+          "name": "0.982",
+          "count": 41
+        },
+        {
+          "name": "0.983",
+          "count": 40
+        },
+        {
+          "name": "0.98",
+          "count": 38
+        },
+        {
+          "name": "0.981",
+          "count": 35
+        },
+        {
+          "name": "0.99",
+          "count": 35
+        },
+        {
+          "name": "0.973",
+          "count": 34
+        },
+        {
+          "name": "0.974",
+          "count": 33
+        },
+        {
+          "name": "0.985",
+          "count": 33
+        },
+        {
+          "name": "0.978",
+          "count": 32
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1340,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1340,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      16
+    ],
+    "metadata": {
+      "name": "Position",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Outfield",
+          "count": 492
+        },
+        {
+          "name": "Catcher",
+          "count": 254
+        },
+        {
+          "name": "Shortstop",
+          "count": 154
+        },
+        {
+          "name": "Second_base",
+          "count": 148
+        },
+        {
+          "name": "Third_base",
+          "count": 145
+        },
+        {
+          "name": "First_base",
+          "count": 139
+        },
+        {
+          "name": "Designated_hitter",
+          "count": 8
+        }
+      ]
+    }
+  }
+]

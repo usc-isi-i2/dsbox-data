@@ -1,1 +1,0 @@
-An electron shell may be thought of as an orbit followed by electrons around an atom 's nucleus .

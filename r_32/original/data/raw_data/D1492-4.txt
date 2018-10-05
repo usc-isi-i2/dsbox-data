@@ -1,1 +1,0 @@
-An agent has to know what kind of work the client can and cannot do in order to match them with various jobs.

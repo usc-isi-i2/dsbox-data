@@ -1,1 +1,0 @@
-The IEEE 1394 interface is a serial bus interface standard for high-speed communications and isochronous real-time data transfer.

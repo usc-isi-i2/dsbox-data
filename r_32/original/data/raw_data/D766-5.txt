@@ -1,1 +1,0 @@
-The relative ranking of the various hand categories is based on the probability of being randomly dealt such a hand from a well- shuffled deck .

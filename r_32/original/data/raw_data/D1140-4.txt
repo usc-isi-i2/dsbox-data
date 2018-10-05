@@ -1,1 +1,0 @@
-The color that a surface displays depends on which parts of the visible spectrum are not absorbed and therefore remain visible.

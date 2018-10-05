@@ -1,1 +1,0 @@
-This increases the reliability of the results, often through a comparison between control measurements and the other measurements.

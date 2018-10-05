@@ -1,1 +1,0 @@
-Controlling the computer is possible without Windows Explorer running (for example, the File | Run command in Task Manager on NT-derived versions of Windows will function without it, as will commands typed in a command prompt window).

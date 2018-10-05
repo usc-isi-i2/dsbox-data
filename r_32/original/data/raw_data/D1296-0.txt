@@ -1,1 +1,0 @@
-RAID (redundant array of independent disks, originally redundant array of inexpensive disks) is a storage technology that combines multiple disk drive components into a logical unit.

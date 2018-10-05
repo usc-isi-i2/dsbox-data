@@ -1,1 +1,0 @@
-In special relativity , needed for accuracy when large energy transfers between systems is involved, the difference between thermodynamically closed and isolated systems becomes important, since conservation of mass is strictly and perfectly upheld only for so-called isolated systems , i.e. those completely isolated from all exchanges with the environment.

@@ -1,1 +1,0 @@
-On February 16, 2012, Trend Micro released the HijackThis source code as open source and it is now available on the SourceForge site.

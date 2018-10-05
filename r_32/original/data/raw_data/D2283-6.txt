@@ -1,1 +1,0 @@
-Intel PRO/1000 GT PCI network interface card

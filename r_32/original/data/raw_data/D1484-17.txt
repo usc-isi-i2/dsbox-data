@@ -1,1 +1,0 @@
-Tubes can be fragile, sometimes generate significant unwanted heat, and can take many seconds—many minutes in critical applications—after powering on to warm to a temperature where they perform within operational tolerance.

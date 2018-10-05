@@ -1,1 +1,0 @@
-Active-matrix OLEDs ( AMOLED ) require a thin-film transistor backplane to switch each individual pixel on or off, but allow for higher resolution and larger display sizes.

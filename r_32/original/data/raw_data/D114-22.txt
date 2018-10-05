@@ -1,1 +1,0 @@
-In the absence of gravitational fields, or in directions at right angles to them, proper and coordinate accelerations are the same, and any coordinate acceleration must be produced by a corresponding g-force acceleration.

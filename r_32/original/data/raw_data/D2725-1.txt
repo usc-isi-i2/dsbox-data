@@ -1,1 +1,0 @@
-The program is notable for targeting browser-hijacking methods, rather than relying on a database of known spyware.

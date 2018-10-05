@@ -1,1 +1,0 @@
-Packet switching contrasts with another principal networking paradigm, circuit switching , a method which sets up a limited number of dedicated connections of constant bit rate and constant delay between nodes for exclusive use during the communication session.

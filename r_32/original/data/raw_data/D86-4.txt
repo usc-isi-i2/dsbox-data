@@ -1,1 +1,0 @@
-The standard deviation of a random variable , statistical population , data set, or probability distribution is the square root of its variance .

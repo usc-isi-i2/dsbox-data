@@ -1,1 +1,0 @@
-HijackThis does not remove or detect spyware; it lists most common locations where browser hijacking activity can occur.

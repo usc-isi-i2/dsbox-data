@@ -1,1 +1,0 @@
-The different actions people are able to make are drafting , trading, adding or dropping players, and changing rosters.

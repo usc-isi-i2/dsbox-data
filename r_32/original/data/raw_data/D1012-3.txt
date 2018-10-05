@@ -1,1 +1,0 @@
-In a library catalog the words are authors, titles, subject headings, etc., and the pointers are call numbers.

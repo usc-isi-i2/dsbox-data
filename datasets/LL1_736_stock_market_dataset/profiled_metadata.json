@@ -1,0 +1,288 @@
+[
+  {
+    "selector": [],
+    "metadata": {
+      "structural_type": "d3m.container.pandas.DataFrame",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/Table"
+      ],
+      "dimension": {
+        "name": "rows",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularRow"
+        ],
+        "length": 5538
+      },
+      "schema": "https://metadata.datadrivendiscovery.org/schemas/v0/container.json"
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__"
+    ],
+    "metadata": {
+      "dimension": {
+        "name": "columns",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularColumn"
+        ],
+        "length": 4
+      }
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      "__ALL_ELEMENTS__"
+    ],
+    "metadata": {
+      "structural_type": "str"
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      0
+    ],
+    "metadata": {
+      "name": "Company",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "ibm",
+          "count": 2236
+        },
+        {
+          "name": "ebay",
+          "count": 743
+        },
+        {
+          "name": "baf",
+          "count": 499
+        },
+        {
+          "name": "caj",
+          "count": 499
+        },
+        {
+          "name": "gain",
+          "count": 499
+        },
+        {
+          "name": "dac",
+          "count": 416
+        },
+        {
+          "name": "fanh",
+          "count": 376
+        },
+        {
+          "name": "abbv",
+          "count": 171
+        },
+        {
+          "name": "jagx",
+          "count": 91
+        },
+        {
+          "name": "hawx",
+          "count": 8
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      1
+    ],
+    "metadata": {
+      "name": "Year",
+      "structural_type": "int",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/Attribute",
+        "http://schema.org/Integer"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "2016",
+          "count": 378
+        },
+        {
+          "name": "2015",
+          "count": 369
+        },
+        {
+          "name": "2013",
+          "count": 320
+        },
+        {
+          "name": "2014",
+          "count": 320
+        },
+        {
+          "name": "2010",
+          "count": 294
+        },
+        {
+          "name": "2011",
+          "count": 294
+        },
+        {
+          "name": "2009",
+          "count": 287
+        },
+        {
+          "name": "2008",
+          "count": 280
+        },
+        {
+          "name": "2012",
+          "count": 280
+        },
+        {
+          "name": "2007",
+          "count": 240
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 5538,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 5538,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      2
+    ],
+    "metadata": {
+      "name": "filename",
+      "structural_type": "str",
+      "location_base_uris": [
+        "file:///Users/runqishao/Documents/github/dsbox-rqs/dsbox-data/datasets/LL1_736_stock_market_dataset/timeseries/"
+      ],
+      "media_types": [
+        "text/csv"
+      ],
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/FileName",
+        "https://metadata.datadrivendiscovery.org/types/Timeseries",
+        "https://metadata.datadrivendiscovery.org/types/Attribute",
+        "https://metadata.datadrivendiscovery.org/types/Time"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "abbv.2016.csv",
+          "count": 42
+        },
+        {
+          "name": "baf.2005.csv",
+          "count": 42
+        },
+        {
+          "name": "baf.2010.csv",
+          "count": 42
+        },
+        {
+          "name": "baf.2011.csv",
+          "count": 42
+        },
+        {
+          "name": "baf.2016.csv",
+          "count": 42
+        },
+        {
+          "name": "caj.2005.csv",
+          "count": 42
+        },
+        {
+          "name": "caj.2010.csv",
+          "count": 42
+        },
+        {
+          "name": "caj.2011.csv",
+          "count": 42
+        },
+        {
+          "name": "caj.2016.csv",
+          "count": 42
+        },
+        {
+          "name": "dac.2010.csv",
+          "count": 42
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 5538,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 5538,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      3
+    ],
+    "metadata": {
+      "name": "Date",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/Time",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "2017-11-01",
+          "count": 10
+        },
+        {
+          "name": "2017-11-02",
+          "count": 10
+        },
+        {
+          "name": "2017-11-03",
+          "count": 10
+        },
+        {
+          "name": "2017-11-06",
+          "count": 10
+        },
+        {
+          "name": "2017-11-07",
+          "count": 10
+        },
+        {
+          "name": "2017-11-08",
+          "count": 10
+        },
+        {
+          "name": "2017-11-09",
+          "count": 10
+        },
+        {
+          "name": "2017-11-10",
+          "count": 10
+        },
+        {
+          "name": "2015-11-02",
+          "count": 9
+        },
+        {
+          "name": "2015-11-03",
+          "count": 9
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 5538,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 5538,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  }
+]

@@ -1,1 +1,0 @@
-In this case, an indication (peak in the data) through the red line (or gate) indicates a good blade; an indication to the left of that range indicates a crack.

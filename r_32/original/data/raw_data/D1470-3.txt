@@ -1,1 +1,0 @@
-For example, a three-note triad using C as a root would be C-E-G.

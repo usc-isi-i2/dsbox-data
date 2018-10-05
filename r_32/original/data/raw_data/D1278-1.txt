@@ -1,1 +1,0 @@
-Related and somewhat synonymous terms are intelligent (data) compression and single-instance (data) storage .

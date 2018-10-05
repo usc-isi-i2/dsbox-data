@@ -1,1 +1,0 @@
-Electrically passive adapters allow the use of a smaller card in a host device built to hold a larger card.

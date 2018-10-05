@@ -1,1 +1,0 @@
-Of these, there are 26,266 lakes larger than 1 acre, 6,537 lakes larger than 10 acres, 1,148 lakes larger than 100 acres, 98 lakes larger than 1,000 acres, and 10 lakes larger than 10,000 acres.

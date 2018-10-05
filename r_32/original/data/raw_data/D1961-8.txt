@@ -1,1 +1,0 @@
-The second law of thermodynamics states the principle that heat cannot flow directly from cold to hot systems, but with the aid of a heat pump external work can be used to transport internal energy indirectly from a cold to a hot body.

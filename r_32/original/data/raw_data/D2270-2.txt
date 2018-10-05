@@ -1,1 +1,0 @@
-The orbital speed at any position in the orbit can be computed from the distance to the central body at that position, and the specific orbital energy , which is independent of position: the kinetic energy is the total energy minus the potential energy .

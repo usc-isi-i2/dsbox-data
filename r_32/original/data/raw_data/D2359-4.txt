@@ -1,1 +1,0 @@
-Typically, a piece consists of several bars of the same length, and in modern musical notation the number of beats in each bar is specified at the beginning of the score by the top number of a time signature (such as 3/4), while the bottom number indicates the note value of the beat (the beat has a quarter note value in the 3/4 example).

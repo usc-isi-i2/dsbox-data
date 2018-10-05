@@ -1,1 +1,0 @@
-It is based on the GSM / EDGE and UMTS / HSPA network technologies, increasing the capacity and speed using a different radio interface together with core network improvements.

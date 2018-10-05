@@ -1,1 +1,0 @@
-Early computers used a variety of ad-hoc methods to get a small program into memory to solve this problem.

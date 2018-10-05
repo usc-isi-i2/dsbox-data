@@ -1,1 +1,0 @@
-DEP runs in two modes: hardware-enforced DEP for CPUs that can mark memory pages as nonexecutable, and software-enforced DEP with limited protection for CPUs that do not have hardware support.

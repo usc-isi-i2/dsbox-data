@@ -1,1 +1,0 @@
-3G telecommunication networks support services that provide an information transfer rate of at least 200 kbit/s .

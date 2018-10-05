@@ -1,1 +1,0 @@
-3D rendering of a μCT scan of a leaf piece, resolution circa 40 μm/ voxel .

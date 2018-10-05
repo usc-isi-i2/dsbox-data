@@ -1,1 +1,0 @@
-Consequently, Flex applications can be developed using standard IDEs, for example Eclipse , as well as the proprietary Adobe Flash Builder .

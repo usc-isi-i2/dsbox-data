@@ -1,1 +1,0 @@
-PPP largely removes the exchange rate problem, but has its own drawbacks; it does not reflect the value of economic output in international trade , and it also requires more estimation than nominal GDP.

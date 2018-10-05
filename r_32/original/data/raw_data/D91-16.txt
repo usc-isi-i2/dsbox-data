@@ -1,1 +1,0 @@
-net foul: touching the net during play;

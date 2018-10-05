@@ -1,1 +1,0 @@
-A function f takes an input x, and returns an output f(x).

@@ -1,1 +1,0 @@
-It is known to be available in Linux , Mac OS X , iOS , Microsoft Windows and Android operating systems and is intended to prevent an application or service from executing code from a non-executable memory region.

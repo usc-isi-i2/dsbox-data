@@ -1,1 +1,0 @@
-Raster scan , the pattern of image readout, transmission, storage, and reconstruction in television and computer images

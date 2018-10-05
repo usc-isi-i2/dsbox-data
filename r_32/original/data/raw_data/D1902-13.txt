@@ -1,1 +1,0 @@
-If the boot loader is limited in its size and capabilities, it may, instead, load a larger and more capable secondary boot loader, which would then load the operating system or runtime environment.

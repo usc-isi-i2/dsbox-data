@@ -1,1 +1,0 @@
-Specifically, it is Pacific Standard Time (PST) when observing standard time (winter), and Pacific Daylight Time (PDT) when observing daylight saving time (summer).

@@ -1,1 +1,0 @@
-The POWER6 is a microprocessor developed by IBM that implemented the Power ISA v.2.03 .

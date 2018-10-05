@@ -1,1 +1,0 @@
-In general, a domain name represents an Internet Protocol (IP) resource, such as a personal computer used to access the Internet, a server computer hosting a web site , or the web site itself or any other service communicated via the Internet.

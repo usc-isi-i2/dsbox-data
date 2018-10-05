@@ -1,1 +1,0 @@
-An example is the function that relates each real number x to its square x2.

@@ -1,1 +1,0 @@
-A scanner with Duplexing Automatic Document Feeder.

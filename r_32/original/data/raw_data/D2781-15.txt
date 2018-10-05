@@ -1,1 +1,0 @@
-In 2012 AMD announced that in 2014 it would start producing server chips based on the 64-bit ARM core.

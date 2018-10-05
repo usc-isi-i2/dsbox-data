@@ -1,1 +1,0 @@
-The most basic is web page and small-scale file hosting, where files can be uploaded via File Transfer Protocol (FTP) or a Web interface.

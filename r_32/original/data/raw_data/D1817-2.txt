@@ -1,1 +1,0 @@
-The precision of a measurement system, also called reproducibility or repeatability , is the degree to which repeated measurements under unchanged conditions show the same results .

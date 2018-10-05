@@ -1,1 +1,0 @@
-The output of a function f corresponding to an input x is denoted by f(x) (read "f of x").

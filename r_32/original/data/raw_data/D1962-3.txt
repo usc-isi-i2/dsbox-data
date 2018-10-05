@@ -1,1 +1,0 @@
-Original efforts focused on using the Wii Remote as a pointing device on other operating systems, or running web-based games in the built-in web browser.

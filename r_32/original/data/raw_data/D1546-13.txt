@@ -1,1 +1,0 @@
-Before division can occur, the genomic information that is stored in chromosomes must be replicated, and the duplicated genome must be separated cleanly between cells.

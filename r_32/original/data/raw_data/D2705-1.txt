@@ -1,1 +1,0 @@
-Several possible methods of wireless communication were considered, including inductive and capacitive induction and transmission through the ground, however the method used for radio today exclusively involves the transmission and reception of electromagnetic waves .

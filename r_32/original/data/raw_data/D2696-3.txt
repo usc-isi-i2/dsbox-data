@@ -1,1 +1,0 @@
-An electron transport chain (ETC) couples electron transfer between an electron donor (such as NADH ) and an electron acceptor (such as O2 ) with the transfer of H+ ions (protons) across a membrane .

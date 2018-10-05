@@ -1,1 +1,0 @@
-Some hosts specialize in certain software or services (e.g. e-commerce), which are commonly used by larger companies that outsource network infrastructure.

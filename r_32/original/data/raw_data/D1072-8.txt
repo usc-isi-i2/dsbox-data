@@ -1,1 +1,0 @@
-Interface control elements consist of sliders, switches, and buttons.

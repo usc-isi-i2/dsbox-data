@@ -1,1 +1,0 @@
-Radial engine timing and cam mechanism.

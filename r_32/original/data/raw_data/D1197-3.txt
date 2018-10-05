@@ -1,1 +1,0 @@
-Consolidated city-counties represent a distinct type of government that includes the entire population of a county, or county equivalent.

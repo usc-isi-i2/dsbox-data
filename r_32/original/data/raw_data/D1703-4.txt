@@ -1,1 +1,0 @@
-The PCI Local Bus was first implemented in IBM PC compatibles , where it displaced the combination of ISA plus one VESA Local Bus as the bus configuration.

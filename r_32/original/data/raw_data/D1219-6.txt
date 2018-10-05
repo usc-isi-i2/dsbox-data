@@ -1,1 +1,0 @@
-Heritability is measured by estimating the relative contributions of genetic and non-genetic differences to the total phenotypic variation in a population.

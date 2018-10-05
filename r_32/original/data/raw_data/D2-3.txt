@@ -1,1 +1,0 @@
-The equations of motion describe the movement of the center of mass of a body.

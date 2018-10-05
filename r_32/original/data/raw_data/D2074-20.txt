@@ -1,1 +1,0 @@
-For example, we could define a function using the rule f(x) = x2 by saying that the domain and codomain are the real numbers , and that the ordered pairs are all pairs of real numbers (x, x2).

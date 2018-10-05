@@ -1,1 +1,0 @@
-Thus a line has a dimension of one because only one coordinate is needed to specify a point on it (for example, the point at 5 on a number line).

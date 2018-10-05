@@ -1,1 +1,0 @@
-Because HDMI is electrically compatible with the CEA-861 signals used by digital visual interface (DVI), no signal conversion is necessary, nor is there a loss of video quality when a DVI-to-HDMI adapter is used.

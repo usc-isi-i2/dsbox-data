@@ -1,1 +1,0 @@
-Multiple specifications provide a fall-back when a proxy fails to respond.

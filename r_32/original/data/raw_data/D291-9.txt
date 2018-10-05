@@ -1,1 +1,0 @@
-The AWG of a stranded wire is determined by the total cross-sectional area of the conductor, which determines its current-carrying capacity and electrical resistance .

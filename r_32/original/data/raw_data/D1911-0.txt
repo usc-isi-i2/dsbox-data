@@ -1,1 +1,0 @@
-An example of Ultrasonic Testing (UT) on blade roots of a V2500 IAE aircraft engine .

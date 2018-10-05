@@ -1,1 +1,0 @@
-There is also a power "loss" difference - a combiner takes all the power delivered to the S port and equally divides it between the A and B ports.

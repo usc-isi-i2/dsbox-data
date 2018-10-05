@@ -1,1 +1,0 @@
-The number contains the information necessary to identify uniquely the intended endpoint for the telephone call .

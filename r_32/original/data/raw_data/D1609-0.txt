@@ -1,1 +1,0 @@
-In the Microsoft Windows operating system , index.dat is a database file used by the Internet Explorer web browser .

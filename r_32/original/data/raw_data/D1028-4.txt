@@ -1,1 +1,0 @@
-A machine which takes readings in six degrees of freedom and displays these readings in mathematical form is known as a CMM.

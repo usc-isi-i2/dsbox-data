@@ -1,1 +1,0 @@
-PATA remains widely used in industrial and embedded applications that use CompactFlash storage, even though the new CFast standard is based on SATA.

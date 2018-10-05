@@ -1,1 +1,0 @@
-Diagnosis-related group (DRG) is a system to classify hospital cases into one of originally 467 groups.

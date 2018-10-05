@@ -1,1 +1,0 @@
-It is also possible for each subscriber to have a set of shorter numbers for the endpoints most often used.

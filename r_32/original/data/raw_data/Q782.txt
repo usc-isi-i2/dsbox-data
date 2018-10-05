@@ -1,1 +1,0 @@
-what kind of integrity is enforced when a primary key is declared

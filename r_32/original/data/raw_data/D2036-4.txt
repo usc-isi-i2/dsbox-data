@@ -1,1 +1,0 @@
-Sales tax is calculated by multiplying the purchase price by the applicable tax rate.

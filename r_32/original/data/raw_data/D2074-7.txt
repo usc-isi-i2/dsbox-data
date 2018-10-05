@@ -1,1 +1,0 @@
-In this example, if the input is −3, then the output is 9, and we may write f(−3) = 9.

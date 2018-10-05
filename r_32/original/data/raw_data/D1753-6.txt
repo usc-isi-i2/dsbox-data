@@ -1,1 +1,0 @@
-Otherwise, content would be scaled down to 480x272 pixels on the player's OLED touchscreen .

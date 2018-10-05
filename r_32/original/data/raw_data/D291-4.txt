@@ -1,1 +1,0 @@
-Increasing gauge numbers give decreasing wire diameters, which is similar to many other non- metric gauging systems.

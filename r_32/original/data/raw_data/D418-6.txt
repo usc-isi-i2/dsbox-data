@@ -1,1 +1,0 @@
-DRGs are assigned by a "grouper" program based on ICD (International Classification of Diseases) diagnoses, procedures, age, sex, discharge status, and the presence of complications or comorbidities .

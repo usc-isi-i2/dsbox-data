@@ -1,1 +1,0 @@
-Surface #1 is facing outside, Surface #2 is the inside surface of the exterior pane, Surface #3 is the outside surface of the interior pane, and Surface #4 is the inside surface of interior pane.

@@ -1,1 +1,0 @@
-Newsreader software is used to read newsgroups.

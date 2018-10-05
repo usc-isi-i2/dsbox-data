@@ -1,1 +1,0 @@
-If both input and output are real numbers, this ordered pair can be viewed as the Cartesian coordinates of a point on the graph of the function.

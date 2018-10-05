@@ -1,1 +1,0 @@
-Hospital emergency codes may denote different events at different hospitals, including nearby ones.

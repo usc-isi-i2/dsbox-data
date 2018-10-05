@@ -1,1 +1,0 @@
-These numbers allow the compass to show azimuths or bearings , which are commonly stated in this notation.

@@ -1,1 +1,0 @@
-The ports of a diplexer are frequency selective; the ports of a combiner are not.

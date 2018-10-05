@@ -1,1 +1,0 @@
-At CERN , a European research organisation near Geneva straddling the border between France and Switzerland , Berners-Lee and Belgian computer scientist Robert Cailliau proposed in 1990 to use hypertext "to link and access information of various kinds as a web of nodes in which the user can browse at will", and they publicly introduced the project in December of the same year.

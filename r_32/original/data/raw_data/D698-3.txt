@@ -1,1 +1,0 @@
-Previous versions of Windows NT included the Task List application, which had far fewer features.

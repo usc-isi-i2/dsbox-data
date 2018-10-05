@@ -1,1 +1,0 @@
-This interaction technique has close associations with related techniques in graphical user interfaces that use pointing devices such as a computer mouse (by drag and drop , for example).

@@ -1,1 +1,0 @@
-WAsP (Wind Atlas Analysis and Application Program) is a PC program for predicting wind climates, wind resources, and power productions from wind turbines and wind farms .

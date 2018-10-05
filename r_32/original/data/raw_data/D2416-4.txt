@@ -1,1 +1,0 @@
-The X initial has been carried forward in the naming of APIs designed for the Xbox such as XInput and the Cross-platform Audio Creation Tool (XACT), while the DirectX pattern has been continued for Windows APIs such as Direct2D and DirectWrite .

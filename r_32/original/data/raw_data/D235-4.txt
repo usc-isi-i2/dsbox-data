@@ -1,1 +1,0 @@
-A version introduced in 2005 included a new Ajax interface, drag-and-drop features, improved search functionality, keyboard shortcuts, address auto-complete, tabs, and other updated features.

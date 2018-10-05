@@ -1,1 +1,0 @@
-The predictions are based on wind data measured at meteorological stations in the same region.

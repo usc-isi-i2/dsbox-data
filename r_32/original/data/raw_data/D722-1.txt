@@ -1,1 +1,0 @@
-Here, the fastest winds are colored red; slower winds are blue.

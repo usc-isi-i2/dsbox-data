@@ -1,1 +1,0 @@
-The processing element carries out arithmetic and logic operations, and a sequencing and control unit that can change the order of operations based on stored information.

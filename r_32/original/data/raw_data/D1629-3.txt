@@ -1,1 +1,0 @@
-Sets of cmdlets may be combined together in scripts, executables (which are standalone applications), or by instantiating regular .NET classes (or WMI/COM Objects).

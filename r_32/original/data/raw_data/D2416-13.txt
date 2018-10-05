@@ -1,1 +1,0 @@
-While the runtimes are proprietary, closed-source software, source code is provided for most of the SDK samples.

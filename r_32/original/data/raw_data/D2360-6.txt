@@ -1,1 +1,0 @@
-SMBus , defined by Intel in 1995, is a subset of I2C that defines the protocols more strictly.

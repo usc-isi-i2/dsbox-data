@@ -1,1 +1,0 @@
-SATA has replaced parallel ATA in consumer desktop and laptop computers , and has largely replaced PATA in new embedded applications.

@@ -1,1 +1,0 @@
-Use tax typically is a tax on consumption but if you buy an item (without paying sales tax) and store it in your warehouse initially, use tax applies to that location where goods were stored.

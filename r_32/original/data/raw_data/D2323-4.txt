@@ -1,1 +1,0 @@
-Two 4G candidate systems are commercially deployed: the Mobile WiMAX standard (at first in South Korea in 2006), and the first-release Long Term Evolution (LTE) standard (in Oslo, Norway and Stockholm, Sweden since 2009).

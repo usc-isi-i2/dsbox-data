@@ -1,1 +1,0 @@
-A CAPTCHA is sometimes described as a reverse Turing test , because it is administered by a machine and targeted at a human, in contrast to the standard Turing test that is typically administered by a human and targeted at a machine.

@@ -1,1 +1,0 @@
-View of defibrillator electrode position and placement.

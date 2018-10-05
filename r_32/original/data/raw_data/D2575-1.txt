@@ -1,1 +1,0 @@
-Prototype OLED lighting panel developed by Lumiotec

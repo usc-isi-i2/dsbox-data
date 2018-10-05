@@ -1,1 +1,0 @@
-The peso is subdivided into 100 centavos, represented by " ¢ ".

@@ -1,1 +1,0 @@
-The effective leverage of the arm (and thus the force it can exert on the valve stem) is determined by the rocker arm ratio, the ratio of the distance from the rocker arm's center of rotation to the tip divided by the distance from the center of rotation to the point acted on by the camshaft or pushrod.

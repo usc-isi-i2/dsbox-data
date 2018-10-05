@@ -1,1 +1,0 @@
-Data is distributed across the drives in one of several ways called "RAID levels", depending on the level of redundancy and performance required.

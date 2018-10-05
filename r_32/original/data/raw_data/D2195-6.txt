@@ -1,1 +1,0 @@
-As an uncompressed CEA-861 connection, HDMI is independent of the various digital television standards used by individual devices, such as ATSC and DVB , as these are encapsulations of compressed MPEG video streams (which can be decoded and output as an uncompressed video stream on HDMI ).

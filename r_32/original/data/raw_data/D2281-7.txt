@@ -1,1 +1,0 @@
-IEEE 1394 is the High-Definition Audio-Video Network Alliance (HANA) standard connection interface for A/V (audio/visual) component communication and control.

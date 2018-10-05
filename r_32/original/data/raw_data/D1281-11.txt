@@ -1,1 +1,0 @@
-As with many other industry compatibility standards, the SATA content ownership is transferred to other industry bodies: primarily the INCITS T13 subcommittee ATA, the INCITS T10 subcommittee ( SCSI ); a subgroup of T10 responsible for Serial Attached SCSI (SAS).

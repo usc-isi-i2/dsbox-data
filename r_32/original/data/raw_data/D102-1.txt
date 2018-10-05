@@ -1,1 +1,0 @@
-The user makes a request with their local library, which, acting as an intermediary, identifies owners of the desired item, places the request, receives the item, makes it available to the user, and arranges for its return.

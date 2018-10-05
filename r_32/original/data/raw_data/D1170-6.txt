@@ -1,1 +1,0 @@
-The typical ETL -based data warehouse uses staging , data integration, and access layers to house its key functions.

@@ -1,1 +1,0 @@
-Since RFID tags can be attached to clothing, possessions, or even implanted within people , the possibility of reading personally-linked information without consent has raised privacy concerns.

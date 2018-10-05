@@ -1,1 +1,0 @@
-The device is a form of multiport repeater.

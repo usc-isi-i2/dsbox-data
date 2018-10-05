@@ -1,1 +1,0 @@
-A medallion signature guarantee is not the same as an acknowledgment by a notary public , in the sense that a "signature guarantee" is a certification by the institution that the signature is authentic, and an acknowledgment is a certification by a notary public attesting that the signer signed a document voluntarily.

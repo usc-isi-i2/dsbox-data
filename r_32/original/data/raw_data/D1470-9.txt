@@ -1,1 +1,0 @@
-While the theory of chordal roots describes bottom-up construction of chords, chords appearing in musical scores or performances will not always use the chordal root as the lowest pitch.

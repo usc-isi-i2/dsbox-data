@@ -1,1 +1,0 @@
-The crude death rate depends on the age (and gender) specific mortality rates and the age (and gender) distribution of the population.

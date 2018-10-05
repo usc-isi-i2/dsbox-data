@@ -1,1 +1,0 @@
-The lending library usually sets the due date and overdue fees of the material borrowed.

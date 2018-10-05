@@ -1,1 +1,0 @@
-A port is identified for each address and protocol by a 16-bit number, commonly known as the port number.

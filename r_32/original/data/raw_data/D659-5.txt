@@ -1,1 +1,0 @@
-A food chain represents a succession of organisms that eat another organism and are, in turn, eaten themselves.

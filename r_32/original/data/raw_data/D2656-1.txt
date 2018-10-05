@@ -1,1 +1,0 @@
-Bracketing is useful and often recommended in situations that make it difficult to obtain a satisfactory image with a single shot, especially when a small variation in exposure parameters has a comparatively large effect on the resulting image.

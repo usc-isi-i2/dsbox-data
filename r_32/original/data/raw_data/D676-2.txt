@@ -1,1 +1,0 @@
-Domain names are formed by the rules and procedures of the Domain Name System (DNS).

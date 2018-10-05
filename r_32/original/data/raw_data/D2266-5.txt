@@ -1,1 +1,0 @@
-These examples also belong to the class of linear codes , and hence they are called linear block codes.

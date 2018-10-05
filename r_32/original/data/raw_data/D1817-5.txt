@@ -1,1 +1,0 @@
-For example, if an experiment contains a systematic error , then increasing the sample size generally increases precision but does not improve accuracy.

@@ -1,1 +1,0 @@
-Current versions use 32-bit instructions with 32-bit address space, but accommodates 16-bit instructions for economy and can also handle Java bytecodes which use 32-bit addresses.

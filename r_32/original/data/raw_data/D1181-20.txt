@@ -1,1 +1,0 @@
-The meter also recorded real time simultaneously viewing, reducing memory bias.

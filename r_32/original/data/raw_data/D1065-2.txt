@@ -1,1 +1,0 @@
-An electronic health record (EHR) is an evolving concept defined as a systematic collection of electronic health information about individual patients or populations.

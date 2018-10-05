@@ -1,1 +1,0 @@
-A common motivation for cluster sampling is to reduce the total number of interviews and costs given the desired accuracy.

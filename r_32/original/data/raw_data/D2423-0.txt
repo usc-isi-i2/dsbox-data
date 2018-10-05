@@ -1,1 +1,0 @@
-Data Execution Prevention (DEP) is a security feature included in modern operating systems .

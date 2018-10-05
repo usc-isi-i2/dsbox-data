@@ -1,0 +1,113 @@
+[
+  {
+    "selector": [],
+    "metadata": {
+      "structural_type": "d3m.container.pandas.DataFrame",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/Table"
+      ],
+      "dimension": {
+        "name": "rows",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularRow"
+        ],
+        "length": 1889
+      },
+      "schema": "https://metadata.datadrivendiscovery.org/schemas/v0/container.json"
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__"
+    ],
+    "metadata": {
+      "dimension": {
+        "name": "columns",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularColumn"
+        ],
+        "length": 1
+      }
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      "__ALL_ELEMENTS__"
+    ],
+    "metadata": {
+      "structural_type": "str"
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      0
+    ],
+    "metadata": {
+      "name": "filename",
+      "structural_type": "str",
+      "location_base_uris": [
+        "file:///Users/runqishao/Documents/github/dsbox-rqs/dsbox-data/datasets/31_urbansound_dataset/media/"
+      ],
+      "media_types": [
+        "audio/wav",
+        "audio/aiff",
+        "audio/flac",
+        "audio/ogg",
+        "audio/mpeg"
+      ],
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/FileName",
+        "http://schema.org/AudioObject",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "201207.wav",
+          "count": 31
+        },
+        {
+          "name": "51022.wav",
+          "count": 31
+        },
+        {
+          "name": "34621.wav",
+          "count": 28
+        },
+        {
+          "name": "7965.mp3",
+          "count": 27
+        },
+        {
+          "name": "180029.wav",
+          "count": 21
+        },
+        {
+          "name": "203128.mp3",
+          "count": 18
+        },
+        {
+          "name": "209672.wav",
+          "count": 18
+        },
+        {
+          "name": "30832.mp3",
+          "count": 17
+        },
+        {
+          "name": "200161.wav",
+          "count": 16
+        },
+        {
+          "name": "72265.wav",
+          "count": 16
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 1889,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 1889,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  }
+]

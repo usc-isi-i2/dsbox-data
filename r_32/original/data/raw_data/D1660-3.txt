@@ -1,1 +1,0 @@
-Since the data is skewed, comparing suicide rates between nations is statistically unsound.

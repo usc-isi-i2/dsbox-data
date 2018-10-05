@@ -1,1 +1,0 @@
-The latest version of the SDK is version 4.9.

@@ -1,1 +1,0 @@
-The software package further contains a Climate Analyst for creating the wind-climatological inputs, a Map Editor for creating and editing the topographical inputs, and a Turbine Editor for creating the wind turbine inputs to WAsP.

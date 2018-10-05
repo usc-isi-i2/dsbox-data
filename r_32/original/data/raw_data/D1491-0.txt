@@ -1,1 +1,0 @@
-An agar plate -- an example of a bacterial growth medium.

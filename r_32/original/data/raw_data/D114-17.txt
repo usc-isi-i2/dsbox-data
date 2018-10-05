@@ -1,1 +1,0 @@
-The upward force from the ground ensures that an object at rest on the Earth's surface is accelerating relative to the free-fall condition, which is the path that the object would follow when falling freely toward the Earth's center.

@@ -1,1 +1,0 @@
-When given an initial push, it will swing back and forth at a constant amplitude .

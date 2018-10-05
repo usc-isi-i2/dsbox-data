@@ -1,1 +1,0 @@
-Windows Installer contains significant changes from its predecessor, Setup API .

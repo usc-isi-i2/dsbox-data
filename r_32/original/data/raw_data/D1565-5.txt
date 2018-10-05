@@ -1,1 +1,0 @@
-In October 2011, Bing announced it was working on new back-end search infrastructure, with the goal of delivering faster and slightly more relevant search results for users.

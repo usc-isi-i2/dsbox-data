@@ -1,1 +1,0 @@
-The term "RAID" was first defined by David Patterson , Garth A. Gibson , and Randy Katz at the University of California, Berkeley in 1987.

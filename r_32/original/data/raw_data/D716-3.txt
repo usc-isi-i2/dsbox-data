@@ -1,1 +1,0 @@
-It is part of a hub and spoke model , where travelers moving between airports not served by direct flights change planes en route to their destinations.

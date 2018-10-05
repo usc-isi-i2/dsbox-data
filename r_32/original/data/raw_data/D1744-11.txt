@@ -1,1 +1,0 @@
-Internet Explorer 9 also supports the HTML5 video and audio tags and the Web Open Font Format .

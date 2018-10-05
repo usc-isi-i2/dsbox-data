@@ -1,1 +1,0 @@
-The 1394 interface is comparable to USB , and often those two technologies are considered together, though USB has more market share.

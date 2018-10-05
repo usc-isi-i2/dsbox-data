@@ -1,1 +1,0 @@
-where AB is the number of at-bats for a given player, and 1B, 2B, 3B, and HR are the number of singles , doubles , triples , and home runs , respectively.

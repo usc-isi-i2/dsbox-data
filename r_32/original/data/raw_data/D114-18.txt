@@ -1,1 +1,0 @@
-Objects allowed to free-fall in an inertial trajectory under the influence of gravitation-only, feel no g-force.

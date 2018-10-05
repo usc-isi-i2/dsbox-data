@@ -1,1 +1,0 @@
-The return address need not include a sender's name, but should include address or P.O. box details in the same way as the delivery address should.

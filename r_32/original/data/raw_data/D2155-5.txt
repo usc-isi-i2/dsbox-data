@@ -1,1 +1,0 @@
-Repeater hubs also participate in collision detection, forwarding a jam signal to all ports if it detects a collision .

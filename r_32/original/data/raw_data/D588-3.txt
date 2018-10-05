@@ -1,1 +1,0 @@
-World map showing percent of population living in an urban environment.

@@ -1,1 +1,0 @@
-(In algebraic notation , the white pawns start on a2, b2, c2, ..., h2, while black pawns start on a7, b7, c7, ..., h7.)

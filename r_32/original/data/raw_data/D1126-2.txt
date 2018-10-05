@@ -1,1 +1,0 @@
-Web server can refer to either the hardware (the computer) or the software (the computer application) that helps to deliver web content that can be accessed through the Internet .

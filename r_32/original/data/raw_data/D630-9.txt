@@ -1,1 +1,0 @@
-RADFs and DADFs are rated in images per minute (IPM), the number of sides they can scan each minute.

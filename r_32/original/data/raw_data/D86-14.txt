@@ -1,1 +1,0 @@
-When the sample is the entire population, its unmodified standard deviation is called the "population standard deviation".

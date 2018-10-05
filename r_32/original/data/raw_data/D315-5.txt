@@ -1,1 +1,0 @@
-For example, Adobe RGB and sRGB are two different absolute color spaces , both based on the RGB model.

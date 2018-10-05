@@ -1,1 +1,0 @@
-The data may pass through an operational data store for additional operations before they are used in the DW for reporting.

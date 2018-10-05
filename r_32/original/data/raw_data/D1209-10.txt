@@ -1,1 +1,0 @@
-The pump cannot draw more water from the pipe to which the washer is connected than that source can provide.

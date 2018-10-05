@@ -1,1 +1,0 @@
-The ARPANET in particular led to the development of protocols for internetworking , in which multiple separate networks could be joined together into a network of networks.

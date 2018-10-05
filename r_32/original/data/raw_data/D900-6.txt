@@ -1,1 +1,0 @@
-A pendulum swings with a specific period which depends (mainly) on its length.

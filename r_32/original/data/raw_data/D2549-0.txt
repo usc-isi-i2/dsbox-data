@@ -1,1 +1,0 @@
-Apache Flex, formerly Adobe Flex, is a software development kit (SDK) for the development and deployment of cross-platform rich Internet applications based on the Adobe Flash platform.

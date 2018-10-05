@@ -1,1 +1,0 @@
-The file system manages access to both the content of files and the metadata about those files.

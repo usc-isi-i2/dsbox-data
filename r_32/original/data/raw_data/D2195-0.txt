@@ -1,1 +1,0 @@
-HDMI (High-Definition Multimedia Interface) is a compact audio/video interface for transferring uncompressed video data and compressed/uncompressed digital audio data from a HDMI-compliant device ("the source device") to a compatible computer monitor , video projector , digital television , or digital audio device.

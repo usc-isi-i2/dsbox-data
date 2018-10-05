@@ -1,1 +1,0 @@
-A PAC file contains a JavaScript function “FindProxyForURL(url, host)”.

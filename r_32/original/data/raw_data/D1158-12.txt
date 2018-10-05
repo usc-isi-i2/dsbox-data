@@ -1,1 +1,0 @@
-A complex site calls for a more comprehensive package that provides database support and application development platforms (e.g. PHP , Java , Ruby on Rails , ColdFusion , or ASP.NET ).

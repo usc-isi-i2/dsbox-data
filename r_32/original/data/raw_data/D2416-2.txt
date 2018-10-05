@@ -1,1 +1,0 @@
-The name DirectX was coined as shorthand term for all of these APIs (the X standing in for the particular API names) and soon became the name of the collection.

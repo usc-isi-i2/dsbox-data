@@ -1,1 +1,0 @@
-Collecting the hits in that order is known as a "natural cycle".

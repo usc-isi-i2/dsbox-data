@@ -1,1 +1,0 @@
-The same applies to the tesseract, which additionally can only be shown as a projection even in three-dimensional space.

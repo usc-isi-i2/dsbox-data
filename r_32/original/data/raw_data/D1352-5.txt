@@ -1,1 +1,0 @@
-Recently, the advent of iSCSI and Fibre Channel over Ethernet has brought about Ethernet HBAs, which are different from Ethernet NICs in that they include TCP Offload Engines .

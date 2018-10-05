@@ -1,1 +1,0 @@
-The volume of the gas is calculated as if measured at standard temperature and pressure (STP).

@@ -1,1 +1,0 @@
-Cumulative probability of a normal distribution with expected value 0 and standard deviation 1.

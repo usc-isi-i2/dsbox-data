@@ -1,1 +1,0 @@
-In the example above, f(x) = x2, we have the ordered pair (−3, 9).

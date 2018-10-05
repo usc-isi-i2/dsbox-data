@@ -1,1 +1,0 @@
-SAS offers backward compatibility with second-generation SATA drives.

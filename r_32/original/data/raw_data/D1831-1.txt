@@ -1,1 +1,0 @@
-The mark in the top-left of the display indicates that the time is 4:00pm, not 4:00am.

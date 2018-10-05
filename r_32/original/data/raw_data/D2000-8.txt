@@ -1,1 +1,0 @@
-where is the concentration of the i-th component expressed in ppm .

@@ -1,1 +1,0 @@
-The panel receives information from environmental sensors designed to detect changes associated with fire, monitors their operational integrity and provides for automatic control of equipment, and transmission of information necessary to prepare the facility for fire based on a predetermined sequence.

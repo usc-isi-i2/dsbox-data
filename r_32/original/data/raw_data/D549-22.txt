@@ -1,1 +1,0 @@
-Segmented Integer Counter mode, a mode of operation in cryptography

@@ -1,1 +1,0 @@
-H.264/MPEG-4 AVC is a block-oriented motion-compensation -based codec standard developed by the ITU-T Video Coding Experts Group (VCEG) together with the ISO/IEC JTC1 Moving Picture Experts Group (MPEG).

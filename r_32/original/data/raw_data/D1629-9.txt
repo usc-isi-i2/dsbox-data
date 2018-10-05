@@ -1,1 +1,0 @@
-With PowerShell, graphical interface-based management applications on Windows are layered on top of Windows PowerShell.

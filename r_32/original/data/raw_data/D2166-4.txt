@@ -1,1 +1,0 @@
-For additional consideration, when planning an experiment , computer simulation , or scientific survey to collect data for this model , one must keep in mind the number of parameters , P, to estimate and adjust the sample size accordingly.

@@ -1,1 +1,0 @@
-OpenID authentication is now used and provided by several large websites.

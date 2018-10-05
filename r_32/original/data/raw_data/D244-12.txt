@@ -1,1 +1,0 @@
-Sources using different definitions may arrive at very different numbers, and sometimes the precise definition is not clearly specified.

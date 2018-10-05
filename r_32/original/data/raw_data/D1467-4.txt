@@ -1,1 +1,0 @@
-Windows Installer is positioned as an alternative to stand-alone executable installer frameworks such as older versions of InstallShield and NSIS .

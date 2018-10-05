@@ -1,1 +1,0 @@
-HDMI implements the EIA/CEA-861 standards, which define video formats and waveforms, transport of compressed, uncompressed, and LPCM audio, auxiliary data, and implementations of the VESA EDID .

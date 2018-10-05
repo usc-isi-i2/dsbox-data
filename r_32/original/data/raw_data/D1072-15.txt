@@ -1,1 +1,0 @@
-iOS currently runs on iPhone, iPad, iPod touch and Apple TV.

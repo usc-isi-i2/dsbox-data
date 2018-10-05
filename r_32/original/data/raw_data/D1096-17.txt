@@ -1,1 +1,0 @@
-Termination of the polypeptide happens when the A site of the ribosome faces a stop codon (UAA, UAG, or UGA).

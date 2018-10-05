@@ -1,0 +1,397 @@
+[
+  {
+    "selector": [],
+    "metadata": {
+      "structural_type": "d3m.container.pandas.DataFrame",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/Table"
+      ],
+      "dimension": {
+        "name": "rows",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularRow"
+        ],
+        "length": 478
+      },
+      "schema": "https://metadata.datadrivendiscovery.org/schemas/v0/container.json"
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__"
+    ],
+    "metadata": {
+      "dimension": {
+        "name": "columns",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularColumn"
+        ],
+        "length": 10
+      }
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      0
+    ],
+    "metadata": {
+      "name": "Gender",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "girl",
+          "count": 251
+        },
+        {
+          "name": "boy",
+          "count": 227
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      1
+    ],
+    "metadata": {
+      "name": "Grade",
+      "structural_type": "float",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "6.0",
+          "count": 183
+        },
+        {
+          "name": "5.0",
+          "count": 176
+        },
+        {
+          "name": "4.0",
+          "count": 119
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 478,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 478,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      2
+    ],
+    "metadata": {
+      "name": "Age",
+      "structural_type": "float",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 1,
+      "most_common_tokens": [
+        {
+          "name": "11.0",
+          "count": 189
+        },
+        {
+          "name": "10.0",
+          "count": 132
+        },
+        {
+          "name": "9.0",
+          "count": 100
+        },
+        {
+          "name": "12.0",
+          "count": 52
+        },
+        {
+          "name": "13.0",
+          "count": 4
+        },
+        {
+          "name": "7.0",
+          "count": 1
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 478,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 478,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      3
+    ],
+    "metadata": {
+      "name": "Race",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "White",
+          "count": 442
+        },
+        {
+          "name": "Other",
+          "count": 36
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      4
+    ],
+    "metadata": {
+      "name": "Urban/Rural",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Urban",
+          "count": 178
+        },
+        {
+          "name": "Suburban",
+          "count": 151
+        },
+        {
+          "name": "Rural",
+          "count": 149
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      5
+    ],
+    "metadata": {
+      "name": "School",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Middle",
+          "count": 185
+        },
+        {
+          "name": "Brentwood",
+          "count": 151
+        },
+        {
+          "name": "Main",
+          "count": 68
+        },
+        {
+          "name": "Elementary",
+          "count": 67
+        },
+        {
+          "name": "Portage",
+          "count": 61
+        },
+        {
+          "name": "Brown",
+          "count": 52
+        },
+        {
+          "name": "Westdale",
+          "count": 49
+        },
+        {
+          "name": "Ridge",
+          "count": 48
+        },
+        {
+          "name": "Sand",
+          "count": 28
+        },
+        {
+          "name": "Elm",
+          "count": 21
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      6
+    ],
+    "metadata": {
+      "name": "Grades",
+      "structural_type": "float",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "3.0",
+          "count": 133
+        },
+        {
+          "name": "4.0",
+          "count": 128
+        },
+        {
+          "name": "2.0",
+          "count": 123
+        },
+        {
+          "name": "1.0",
+          "count": 94
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 478,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 478,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      7
+    ],
+    "metadata": {
+      "name": "Sports",
+      "structural_type": "float",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "1.0",
+          "count": 165
+        },
+        {
+          "name": "2.0",
+          "count": 154
+        },
+        {
+          "name": "3.0",
+          "count": 112
+        },
+        {
+          "name": "4.0",
+          "count": 47
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 478,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 478,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      8
+    ],
+    "metadata": {
+      "name": "Looks",
+      "structural_type": "float",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "1.0",
+          "count": 185
+        },
+        {
+          "name": "2.0",
+          "count": 126
+        },
+        {
+          "name": "3.0",
+          "count": 101
+        },
+        {
+          "name": "4.0",
+          "count": 66
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 478,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 478,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      9
+    ],
+    "metadata": {
+      "name": "Money",
+      "structural_type": "float",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "4.0",
+          "count": 237
+        },
+        {
+          "name": "3.0",
+          "count": 132
+        },
+        {
+          "name": "2.0",
+          "count": 75
+        },
+        {
+          "name": "1.0",
+          "count": 34
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 478,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 478,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  }
+]

@@ -1,1 +1,0 @@
-Domain names are organized in subordinate levels (subdomains) of the DNS root domain, which is nameless.

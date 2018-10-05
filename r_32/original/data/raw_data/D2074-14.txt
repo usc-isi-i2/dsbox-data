@@ -1,1 +1,0 @@
-A function can be described through its relationship with other functions, for example as an inverse function or as a solution of a differential equation .

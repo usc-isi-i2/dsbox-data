@@ -1,1 +1,0 @@
-Newton's law of gravitation resembles Coulomb's law of electrical forces, which is used to calculate the magnitude of electrical force between two charged bodies.

@@ -1,1 +1,0 @@
-Heart rate is the number of heartbeats per unit of time , typically expressed as beats per minute ( bpm ).

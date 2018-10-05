@@ -1,1 +1,0 @@
-In other computers, the initial program is a boot loader that may then load into random-access memory (RAM), from nonvolatile secondary storage (such as a hard disk drive ) or, in some older computers, from a medium such as punched cards , punched tape , or magnetic tape in older computers, the binary code of an operating system or runtime environment and then execute it.

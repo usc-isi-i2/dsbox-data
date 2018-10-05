@@ -1,1 +1,0 @@
-Reactions often consist of a sequence of individual sub-steps, the so-called elementary reactions , and the information on the precise course of action is part of the reaction mechanism .

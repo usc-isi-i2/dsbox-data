@@ -1,1 +1,0 @@
-The drawer writes the various details including the monetary amount, date, and a payee on the cheque, and signs it, ordering their bank , known as the drawee, to pay that person or company the amount of money stated.

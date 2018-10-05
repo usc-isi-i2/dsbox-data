@@ -1,1 +1,0 @@
-A game which has not reached this point before being stopped is either considered a suspended game (to be continued at a later date from the point of stoppage), or is simply canceled and replayed from the start.

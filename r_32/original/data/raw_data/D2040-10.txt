@@ -1,1 +1,0 @@
-The purchasing power in today's money of an amount C of money, t years into the future, can be computed with the formula for the present value :

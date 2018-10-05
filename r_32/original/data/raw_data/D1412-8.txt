@@ -1,1 +1,0 @@
-A six sigma process is one in which 99.99966% of the products manufactured are statistically expected to be free of defects (3.4 defects per million), although, as discussed below , this defect level corresponds to only a 4.5 sigma level.

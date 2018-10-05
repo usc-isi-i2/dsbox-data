@@ -1,1 +1,0 @@
-In Windows XP only, a Shutdown menu is also present that allows access to Standby, Hibernate, Turn off, Restart, Log Off and Switch User .

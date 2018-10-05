@@ -1,1 +1,0 @@
-Airline hubs are airports ranked as large, medium, small, and non-hubs as one of the FAA airport categories which are re-evaluated every year based on number of commercial passengers.

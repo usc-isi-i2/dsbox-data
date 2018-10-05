@@ -1,1 +1,0 @@
-For K variables , P = 1(Start) + K(Stage I) + (K2 − K)/2(Stage II) + 3K(Stage III) = 0.5K2 + 3.5K + 1.

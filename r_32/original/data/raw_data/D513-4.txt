@@ -1,1 +1,0 @@
-PCI-E, DRAM, and NAND based SSD.

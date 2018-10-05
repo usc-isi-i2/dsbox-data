@@ -1,1 +1,0 @@
-A boot loader is a computer program that loads the main operating system or runtime environment for the computer after completion of the self-tests.

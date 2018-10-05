@@ -1,1 +1,0 @@
-This machine may be manually controlled by an operator or it may be computer controlled.

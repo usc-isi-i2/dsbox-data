@@ -1,1 +1,0 @@
-The PCI bus supports the functions found on a processor bus , but in a standardized format that is independent of any particular processor.

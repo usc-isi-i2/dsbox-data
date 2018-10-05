@@ -1,1 +1,0 @@
-The internodes distance one node from another.

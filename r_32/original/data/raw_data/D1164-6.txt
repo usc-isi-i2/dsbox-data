@@ -1,1 +1,0 @@
-The term GUI is restricted to the scope of two-dimensional display screens with display resolutions able to describe generic information, in the tradition of the computer science research at the PARC (Palo Alto Research Center).

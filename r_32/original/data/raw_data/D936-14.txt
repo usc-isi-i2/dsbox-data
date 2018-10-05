@@ -1,1 +1,0 @@
-Exceptions for perfect conversion efficiency (even for isolated systems) occur when energy has already been partly distributed among many available quantum states for a collection of particles, which are freely allowed to explore any state of momentum and position ( phase space ).

@@ -1,1 +1,0 @@
-These specifications cause the user agent to use a particular proxy server or to connect directly.

@@ -1,1 +1,0 @@
-This function returns a string with one or more access method specifications.

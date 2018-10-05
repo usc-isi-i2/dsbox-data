@@ -1,1 +1,0 @@
-The data in the clipboard is later inserted in the position where the paste command is issued.

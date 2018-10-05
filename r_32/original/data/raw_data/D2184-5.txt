@@ -1,1 +1,0 @@
-The maximum capacity of the stadium, including standing room, is 105,000.

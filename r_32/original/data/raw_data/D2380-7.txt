@@ -1,1 +1,0 @@
-The number of different memory cards that a multi card reader can accept is expressed as x-in-1, with x being a figure of merit indicating the number of memory cards accepted, such as 35-in-1.

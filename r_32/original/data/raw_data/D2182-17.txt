@@ -1,1 +1,0 @@
-High-dimensional spaces occur in mathematics and the sciences for many reasons, frequently as configuration spaces such as in Lagrangian or Hamiltonian mechanics ; these are abstract spaces, independent of the physical space we live in.

@@ -1,0 +1,955 @@
+[
+  {
+    "selector": [],
+    "metadata": {
+      "structural_type": "d3m.container.pandas.DataFrame",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/Table"
+      ],
+      "dimension": {
+        "name": "rows",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularRow"
+        ],
+        "length": 3772
+      },
+      "schema": "https://metadata.datadrivendiscovery.org/schemas/v0/container.json"
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__"
+    ],
+    "metadata": {
+      "dimension": {
+        "name": "columns",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularColumn"
+        ],
+        "length": 29
+      }
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      0
+    ],
+    "metadata": {
+      "name": "age",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.9997348886532343,
+      "number_of_outlier_numeric_values": 1,
+      "most_common_tokens": [
+        {
+          "name": "59.0",
+          "count": 95
+        },
+        {
+          "name": "60.0",
+          "count": 91
+        },
+        {
+          "name": "70.0",
+          "count": 90
+        },
+        {
+          "name": "55.0",
+          "count": 81
+        },
+        {
+          "name": "73.0",
+          "count": 81
+        },
+        {
+          "name": "63.0",
+          "count": 78
+        },
+        {
+          "name": "58.0",
+          "count": 77
+        },
+        {
+          "name": "72.0",
+          "count": 77
+        },
+        {
+          "name": "62.0",
+          "count": 75
+        },
+        {
+          "name": "61.0",
+          "count": 74
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 3771,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 3771,
+      "ratio_of_values_containing_numeric_char": 0.9997348886532343
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      1
+    ],
+    "metadata": {
+      "name": "sex",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "F",
+          "count": 2480
+        },
+        {
+          "name": "M",
+          "count": 1142
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      2
+    ],
+    "metadata": {
+      "name": "on_thyroxine",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3308
+        },
+        {
+          "name": "t",
+          "count": 464
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      3
+    ],
+    "metadata": {
+      "name": "query_on_thyroxine",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3722
+        },
+        {
+          "name": "t",
+          "count": 50
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      4
+    ],
+    "metadata": {
+      "name": "on_antithyroid_medication",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3729
+        },
+        {
+          "name": "t",
+          "count": 43
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      5
+    ],
+    "metadata": {
+      "name": "sick",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3625
+        },
+        {
+          "name": "t",
+          "count": 147
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      6
+    ],
+    "metadata": {
+      "name": "pregnant",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3719
+        },
+        {
+          "name": "t",
+          "count": 53
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      7
+    ],
+    "metadata": {
+      "name": "thyroid_surgery",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3719
+        },
+        {
+          "name": "t",
+          "count": 53
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      8
+    ],
+    "metadata": {
+      "name": "I131_treatment",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3713
+        },
+        {
+          "name": "t",
+          "count": 59
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      9
+    ],
+    "metadata": {
+      "name": "query_hypothyroid",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3538
+        },
+        {
+          "name": "t",
+          "count": 234
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      10
+    ],
+    "metadata": {
+      "name": "query_hyperthyroid",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3535
+        },
+        {
+          "name": "t",
+          "count": 237
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      11
+    ],
+    "metadata": {
+      "name": "lithium",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3754
+        },
+        {
+          "name": "t",
+          "count": 18
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      12
+    ],
+    "metadata": {
+      "name": "goitre",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3738
+        },
+        {
+          "name": "t",
+          "count": 34
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      13
+    ],
+    "metadata": {
+      "name": "tumor",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3676
+        },
+        {
+          "name": "t",
+          "count": 96
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      14
+    ],
+    "metadata": {
+      "name": "hypopituitary",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3771
+        },
+        {
+          "name": "t",
+          "count": 1
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      15
+    ],
+    "metadata": {
+      "name": "psych",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3588
+        },
+        {
+          "name": "t",
+          "count": 184
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      16
+    ],
+    "metadata": {
+      "name": "TSH_measured",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "t",
+          "count": 3403
+        },
+        {
+          "name": "f",
+          "count": 369
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      17
+    ],
+    "metadata": {
+      "name": "TSH",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Float",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.9021739130434783,
+      "number_of_outlier_numeric_values": 37,
+      "most_common_tokens": [
+        {
+          "name": "0.2",
+          "count": 116
+        },
+        {
+          "name": "1.3",
+          "count": 105
+        },
+        {
+          "name": "1.1",
+          "count": 97
+        },
+        {
+          "name": "1.4",
+          "count": 91
+        },
+        {
+          "name": "1.5",
+          "count": 80
+        },
+        {
+          "name": "1.2",
+          "count": 79
+        },
+        {
+          "name": "1.9",
+          "count": 79
+        },
+        {
+          "name": "1.6",
+          "count": 78
+        },
+        {
+          "name": "1.7",
+          "count": 73
+        },
+        {
+          "name": "2.3",
+          "count": 70
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 3403,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 3403,
+      "ratio_of_values_containing_numeric_char": 0.9021739130434783
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      18
+    ],
+    "metadata": {
+      "name": "T3_measured",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "t",
+          "count": 3003
+        },
+        {
+          "name": "f",
+          "count": 769
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      19
+    ],
+    "metadata": {
+      "name": "T3",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Float",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.7961293743372216,
+      "number_of_outlier_numeric_values": 44,
+      "most_common_tokens": [
+        {
+          "name": "2.0",
+          "count": 238
+        },
+        {
+          "name": "1.8",
+          "count": 207
+        },
+        {
+          "name": "2.2",
+          "count": 201
+        },
+        {
+          "name": "1.9",
+          "count": 189
+        },
+        {
+          "name": "2.1",
+          "count": 184
+        },
+        {
+          "name": "2.3",
+          "count": 183
+        },
+        {
+          "name": "1.6",
+          "count": 159
+        },
+        {
+          "name": "1.7",
+          "count": 157
+        },
+        {
+          "name": "1.5",
+          "count": 141
+        },
+        {
+          "name": "2.4",
+          "count": 137
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 3003,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 3003,
+      "ratio_of_values_containing_numeric_char": 0.7961293743372216
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      20
+    ],
+    "metadata": {
+      "name": "TT4_measured",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "t",
+          "count": 3541
+        },
+        {
+          "name": "f",
+          "count": 231
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      21
+    ],
+    "metadata": {
+      "name": "TT4",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Float",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.9387592788971368,
+      "number_of_outlier_numeric_values": 40,
+      "most_common_tokens": [
+        {
+          "name": "101.0",
+          "count": 71
+        },
+        {
+          "name": "93.0",
+          "count": 67
+        },
+        {
+          "name": "103.0",
+          "count": 63
+        },
+        {
+          "name": "98.0",
+          "count": 63
+        },
+        {
+          "name": "102.0",
+          "count": 59
+        },
+        {
+          "name": "87.0",
+          "count": 59
+        },
+        {
+          "name": "91.0",
+          "count": 56
+        },
+        {
+          "name": "94.0",
+          "count": 56
+        },
+        {
+          "name": "99.0",
+          "count": 55
+        },
+        {
+          "name": "120.0",
+          "count": 54
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 3541,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 3541,
+      "ratio_of_values_containing_numeric_char": 0.9387592788971368
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      22
+    ],
+    "metadata": {
+      "name": "T4U_measured",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "t",
+          "count": 3385
+        },
+        {
+          "name": "f",
+          "count": 387
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      23
+    ],
+    "metadata": {
+      "name": "T4U",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Float",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.8974019088016967,
+      "number_of_outlier_numeric_values": 66,
+      "most_common_tokens": [
+        {
+          "name": "0.99",
+          "count": 95
+        },
+        {
+          "name": "0.9",
+          "count": 93
+        },
+        {
+          "name": "1.01",
+          "count": 91
+        },
+        {
+          "name": "1.0",
+          "count": 90
+        },
+        {
+          "name": "0.92",
+          "count": 89
+        },
+        {
+          "name": "0.93",
+          "count": 88
+        },
+        {
+          "name": "0.97",
+          "count": 88
+        },
+        {
+          "name": "1.02",
+          "count": 87
+        },
+        {
+          "name": "0.91",
+          "count": 85
+        },
+        {
+          "name": "0.86",
+          "count": 83
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 3385,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 3385,
+      "ratio_of_values_containing_numeric_char": 0.8974019088016967
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      24
+    ],
+    "metadata": {
+      "name": "FTI_measured",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "t",
+          "count": 3387
+        },
+        {
+          "name": "f",
+          "count": 385
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      25
+    ],
+    "metadata": {
+      "name": "FTI",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Float",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.897932131495228,
+      "number_of_outlier_numeric_values": 65,
+      "most_common_tokens": [
+        {
+          "name": "100.0",
+          "count": 73
+        },
+        {
+          "name": "93.0",
+          "count": 70
+        },
+        {
+          "name": "114.0",
+          "count": 65
+        },
+        {
+          "name": "107.0",
+          "count": 64
+        },
+        {
+          "name": "98.0",
+          "count": 64
+        },
+        {
+          "name": "104.0",
+          "count": 63
+        },
+        {
+          "name": "92.0",
+          "count": 63
+        },
+        {
+          "name": "101.0",
+          "count": 59
+        },
+        {
+          "name": "106.0",
+          "count": 59
+        },
+        {
+          "name": "96.0",
+          "count": 59
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 3387,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 3387,
+      "ratio_of_values_containing_numeric_char": 0.897932131495228
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      26
+    ],
+    "metadata": {
+      "name": "TBG_measured",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "f",
+          "count": 3772
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      27
+    ],
+    "metadata": {
+      "name": "TBG",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      28
+    ],
+    "metadata": {
+      "name": "referral_source",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "other",
+          "count": 2201
+        },
+        {
+          "name": "SVI",
+          "count": 1034
+        },
+        {
+          "name": "SVHC",
+          "count": 386
+        },
+        {
+          "name": "STMW",
+          "count": 112
+        },
+        {
+          "name": "SVHD",
+          "count": 39
+        }
+      ]
+    }
+  }
+]

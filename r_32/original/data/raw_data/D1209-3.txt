@@ -1,1 +1,0 @@
-A pump's pressure, expressed in pounds per square inch, pascals , or bar (deprecated but in common usage), is also designed into the pump but can be varied by adjusting the unloader valve.

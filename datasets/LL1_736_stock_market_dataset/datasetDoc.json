@@ -1,0 +1,105 @@
+{
+  "about": {
+    "datasetID": "LL1_736_stock_market_dataset",
+    "datasetName": "Stock market - daily closing data",
+    "description": "Historical stock market closing data for 10 companies in the U.S. for years ranging from 2009 to 2017",
+    "source": "Kaggle",
+    "sourceURI": "https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs",
+    "approximateSize": "",
+    "datasetSchemaVersion": "3.1.2",
+    "license": "CC0",
+    "redacted": false
+  },
+  "dataResources": [
+    {
+      "resID": "0",
+      "resPath": "timeseries/",
+      "resType": "timeseries",
+      "resFormat": [
+        "text/csv"
+      ],
+      "isCollection": true,
+      "columns": [
+        {
+          "colIndex": 0,
+          "colName": "Date",
+          "colType": "dateTime",
+          "role": [
+            "index"
+          ]
+        },
+        {
+          "colIndex": 1,
+          "colName": "Close",
+          "colType": "real",
+          "role": [
+            "attribute"
+          ]
+        }
+      ]
+    },
+    {
+      "resID": "1",
+      "resPath": "tables/learningData.csv",
+      "resType": "table",
+      "resFormat": [
+        "text/csv"
+      ],
+      "isCollection": false,
+      "columns": [
+        {
+          "colIndex": 0,
+          "colName": "d3mIndex",
+          "colType": "integer",
+          "role": [
+            "index"
+          ]
+        },
+        {
+          "colIndex": 1,
+          "colName": "Company",
+          "colType": "categorical",
+          "role": [
+            "attribute"
+          ]
+        },
+        {
+          "colIndex": 2,
+          "colName": "Year",
+          "colType": "categorical",
+          "role": [
+            "attribute"
+          ]
+        },
+        {
+          "colIndex": 3,
+          "colName": "timeseries_file",
+          "colType": "string",
+          "role": [
+            "attribute"
+          ],
+          "refersTo": {
+            "resID": "0",
+            "resObject": "item"
+          }
+        },
+        {
+          "colIndex": 4,
+          "colName": "Date",
+          "colType": "dateTime",
+          "role": [
+            "attribute"
+          ]
+        },
+        {
+          "colIndex": 5,
+          "colName": "Close",
+          "colType": "real",
+          "role": [
+            "suggestedTarget"
+          ]
+        }
+      ]
+    }
+  ]
+}

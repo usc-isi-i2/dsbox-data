@@ -1,1 +1,0 @@
-The command names are an interface metaphor based on the physical procedure used in manuscript editing to create a page layout .

@@ -1,1 +1,0 @@
-Economic order quantity is the order quantity that minimizes total inventory holding costs and ordering costs.

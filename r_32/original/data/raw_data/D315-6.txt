@@ -1,1 +1,0 @@
-In the most generic sense of the definition above, color spaces can be defined without the use of a color model.

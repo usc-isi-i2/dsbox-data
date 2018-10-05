@@ -1,1 +1,0 @@
-The simple gravity pendulum is an idealized mathematical model of a pendulum.

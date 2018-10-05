@@ -1,1 +1,0 @@
-It also features hardware-accelerated graphics rendering using Direct2D , hardware-accelerated text rendering using DirectWrite , hardware-accelerated video rendering using Media Foundation , imaging support provided by Windows Imaging Component , and high fidelity printing powered by the XML Paper Specification (XPS) print pipeline.

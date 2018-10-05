@@ -1,1 +1,0 @@
-On this image, symbols are drawn with lines of different thickness to make an effect of extrusion.

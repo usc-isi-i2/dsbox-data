@@ -1,1 +1,0 @@
-Addressability comes in a variety of forms including email addresses, mobile phone numbers, Web browser cookies, fax numbers and postal addresses.

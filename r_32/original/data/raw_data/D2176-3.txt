@@ -1,1 +1,0 @@
-A lens that loses focus during zooming is more properly called a varifocal lens .

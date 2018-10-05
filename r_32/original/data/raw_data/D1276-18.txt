@@ -1,1 +1,0 @@
-ARB assembly language , a low-level shading language defined by the OpenGL Architecture Review Board

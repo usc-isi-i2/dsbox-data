@@ -1,1 +1,0 @@
-Adding a certain mapping function between the color model and a certain reference color space results in a definite "footprint" within the reference color space.

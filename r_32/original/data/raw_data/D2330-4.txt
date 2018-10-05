@@ -1,1 +1,0 @@
-SATA 3 Gbit/s drives may be connected to SAS backplanes , but SAS drives cannot connect to SATA backplanes.

@@ -1,1 +1,0 @@
-Assuming a fixed sample size, the technique gives more accurate results when most of the variation in the population is within the groups, not between them.

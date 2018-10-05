@@ -1,1 +1,0 @@
-Using a RISC based approach to computer design, ARM processors require significantly fewer transistors than processors that would typically be found in a traditional computer.

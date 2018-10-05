@@ -1,1 +1,0 @@
-For ease of description the surfaces of a double paned unit are named according to the following convention: Surface #1 (facing outside), Surface #2 (inside of outside pane), Surface #3 (outside of inside pane) and Surface #4 (inside surface of inside pane).

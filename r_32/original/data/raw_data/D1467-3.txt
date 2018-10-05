@@ -1,1 +1,0 @@
-New features include a GUI framework and automatic generation of the uninstallation sequence.

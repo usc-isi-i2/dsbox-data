@@ -1,1 +1,0 @@
-This Molex and Amp connector configuration was the established standard for disk drive power connectors until the introduction of SATA disk drives .

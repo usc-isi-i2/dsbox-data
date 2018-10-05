@@ -1,1 +1,0 @@
-The mnemonic APL refers to the title of his seminal book "A Programming Language" and not to arrays per se. Iverson's contribution to rigor and clarity was probably more important than the simple extension of dimensions to functions.

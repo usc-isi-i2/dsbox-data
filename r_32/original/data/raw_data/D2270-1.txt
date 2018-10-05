@@ -1,1 +1,0 @@
-It can be used to refer to either the mean orbital speed, the average speed as it completes an orbit, or instantaneous orbital speed, the speed at a particular point in its orbit.

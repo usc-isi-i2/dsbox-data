@@ -1,1 +1,0 @@
-Not to be confused with the term Two Wire Interface which only describes a compatible hardware interface.

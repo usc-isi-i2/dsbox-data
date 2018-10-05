@@ -1,1 +1,0 @@
-The single- and dual-core models are single- die , whereas the quad-core models comprise two dies, each containing two cores, packaged in a multi-chip module .

@@ -1,1 +1,0 @@
-A fully qualified domain name (FQDN) is a domain name that is completely specified in the hierarchy of the DNS, having no omitted parts.

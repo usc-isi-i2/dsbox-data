@@ -1,1 +1,0 @@
-A low standard deviation indicates that the data points tend to be very close to the mean ; high standard deviation indicates that the data points are spread out over a large range of values.

@@ -1,1 +1,0 @@
-This "footprint" is known as a gamut , and, in combination with the color model, defines a new color space.

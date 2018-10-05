@@ -1,1 +1,0 @@
-Raster Document Object , a file format

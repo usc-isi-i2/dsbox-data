@@ -1,1 +1,0 @@
-Array programming primitives concisely express broad ideas about data manipulation.

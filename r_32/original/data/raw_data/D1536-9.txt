@@ -1,1 +1,0 @@
-Modern electron microscopes produce electron micrographs , using specialized digital cameras or frame grabbers to capture the image.

@@ -1,1 +1,0 @@
-Where accuracy is required the correct term must be used, but for many purposes this is not necessary: the metric and long tons differ by only 1.6%, and the short ton is within 11% of both.

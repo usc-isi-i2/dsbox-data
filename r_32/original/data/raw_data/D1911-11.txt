@@ -1,1 +1,0 @@
-A common example is ultrasonic thickness measurement , which tests the thickness of the test object, for example, to monitor pipework corrosion.

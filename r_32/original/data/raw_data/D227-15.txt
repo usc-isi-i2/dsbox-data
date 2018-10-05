@@ -1,1 +1,0 @@
-The ideal thermodynamic cycle used to analyze this process is called the Rankine cycle .

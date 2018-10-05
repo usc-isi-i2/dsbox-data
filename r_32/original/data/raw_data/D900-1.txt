@@ -1,1 +1,0 @@
-An exemplar animation of a pendulum showing the velocity and acceleration vectors

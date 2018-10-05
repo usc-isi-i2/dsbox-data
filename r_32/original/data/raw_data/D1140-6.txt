@@ -1,1 +1,0 @@
-Colored inks, paints, or filters between the viewer and the light source or reflective surface subtract wavelengths from the light, giving it color.

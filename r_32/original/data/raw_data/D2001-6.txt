@@ -1,1 +1,0 @@
-Enrollment is the 12-month unduplicated headcount, indicating the number of unique students who attended the university during the year.

@@ -1,0 +1,1645 @@
+[
+  {
+    "selector": [],
+    "metadata": {
+      "structural_type": "d3m.container.pandas.DataFrame",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/Table"
+      ],
+      "dimension": {
+        "name": "rows",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularRow"
+        ],
+        "length": 15172
+      },
+      "schema": "https://metadata.datadrivendiscovery.org/schemas/v0/container.json"
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__"
+    ],
+    "metadata": {
+      "dimension": {
+        "name": "columns",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularColumn"
+        ],
+        "length": 29
+      }
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      0
+    ],
+    "metadata": {
+      "name": "data_id",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 11,
+      "most_common_tokens": [
+        {
+          "name": "1031903",
+          "count": 1
+        },
+        {
+          "name": "1043715",
+          "count": 1
+        },
+        {
+          "name": "1247968",
+          "count": 1
+        },
+        {
+          "name": "1247969",
+          "count": 1
+        },
+        {
+          "name": "1248033",
+          "count": 1
+        },
+        {
+          "name": "1248241",
+          "count": 1
+        },
+        {
+          "name": "1248243",
+          "count": 1
+        },
+        {
+          "name": "1248317",
+          "count": 1
+        },
+        {
+          "name": "1250611",
+          "count": 1
+        },
+        {
+          "name": "1260616",
+          "count": 1
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15172,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      1
+    ],
+    "metadata": {
+      "name": "iso",
+      "structural_type": "int",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 53,
+      "most_common_tokens": [
+        {
+          "name": "760",
+          "count": 8398
+        },
+        {
+          "name": "887",
+          "count": 3256
+        },
+        {
+          "name": "368",
+          "count": 1116
+        },
+        {
+          "name": "682",
+          "count": 706
+        },
+        {
+          "name": "364",
+          "count": 674
+        },
+        {
+          "name": "275",
+          "count": 548
+        },
+        {
+          "name": "792",
+          "count": 230
+        },
+        {
+          "name": "376",
+          "count": 88
+        },
+        {
+          "name": "422",
+          "count": 77
+        },
+        {
+          "name": "48",
+          "count": 53
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15172,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      2
+    ],
+    "metadata": {
+      "name": "event_id_cnty",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Text",
+        "https://metadata.datadrivendiscovery.org/types/Attribute",
+        "https://metadata.datadrivendiscovery.org/types/CanBeSplitByAlphanumeric"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "BHR222",
+          "count": 1
+        },
+        {
+          "name": "BHR223",
+          "count": 1
+        },
+        {
+          "name": "BHR224",
+          "count": 1
+        },
+        {
+          "name": "BHR225",
+          "count": 1
+        },
+        {
+          "name": "BHR226",
+          "count": 1
+        },
+        {
+          "name": "BHR227",
+          "count": 1
+        },
+        {
+          "name": "BHR228",
+          "count": 1
+        },
+        {
+          "name": "BHR229",
+          "count": 1
+        },
+        {
+          "name": "BHR230",
+          "count": 1
+        },
+        {
+          "name": "BHR231",
+          "count": 1
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15172,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      3
+    ],
+    "metadata": {
+      "name": "event_id_no_cnty",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Text",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.9992090693382547,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "Error:",
+          "count": 12
+        },
+        {
+          "name": "characters",
+          "count": 12
+        },
+        {
+          "name": "contains",
+          "count": 12
+        },
+        {
+          "name": "non-numeric",
+          "count": 12
+        },
+        {
+          "name": "value",
+          "count": 12
+        },
+        {
+          "name": "1386",
+          "count": 3
+        },
+        {
+          "name": "1387",
+          "count": 3
+        },
+        {
+          "name": "1388",
+          "count": 3
+        },
+        {
+          "name": "1390",
+          "count": 3
+        },
+        {
+          "name": "1391",
+          "count": 3
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15172,
+      "ratio_of_tokens_containing_numeric_char": 0.9960609243697479,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      4
+    ],
+    "metadata": {
+      "name": "event_date",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/Time",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "2018",
+          "count": 15172
+        },
+        {
+          "name": "January",
+          "count": 4130
+        },
+        {
+          "name": "February",
+          "count": 3841
+        },
+        {
+          "name": "March",
+          "count": 3732
+        },
+        {
+          "name": "April",
+          "count": 3469
+        },
+        {
+          "name": "06",
+          "count": 585
+        },
+        {
+          "name": "08",
+          "count": 549
+        },
+        {
+          "name": "12",
+          "count": 544
+        },
+        {
+          "name": "15",
+          "count": 532
+        },
+        {
+          "name": "16",
+          "count": 529
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 30344,
+      "ratio_of_tokens_containing_numeric_char": 0.6666666666666666,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      5
+    ],
+    "metadata": {
+      "name": "year",
+      "structural_type": "int",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "2018",
+          "count": 15172
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15172,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      6
+    ],
+    "metadata": {
+      "name": "time_precision",
+      "structural_type": "int",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 266,
+      "most_common_tokens": [
+        {
+          "name": "1",
+          "count": 14906
+        },
+        {
+          "name": "2",
+          "count": 258
+        },
+        {
+          "name": "3",
+          "count": 8
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15172,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      7
+    ],
+    "metadata": {
+      "name": "actor1",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Text",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Forces",
+          "count": 9237
+        },
+        {
+          "name": "of",
+          "count": 8057
+        },
+        {
+          "name": "Military",
+          "count": 7967
+        },
+        {
+          "name": "Syria",
+          "count": 4097
+        },
+        {
+          "name": "(2000-)",
+          "count": 4078
+        },
+        {
+          "name": "(2016-)",
+          "count": 2556
+        },
+        {
+          "name": "Yemen",
+          "count": 2051
+        },
+        {
+          "name": "Operation",
+          "count": 1789
+        },
+        {
+          "name": "Council",
+          "count": 1566
+        },
+        {
+          "name": "Hope",
+          "count": 1564
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 7880,
+      "ratio_of_tokens_containing_numeric_char": 0.1113607778295954,
+      "number_of_values_containing_numeric_char": 7877,
+      "ratio_of_values_containing_numeric_char": 0.519180068547324
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      8
+    ],
+    "metadata": {
+      "name": "assoc_actor_1",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Text",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Forces",
+          "count": 1772
+        },
+        {
+          "name": "Syrian",
+          "count": 1268
+        },
+        {
+          "name": "of",
+          "count": 977
+        },
+        {
+          "name": "Military",
+          "count": 932
+        },
+        {
+          "name": "Militia",
+          "count": 892
+        },
+        {
+          "name": "Allied",
+          "count": 776
+        },
+        {
+          "name": "Russian",
+          "count": 776
+        },
+        {
+          "name": "and/or",
+          "count": 776
+        },
+        {
+          "name": "(Pro-Government)",
+          "count": 494
+        },
+        {
+          "name": "(2000-)",
+          "count": 398
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 714,
+      "ratio_of_tokens_containing_numeric_char": 0.041618092795523434,
+      "number_of_values_containing_numeric_char": 684,
+      "ratio_of_values_containing_numeric_char": 0.04508304771948326
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      9
+    ],
+    "metadata": {
+      "name": "inter1",
+      "structural_type": "int",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "1",
+          "count": 6839
+        },
+        {
+          "name": "8",
+          "count": 3811
+        },
+        {
+          "name": "2",
+          "count": 1932
+        },
+        {
+          "name": "3",
+          "count": 1377
+        },
+        {
+          "name": "6",
+          "count": 1007
+        },
+        {
+          "name": "5",
+          "count": 142
+        },
+        {
+          "name": "7",
+          "count": 37
+        },
+        {
+          "name": "4",
+          "count": 25
+        },
+        {
+          "name": "0",
+          "count": 2
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15172,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      10
+    ],
+    "metadata": {
+      "name": "actor2",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Text",
+        "https://metadata.datadrivendiscovery.org/types/Attribute",
+        "https://metadata.datadrivendiscovery.org/types/CanBeSplitByPunctuation"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Forces",
+          "count": 3450
+        },
+        {
+          "name": "of",
+          "count": 3090
+        },
+        {
+          "name": "Military",
+          "count": 2910
+        },
+        {
+          "name": "(Syria)",
+          "count": 2834
+        },
+        {
+          "name": "Civilians",
+          "count": 2681
+        },
+        {
+          "name": "Yemen",
+          "count": 1700
+        },
+        {
+          "name": "(2016-)",
+          "count": 941
+        },
+        {
+          "name": "(2012-)",
+          "count": 880
+        },
+        {
+          "name": "Council",
+          "count": 817
+        },
+        {
+          "name": "Political",
+          "count": 817
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 3054,
+      "ratio_of_tokens_containing_numeric_char": 0.08512417426206205,
+      "number_of_values_containing_numeric_char": 3050,
+      "ratio_of_values_containing_numeric_char": 0.20102820986026892
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      11
+    ],
+    "metadata": {
+      "name": "assoc_actor_2",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Text",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Militia",
+          "count": 782
+        },
+        {
+          "name": "(Pro-Government)",
+          "count": 419
+        },
+        {
+          "name": "(Syria)",
+          "count": 402
+        },
+        {
+          "name": "Islamist",
+          "count": 325
+        },
+        {
+          "name": "Forces",
+          "count": 308
+        },
+        {
+          "name": "of",
+          "count": 269
+        },
+        {
+          "name": "Opposition",
+          "count": 168
+        },
+        {
+          "name": "Rebels",
+          "count": 168
+        },
+        {
+          "name": "Military",
+          "count": 165
+        },
+        {
+          "name": "(Syria);",
+          "count": 152
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 199,
+      "ratio_of_tokens_containing_numeric_char": 0.027093260721579304,
+      "number_of_values_containing_numeric_char": 189,
+      "ratio_of_values_containing_numeric_char": 0.012457157922488795
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      12
+    ],
+    "metadata": {
+      "name": "inter2",
+      "structural_type": "int",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "0",
+          "count": 5980
+        },
+        {
+          "name": "1",
+          "count": 2881
+        },
+        {
+          "name": "7",
+          "count": 2687
+        },
+        {
+          "name": "2",
+          "count": 2639
+        },
+        {
+          "name": "3",
+          "count": 412
+        },
+        {
+          "name": "5",
+          "count": 244
+        },
+        {
+          "name": "8",
+          "count": 244
+        },
+        {
+          "name": "4",
+          "count": 44
+        },
+        {
+          "name": "6",
+          "count": 41
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15172,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      13
+    ],
+    "metadata": {
+      "name": "interaction",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "10",
+          "count": 2742
+        },
+        {
+          "name": "12",
+          "count": 1682
+        },
+        {
+          "name": "80",
+          "count": 1546
+        },
+        {
+          "name": "17",
+          "count": 1347
+        },
+        {
+          "name": "11",
+          "count": 1187
+        },
+        {
+          "name": "18",
+          "count": 1028
+        },
+        {
+          "name": "60",
+          "count": 966
+        },
+        {
+          "name": "22",
+          "count": 776
+        },
+        {
+          "name": "28",
+          "count": 560
+        },
+        {
+          "name": "37",
+          "count": 554
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15172,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      14
+    ],
+    "metadata": {
+      "name": "region",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "East",
+          "count": 15172
+        },
+        {
+          "name": "Middle",
+          "count": 15172
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      15
+    ],
+    "metadata": {
+      "name": "country",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Syria",
+          "count": 8398
+        },
+        {
+          "name": "Yemen",
+          "count": 3256
+        },
+        {
+          "name": "Iraq",
+          "count": 1116
+        },
+        {
+          "name": "Arabia",
+          "count": 706
+        },
+        {
+          "name": "Saudi",
+          "count": 706
+        },
+        {
+          "name": "Iran",
+          "count": 674
+        },
+        {
+          "name": "Palestine",
+          "count": 548
+        },
+        {
+          "name": "Turkey",
+          "count": 230
+        },
+        {
+          "name": "Israel",
+          "count": 88
+        },
+        {
+          "name": "Lebanon",
+          "count": 77
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      16
+    ],
+    "metadata": {
+      "name": "admin1",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Text",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Idleb",
+          "count": 1916
+        },
+        {
+          "name": "Damascus",
+          "count": 1748
+        },
+        {
+          "name": "Aleppo",
+          "count": 1682
+        },
+        {
+          "name": "Rural",
+          "count": 1398
+        },
+        {
+          "name": "Hama",
+          "count": 1293
+        },
+        {
+          "name": "Al",
+          "count": 838
+        },
+        {
+          "name": "Sadah",
+          "count": 806
+        },
+        {
+          "name": "Dar'a",
+          "count": 563
+        },
+        {
+          "name": "Homs",
+          "count": 560
+        },
+        {
+          "name": "Taizz",
+          "count": 553
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      17
+    ],
+    "metadata": {
+      "name": "admin2",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Text",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Al",
+          "count": 2526
+        },
+        {
+          "name": "Ma'ra",
+          "count": 1007
+        },
+        {
+          "name": "Afrin",
+          "count": 936
+        },
+        {
+          "name": "Damascus",
+          "count": 928
+        },
+        {
+          "name": "Duma",
+          "count": 733
+        },
+        {
+          "name": "Rural",
+          "count": 578
+        },
+        {
+          "name": "Idleb",
+          "count": 482
+        },
+        {
+          "name": "Muhradah",
+          "count": 477
+        },
+        {
+          "name": "Jebel",
+          "count": 453
+        },
+        {
+          "name": "Saman",
+          "count": 453
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 9,
+      "ratio_of_tokens_containing_numeric_char": 0.00043045724124736944,
+      "number_of_values_containing_numeric_char": 9,
+      "ratio_of_values_containing_numeric_char": 0.0005931979963089902
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      18
+    ],
+    "metadata": {
+      "name": "admin3",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Text",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Kafr",
+          "count": 827
+        },
+        {
+          "name": "Central",
+          "count": 477
+        },
+        {
+          "name": "Zeita",
+          "count": 403
+        },
+        {
+          "name": "Damascus",
+          "count": 350
+        },
+        {
+          "name": "Batna",
+          "count": 313
+        },
+        {
+          "name": "Harasta",
+          "count": 297
+        },
+        {
+          "name": "Afrin",
+          "count": 266
+        },
+        {
+          "name": "Khan",
+          "count": 259
+        },
+        {
+          "name": "An",
+          "count": 257
+        },
+        {
+          "name": "Duma",
+          "count": 256
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      19
+    ],
+    "metadata": {
+      "name": "location",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Text",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Al",
+          "count": 1577
+        },
+        {
+          "name": "-",
+          "count": 710
+        },
+        {
+          "name": "al",
+          "count": 514
+        },
+        {
+          "name": "Kafr",
+          "count": 362
+        },
+        {
+          "name": "Jabal",
+          "count": 356
+        },
+        {
+          "name": "Damascus",
+          "count": 288
+        },
+        {
+          "name": "Duma",
+          "count": 186
+        },
+        {
+          "name": "Afrin",
+          "count": 174
+        },
+        {
+          "name": "Dar'a",
+          "count": 173
+        },
+        {
+          "name": "Suq",
+          "count": 157
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 21,
+      "ratio_of_tokens_containing_numeric_char": 0.0008663723750979826,
+      "number_of_values_containing_numeric_char": 21,
+      "ratio_of_values_containing_numeric_char": 0.0013841286580543106
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      20
+    ],
+    "metadata": {
+      "name": "latitude",
+      "structural_type": "float",
+      "semantic_types": [
+        "http://schema.org/Float",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "33.5706",
+          "count": 184
+        },
+        {
+          "name": "36.5111",
+          "count": 159
+        },
+        {
+          "name": "16.320999999999998",
+          "count": 129
+        },
+        {
+          "name": "35.3736",
+          "count": 129
+        },
+        {
+          "name": "33.5643",
+          "count": 125
+        },
+        {
+          "name": "35.3213",
+          "count": 121
+        },
+        {
+          "name": "32.6241",
+          "count": 110
+        },
+        {
+          "name": "33.5388",
+          "count": 99
+        },
+        {
+          "name": "35.8143",
+          "count": 90
+        },
+        {
+          "name": "17.4933",
+          "count": 89
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15172,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      21
+    ],
+    "metadata": {
+      "name": "longitude",
+      "structural_type": "float",
+      "semantic_types": [
+        "http://schema.org/Float",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 97,
+      "most_common_tokens": [
+        {
+          "name": "36.4046",
+          "count": 183
+        },
+        {
+          "name": "36.8655",
+          "count": 159
+        },
+        {
+          "name": "36.6018",
+          "count": 129
+        },
+        {
+          "name": "42.813",
+          "count": 129
+        },
+        {
+          "name": "36.3712",
+          "count": 125
+        },
+        {
+          "name": "36.6204",
+          "count": 121
+        },
+        {
+          "name": "36.1049",
+          "count": 109
+        },
+        {
+          "name": "36.3653",
+          "count": 99
+        },
+        {
+          "name": "36.4005",
+          "count": 99
+        },
+        {
+          "name": "36.3206",
+          "count": 90
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15172,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      22
+    ],
+    "metadata": {
+      "name": "geo_precision",
+      "structural_type": "int",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "1",
+          "count": 10438
+        },
+        {
+          "name": "2",
+          "count": 4091
+        },
+        {
+          "name": "3",
+          "count": 643
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15172,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      23
+    ],
+    "metadata": {
+      "name": "source",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Text",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "SOHR;",
+          "count": 4001
+        },
+        {
+          "name": "News",
+          "count": 3214
+        },
+        {
+          "name": "Agency",
+          "count": 2871
+        },
+        {
+          "name": "Yemen",
+          "count": 2267
+        },
+        {
+          "name": "SOHR:",
+          "count": 2206
+        },
+        {
+          "name": "LiveUMap:",
+          "count": 1326
+        },
+        {
+          "name": "SHAM;",
+          "count": 1181
+        },
+        {
+          "name": "LiveUMap;",
+          "count": 1139
+        },
+        {
+          "name": "(SABA)",
+          "count": 1115
+        },
+        {
+          "name": "Al",
+          "count": 698
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15979,
+      "ratio_of_tokens_containing_numeric_char": 0.32510020142011353,
+      "number_of_values_containing_numeric_char": 8693,
+      "ratio_of_values_containing_numeric_char": 0.5729633535460058
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      24
+    ],
+    "metadata": {
+      "name": "source_scale",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Text",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Other-local",
+          "count": 6495
+        },
+        {
+          "name": "National",
+          "count": 3848
+        },
+        {
+          "name": "Other-Local",
+          "count": 2118
+        },
+        {
+          "name": "Subnational",
+          "count": 1023
+        },
+        {
+          "name": "Regional",
+          "count": 581
+        },
+        {
+          "name": "Local",
+          "count": 374
+        },
+        {
+          "name": "International",
+          "count": 283
+        },
+        {
+          "name": "Other",
+          "count": 61
+        },
+        {
+          "name": "Subnational-national",
+          "count": 50
+        },
+        {
+          "name": "National-international",
+          "count": 41
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      25
+    ],
+    "metadata": {
+      "name": "notes",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Text",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "the",
+          "count": 18587
+        },
+        {
+          "name": "in",
+          "count": 18347
+        },
+        {
+          "name": "of",
+          "count": 16133
+        },
+        {
+          "name": "and",
+          "count": 12517
+        },
+        {
+          "name": "fatalities",
+          "count": 6975
+        },
+        {
+          "name": "on",
+          "count": 6850
+        },
+        {
+          "name": "reported.",
+          "count": 6745
+        },
+        {
+          "name": "were",
+          "count": 6483
+        },
+        {
+          "name": "forces",
+          "count": 6465
+        },
+        {
+          "name": "to",
+          "count": 4835
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 9021,
+      "ratio_of_tokens_containing_numeric_char": 0.021304885882708586,
+      "number_of_values_containing_numeric_char": 5489,
+      "ratio_of_values_containing_numeric_char": 0.36178486686000527
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      26
+    ],
+    "metadata": {
+      "name": "fatalities",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 129,
+      "most_common_tokens": [
+        {
+          "name": "0",
+          "count": 10829
+        },
+        {
+          "name": "1",
+          "count": 1239
+        },
+        {
+          "name": "10",
+          "count": 718
+        },
+        {
+          "name": "2",
+          "count": 569
+        },
+        {
+          "name": "3",
+          "count": 433
+        },
+        {
+          "name": "5",
+          "count": 320
+        },
+        {
+          "name": "4",
+          "count": 240
+        },
+        {
+          "name": "6",
+          "count": 181
+        },
+        {
+          "name": "7",
+          "count": 107
+        },
+        {
+          "name": "12",
+          "count": 91
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15172,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      27
+    ],
+    "metadata": {
+      "name": "timestamp",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 499,
+      "most_common_tokens": [
+        {
+          "name": "1524053823",
+          "count": 824
+        },
+        {
+          "name": "1524053824",
+          "count": 763
+        },
+        {
+          "name": "1524053825",
+          "count": 750
+        },
+        {
+          "name": "1524053821",
+          "count": 736
+        },
+        {
+          "name": "1524053817",
+          "count": 717
+        },
+        {
+          "name": "1524053816",
+          "count": 714
+        },
+        {
+          "name": "1524053818",
+          "count": 713
+        },
+        {
+          "name": "1524053828",
+          "count": 711
+        },
+        {
+          "name": "1524053826",
+          "count": 696
+        },
+        {
+          "name": "1524053815",
+          "count": 676
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 15172,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 15172,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      28
+    ],
+    "metadata": {
+      "name": "iso3",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "SYR",
+          "count": 8398
+        },
+        {
+          "name": "YEM",
+          "count": 3256
+        },
+        {
+          "name": "IRQ",
+          "count": 1116
+        },
+        {
+          "name": "SAU",
+          "count": 706
+        },
+        {
+          "name": "IRN",
+          "count": 674
+        },
+        {
+          "name": "PSE",
+          "count": 548
+        },
+        {
+          "name": "TUR",
+          "count": 230
+        },
+        {
+          "name": "ISR",
+          "count": 88
+        },
+        {
+          "name": "LBN",
+          "count": 77
+        },
+        {
+          "name": "BHR",
+          "count": 53
+        }
+      ]
+    }
+  }
+]

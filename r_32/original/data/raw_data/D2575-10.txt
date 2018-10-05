@@ -1,1 +1,0 @@
-OLED displays can use either passive-matrix (PMOLED) or active-matrix addressing schemes.

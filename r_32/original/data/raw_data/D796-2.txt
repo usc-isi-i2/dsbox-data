@@ -1,1 +1,0 @@
-One-way pagers can only receive messages, while response pagers and two-way pagers can also acknowledge, reply to, and originate messages using an internal transmitter.

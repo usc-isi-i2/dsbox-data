@@ -1,1 +1,0 @@
-The ranking of a particular hand is increased by including multiple cards of the same card rank, by all five cards being from the same suit , or by all five cards being of consecutive rank.

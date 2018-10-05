@@ -1,1 +1,0 @@
-The time for one complete cycle, a left swing and a right swing, is called the period .

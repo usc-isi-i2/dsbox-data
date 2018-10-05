@@ -1,1 +1,0 @@
-The diplexer is a different device than a passive combiner or splitter.

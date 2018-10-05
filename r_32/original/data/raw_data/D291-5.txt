@@ -1,1 +1,0 @@
-This gauge system originated in the number of drawing operations used to produce a given gauge of wire.

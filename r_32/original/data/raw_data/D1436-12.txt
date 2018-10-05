@@ -1,1 +1,0 @@
-The names of SI units are written in lowercase characters (the 'degree Celsius' meets this rule, as 'degree' is the unit, and 'Celsius' is a modifier).

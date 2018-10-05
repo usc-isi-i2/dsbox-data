@@ -1,1 +1,0 @@
-Software-enforced DEP does not protect against execution of code in data pages, but instead counters SEH overwrite, another type of attack.

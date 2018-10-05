@@ -1,1 +1,0 @@
-The new Vista/WDDM graphics architecture includes a new video memory manager supporting virtualization of graphics hardware for various applications and services like the Desktop Window Manager .

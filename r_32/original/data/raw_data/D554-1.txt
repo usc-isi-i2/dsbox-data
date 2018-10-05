@@ -1,1 +1,0 @@
-A golden rectangle with longer side a and shorter side b, when placed adjacent to a square with sides of length a, will produce a similar golden rectangle with longer side a + b and shorter side a.

@@ -1,0 +1,437 @@
+[
+  {
+    "selector": [],
+    "metadata": {
+      "structural_type": "d3m.container.pandas.DataFrame",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/Table"
+      ],
+      "dimension": {
+        "name": "rows",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularRow"
+        ],
+        "length": 412
+      },
+      "schema": "https://metadata.datadrivendiscovery.org/schemas/v0/container.json"
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__"
+    ],
+    "metadata": {
+      "dimension": {
+        "name": "columns",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularColumn"
+        ],
+        "length": 8
+      }
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      0
+    ],
+    "metadata": {
+      "name": "Age",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.9975728155339806,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "28.0",
+          "count": 26
+        },
+        {
+          "name": "32.0",
+          "count": 17
+        },
+        {
+          "name": "35.0",
+          "count": 16
+        },
+        {
+          "name": "36.0",
+          "count": 15
+        },
+        {
+          "name": "42.0",
+          "count": 15
+        },
+        {
+          "name": "20.0",
+          "count": 14
+        },
+        {
+          "name": "22.0",
+          "count": 14
+        },
+        {
+          "name": "23.0",
+          "count": 14
+        },
+        {
+          "name": "25.0",
+          "count": 14
+        },
+        {
+          "name": "19.0",
+          "count": 13
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 411,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 411,
+      "ratio_of_values_containing_numeric_char": 0.9975728155339806
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      1
+    ],
+    "metadata": {
+      "name": "Sex",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.9975728155339806,
+      "number_of_outlier_numeric_values": 1,
+      "most_common_tokens": [
+        {
+          "name": "0",
+          "count": 223
+        },
+        {
+          "name": "1",
+          "count": 187
+        },
+        {
+          "name": "4",
+          "count": 1
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 411,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 411,
+      "ratio_of_values_containing_numeric_char": 0.9975728155339806
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      2
+    ],
+    "metadata": {
+      "name": "Income",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Float",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.8932038834951457,
+      "number_of_outlier_numeric_values": 3,
+      "most_common_tokens": [
+        {
+          "name": "1250.0",
+          "count": 30
+        },
+        {
+          "name": "625.0",
+          "count": 29
+        },
+        {
+          "name": "937.5",
+          "count": 28
+        },
+        {
+          "name": "1562.5",
+          "count": 20
+        },
+        {
+          "name": "781.25",
+          "count": 15
+        },
+        {
+          "name": "1875.0",
+          "count": 11
+        },
+        {
+          "name": "1000.0",
+          "count": 10
+        },
+        {
+          "name": "1093.75",
+          "count": 9
+        },
+        {
+          "name": "2187.5",
+          "count": 9
+        },
+        {
+          "name": "2500.0",
+          "count": 9
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 368,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 368,
+      "ratio_of_values_containing_numeric_char": 0.8932038834951457
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      3
+    ],
+    "metadata": {
+      "name": "Travel_cost",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Float",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.9927184466019418,
+      "number_of_outlier_numeric_values": 13,
+      "most_common_tokens": [
+        {
+          "name": "48.0003",
+          "count": 171
+        },
+        {
+          "name": "48.0",
+          "count": 54
+        },
+        {
+          "name": "170.4",
+          "count": 28
+        },
+        {
+          "name": "161.7",
+          "count": 19
+        },
+        {
+          "name": "176.4",
+          "count": 10
+        },
+        {
+          "name": "52.2",
+          "count": 10
+        },
+        {
+          "name": "29.4",
+          "count": 8
+        },
+        {
+          "name": "190.8",
+          "count": 7
+        },
+        {
+          "name": "303.6",
+          "count": 7
+        },
+        {
+          "name": "82.2",
+          "count": 7
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 409,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 409,
+      "ratio_of_values_containing_numeric_char": 0.9927184466019418
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      4
+    ],
+    "metadata": {
+      "name": "Access_road",
+      "structural_type": "int",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "0",
+          "count": 340
+        },
+        {
+          "name": "1",
+          "count": 72
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 412,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 412,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      5
+    ],
+    "metadata": {
+      "name": "Active",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.9951456310679612,
+      "number_of_outlier_numeric_values": 7,
+      "most_common_tokens": [
+        {
+          "name": "0",
+          "count": 190
+        },
+        {
+          "name": "1",
+          "count": 91
+        },
+        {
+          "name": "2",
+          "count": 86
+        },
+        {
+          "name": "3",
+          "count": 27
+        },
+        {
+          "name": "4",
+          "count": 9
+        },
+        {
+          "name": "5",
+          "count": 5
+        },
+        {
+          "name": "6",
+          "count": 2
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 410,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 410,
+      "ratio_of_values_containing_numeric_char": 0.9951456310679612
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      6
+    ],
+    "metadata": {
+      "name": "Passive",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.9975728155339806,
+      "number_of_outlier_numeric_values": 3,
+      "most_common_tokens": [
+        {
+          "name": "0",
+          "count": 186
+        },
+        {
+          "name": "1",
+          "count": 116
+        },
+        {
+          "name": "2",
+          "count": 77
+        },
+        {
+          "name": "3",
+          "count": 29
+        },
+        {
+          "name": "4",
+          "count": 3
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 411,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 411,
+      "ratio_of_values_containing_numeric_char": 0.9975728155339806
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      7
+    ],
+    "metadata": {
+      "name": "Logged_income",
+      "structural_type": "str",
+      "semantic_types": [
+        "http://schema.org/Float",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 0.8932038834951457,
+      "number_of_outlier_numeric_values": 2,
+      "most_common_tokens": [
+        {
+          "name": "7.13089883",
+          "count": 30
+        },
+        {
+          "name": "6.43775165",
+          "count": 29
+        },
+        {
+          "name": "6.843216758",
+          "count": 28
+        },
+        {
+          "name": "7.354042382",
+          "count": 20
+        },
+        {
+          "name": "6.660895201",
+          "count": 15
+        },
+        {
+          "name": "7.536363938",
+          "count": 11
+        },
+        {
+          "name": "6.907755279",
+          "count": 10
+        },
+        {
+          "name": "5.926926026",
+          "count": 9
+        },
+        {
+          "name": "6.332391134",
+          "count": 9
+        },
+        {
+          "name": "6.997367438",
+          "count": 9
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 368,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 368,
+      "ratio_of_values_containing_numeric_char": 0.8932038834951457
+    }
+  }
+]

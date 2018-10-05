@@ -1,1 +1,0 @@
-Packet mode communication may be utilized with or without intermediate forwarding nodes (packet switches or routers ).

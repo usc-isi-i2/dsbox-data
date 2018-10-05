@@ -1,1 +1,0 @@
-The CPI is a statistical estimate constructed using the prices of a sample of representative items whose prices are collected periodically.

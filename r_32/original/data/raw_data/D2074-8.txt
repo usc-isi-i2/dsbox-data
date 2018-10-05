@@ -1,1 +1,0 @@
-The input variable(s) are sometimes referred to as the argument(s) of the function.

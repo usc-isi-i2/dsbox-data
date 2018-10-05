@@ -1,1 +1,0 @@
-None of the low band signal is transferred from the S port to the H port.

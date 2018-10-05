@@ -1,1 +1,0 @@
-A consequence of this requirement is that there are limitations to the efficiency with which thermal energy can be converted to other kinds of energy, since thermal energy in equilibrium at a given temperature already represents the maximal evening-out of energy between all possible states.

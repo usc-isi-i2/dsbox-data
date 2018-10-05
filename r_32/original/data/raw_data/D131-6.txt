@@ -1,1 +1,0 @@
-Tube is most often specified by the OD and wall thickness, but may be specified by any two of OD, inside diameter (ID), and wall thickness.

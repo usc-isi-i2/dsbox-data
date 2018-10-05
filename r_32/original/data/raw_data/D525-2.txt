@@ -1,1 +1,0 @@
-The sound source will pass by a stationary observer (with a speed ) before the observer actually hears the sound it creates.

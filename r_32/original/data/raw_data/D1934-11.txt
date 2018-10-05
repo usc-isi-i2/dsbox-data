@@ -1,1 +1,0 @@
-The games use a variety of engines , including the id Tech 3 , the Treyarch NGL, and the IW 5.0.

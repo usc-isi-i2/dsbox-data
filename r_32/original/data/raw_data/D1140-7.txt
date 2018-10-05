@@ -1,1 +1,0 @@
-If the incident light is other than white, our visual mechanisms are able to compensate well, but not perfectly, often giving a flawed impression of the "true" color of the surface.

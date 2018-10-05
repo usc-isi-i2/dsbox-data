@@ -1,1 +1,0 @@
-Direct3D 9Ex, Direct3D 10, and Direct3D 11 are only available for Windows Vista and newer because each of these new versions was built to depend upon the new Windows Display Driver Model that was introduced for Windows Vista.

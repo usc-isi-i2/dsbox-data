@@ -1,1 +1,0 @@
-The introduction of a third electrode, a grid between the filament and the plate, yields another function.

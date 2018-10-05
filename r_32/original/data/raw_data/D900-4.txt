@@ -1,1 +1,0 @@
-When released, the restoring force combined with the pendulum's mass causes it to oscillate about the equilibrium position, swinging back and forth.

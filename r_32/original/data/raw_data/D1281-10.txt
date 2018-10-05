@@ -1,1 +1,0 @@
-The SATA-IO group collaboratively creates, reviews, ratifies, and publishes the interoperability specifications, the test cases, and plug-fests.

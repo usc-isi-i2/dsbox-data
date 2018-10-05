@@ -1,1 +1,0 @@
-The terminology is also applied to indirect measurements—that is, values obtained by a computational procedure from observed data.

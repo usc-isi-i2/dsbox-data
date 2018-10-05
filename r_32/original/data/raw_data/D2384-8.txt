@@ -1,1 +1,0 @@
-Statistical multiplexing, packet switching and other store-and-forward buffering introduces varying latency and throughput in the transmission.

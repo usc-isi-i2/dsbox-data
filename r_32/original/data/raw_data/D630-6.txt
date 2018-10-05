@@ -1,1 +1,0 @@
-There are two kinds of document feeders capable of two-sided (duplex) scanning: a reversing automatic document feeder or RADF scans one side of a page, then flips it and scans the other side.

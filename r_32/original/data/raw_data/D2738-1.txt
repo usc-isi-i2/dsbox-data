@@ -1,1 +1,0 @@
-Raster graphics , graphical techniques using arrays of pixel values

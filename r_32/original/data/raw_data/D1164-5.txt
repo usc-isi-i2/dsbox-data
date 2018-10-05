@@ -1,1 +1,0 @@
-The actions are usually performed through direct manipulation of the graphical elements.

@@ -1,1 +1,0 @@
-Heritability measures the fraction of phenotype variability that can be attributed to genetic variation.

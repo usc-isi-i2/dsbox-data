@@ -1,1 +1,0 @@
-For each town/city, the table lists the county to which it belongs, its date of incorporation, its population according to the 2010 census, its form of government, and its principal villages.

@@ -1,1 +1,0 @@
-Assuming SI units , F is measured in newtons (N), m1 and m2 in kilograms (kg), r in meters (m), and the constant G is approximately equal to .

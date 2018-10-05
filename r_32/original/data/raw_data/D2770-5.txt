@@ -1,1 +1,0 @@
-This shortcoming motivated the development of a family of empirical statistical models of thermal comfort in naturally ventilated spaces known as adaptive models.

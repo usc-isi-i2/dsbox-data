@@ -1,1 +1,0 @@
-Only the overreaching definitions of the two principal name spaces in the Internet, the Internet Protocol address space and the Domain Name System , are directed by a maintainer organization, the Internet Corporation for Assigned Names and Numbers (ICANN).

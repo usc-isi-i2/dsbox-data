@@ -1,1 +1,0 @@
-The OpenID standard provides a framework for the communication that must take place between the identity provider and the OpenID acceptor (the "relying party").

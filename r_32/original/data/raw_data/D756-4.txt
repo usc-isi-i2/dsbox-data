@@ -1,1 +1,0 @@
-All characteristics of data, including business rules , rules for how pieces of data relate, dates, definitions and lineage must be correct for its data integrity to be complete.

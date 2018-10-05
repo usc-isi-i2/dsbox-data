@@ -1,1 +1,0 @@
-This definition of the data warehouse focuses on data storage.

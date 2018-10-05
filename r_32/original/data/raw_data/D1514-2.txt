@@ -1,1 +1,0 @@
-It is also the component of the operating system that presents many user interface items on the monitor such as the taskbar and desktop .

@@ -1,1 +1,0 @@
-In science, functions are sometimes defined by a table that gives the outputs for selected inputs.

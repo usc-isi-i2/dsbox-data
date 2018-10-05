@@ -1,1 +1,0 @@
-The tests are performed on machines based on the AutoAnalyzer invented in 1957.

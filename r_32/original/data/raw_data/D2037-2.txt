@@ -1,1 +1,0 @@
-The form, design , and implementation of CPUs have changed over the course of their history, but their fundamental operation remains much the same.

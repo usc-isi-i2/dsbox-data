@@ -1,1 +1,0 @@
-There are two main classes of flashcarts: older devices which fit in Slot-2 (the Game Boy Advance Game Pak slot) and newer devices that fit in Slot-1 (the DS Game Card slot).

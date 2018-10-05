@@ -1,1 +1,0 @@
-Memory Foundations , designed by Daniel Libeskind , was selected as the master plan, but this went through substantial changes in design.

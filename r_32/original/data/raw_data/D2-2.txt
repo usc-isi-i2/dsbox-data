@@ -1,1 +1,0 @@
-The rotation around a fixed axis of a three-dimensional body involves circular motion of its parts.

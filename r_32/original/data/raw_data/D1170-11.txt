@@ -1,1 +1,0 @@
-The access layer helps users retrieve data.

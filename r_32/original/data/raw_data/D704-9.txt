@@ -1,1 +1,0 @@
-In the real world, some power will be lost, and some signal power will leak to the wrong port.

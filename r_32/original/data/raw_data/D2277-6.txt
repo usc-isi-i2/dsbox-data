@@ -1,1 +1,0 @@
-Most nautical charts use the Mercator projection whose scale varies by about a factor of six from the equator to 80° latitude, so charts covering large areas cannot use a single linear scale .

@@ -1,1 +1,0 @@
-Users may create accounts with their preferred OpenID identity providers , and then use those accounts as the basis for signing on to any website which accepts OpenID authentication.

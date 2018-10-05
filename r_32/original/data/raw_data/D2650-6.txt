@@ -1,1 +1,0 @@
-Modems are generally classified by the amount of data they can send in a given unit of time , usually expressed in bits per second (bit/s, or bps), or bytes per second (B/s).

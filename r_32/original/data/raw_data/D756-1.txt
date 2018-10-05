@@ -1,1 +1,0 @@
-Data integrity means that the data contained in the database is accurate and reliable.

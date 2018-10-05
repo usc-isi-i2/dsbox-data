@@ -1,1 +1,0 @@
-It is the first version since Internet Explorer 2 to not be bundled with a Windows operating system, although some OEMs have installed it with Windows 7 on their PCs, as well as new Windows 7 laptops.

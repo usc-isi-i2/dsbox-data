@@ -1,1 +1,0 @@
-The fundamental theorem of calculus is a theorem that links the concept of the derivative of a function with the concept of the integral .

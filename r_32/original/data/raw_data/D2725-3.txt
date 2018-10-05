@@ -1,1 +1,0 @@
-HijackThis is used primarily for diagnosis of browser hijacking, as uninformed use of its removal facilities can cause significant software damage to a computer.

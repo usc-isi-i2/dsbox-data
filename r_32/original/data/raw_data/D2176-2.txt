@@ -1,1 +1,0 @@
-A true zoom lens, also called a parfocal lens , is one that maintains focus when its focal length changes.

@@ -1,1 +1,0 @@
-a six-digit Issuer Identification Number (IIN) (previously called the "Bank Identification Number" (BIN)) the first digit of which is the Major Industry Identifier (MII),

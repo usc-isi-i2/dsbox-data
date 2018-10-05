@@ -1,1 +1,0 @@
-Most telephone networks today (exceptions being private intercom and secure phone networks) are interconnected in the international telephone network, where the format of telephone numbers is standardized by ITU-T in the recommendation E.164 .

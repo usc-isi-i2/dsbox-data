@@ -1,1 +1,0 @@
-The combination of facts and dimensions is sometimes called a star schema .

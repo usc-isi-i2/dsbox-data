@@ -1,1 +1,0 @@
-The storage device either contains flash memory or a slot for a memory card to store homebrew.

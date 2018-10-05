@@ -1,1 +1,0 @@
-Some airlines may use only a single hub, while other airlines use multiple hubs.

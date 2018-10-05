@@ -1,1 +1,0 @@
-The software provides a freely available application programming interface , Steamworks, that developers can take advantage of to integrate many of Steam's functions within their software products, including copy protection, networking and matchmaking, in-game achievements and micro-transactions, and support for user-created content through Steam Workshop.

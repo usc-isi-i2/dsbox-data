@@ -1,1 +1,0 @@
-Some integrated circuits (ICs) can contain multiple CPUs on a single chip; those ICs are called multi-core processors .

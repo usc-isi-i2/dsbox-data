@@ -1,1 +1,0 @@
-Furthermore, Windows Installer facilitates the principle of least privilege by performing software installations by proxy for unprivileged users.

@@ -1,1 +1,0 @@
-It also includes performing routine actions which keep the device in working order (known as scheduled maintenance ) or prevent trouble from arising ( preventive maintenance ).

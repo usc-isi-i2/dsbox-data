@@ -1,1 +1,0 @@
-On general purpose computers, the boot process begins with the execution of an initial program stored in boot ROMs or read in another fashion.

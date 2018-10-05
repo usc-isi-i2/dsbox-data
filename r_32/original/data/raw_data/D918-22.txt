@@ -1,1 +1,0 @@
-For a large number of atoms, the decay rate for the collection is computable from the measured decay constants of the nuclides (or equivalently from the half-lifes ).

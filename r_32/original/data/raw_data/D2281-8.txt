@@ -1,1 +1,0 @@
-FireWire is also available in wireless, fiber optic , and coaxial versions using the isochronous protocols.

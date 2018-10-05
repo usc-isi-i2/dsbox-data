@@ -1,1 +1,0 @@
-More recently, ARM architecture has included 64-bit versions.

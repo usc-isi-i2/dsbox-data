@@ -1,1 +1,0 @@
-In the case of stored-value type cards, there is no necessary association with a particular customer.

@@ -1,1 +1,0 @@
-Consequently, the signals on L and H can coexist on port S without interfering with each other.

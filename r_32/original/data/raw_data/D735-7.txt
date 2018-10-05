@@ -1,1 +1,0 @@
-The team that has scored the most points by the end of the game wins.

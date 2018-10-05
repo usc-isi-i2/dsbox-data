@@ -1,1 +1,0 @@
-The sign may also represent an inclusive range of values that a reading might have.

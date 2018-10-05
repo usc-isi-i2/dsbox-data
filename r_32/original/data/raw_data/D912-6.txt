@@ -1,1 +1,0 @@
-Most countries use fixed length numbers (for normal lines at least) and therefore the number of endpoints determines the necessary length of the telephone number.

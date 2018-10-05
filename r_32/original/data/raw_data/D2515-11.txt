@@ -1,1 +1,0 @@
-For example, a single housing insurance policy may contain multiple deductible amounts for loss or damage arising from theft, fire, natural calamities, evacuation etc.

@@ -1,1 +1,0 @@
-It identifies each household member's age and sex.

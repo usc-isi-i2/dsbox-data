@@ -1,1 +1,0 @@
-In modern mathematics, a function is defined by its set of inputs, called the domain , a set containing the outputs, called its codomain , and the set of all paired input and outputs, called the graph .

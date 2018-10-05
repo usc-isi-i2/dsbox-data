@@ -1,1 +1,0 @@
-The port number, added to a computer's IP address, completes the destination address for a communications session.

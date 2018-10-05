@@ -1,1 +1,0 @@
-Half-duplex gigabit links connected through hubs are allowed by the specification, but full-duplex usage with switches is much more common.

@@ -1,0 +1,411 @@
+[
+  {
+    "selector": [],
+    "metadata": {
+      "structural_type": "d3m.container.pandas.DataFrame",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/Table"
+      ],
+      "dimension": {
+        "name": "rows",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularRow"
+        ],
+        "length": 534
+      },
+      "schema": "https://metadata.datadrivendiscovery.org/schemas/v0/container.json"
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__"
+    ],
+    "metadata": {
+      "dimension": {
+        "name": "columns",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularColumn"
+        ],
+        "length": 10
+      }
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      0
+    ],
+    "metadata": {
+      "name": "EDUCATION",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 4,
+      "most_common_tokens": [
+        {
+          "name": "12",
+          "count": 219
+        },
+        {
+          "name": "16",
+          "count": 71
+        },
+        {
+          "name": "14",
+          "count": 56
+        },
+        {
+          "name": "13",
+          "count": 37
+        },
+        {
+          "name": "18",
+          "count": 31
+        },
+        {
+          "name": "11",
+          "count": 27
+        },
+        {
+          "name": "17",
+          "count": 24
+        },
+        {
+          "name": "10",
+          "count": 17
+        },
+        {
+          "name": "8",
+          "count": 15
+        },
+        {
+          "name": "15",
+          "count": 13
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 534,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 534,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      1
+    ],
+    "metadata": {
+      "name": "SOUTH",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "no",
+          "count": 378
+        },
+        {
+          "name": "yes",
+          "count": 156
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      2
+    ],
+    "metadata": {
+      "name": "SEX",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "male",
+          "count": 289
+        },
+        {
+          "name": "female",
+          "count": 245
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      3
+    ],
+    "metadata": {
+      "name": "EXPERIENCE",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 1,
+      "most_common_tokens": [
+        {
+          "name": "14",
+          "count": 28
+        },
+        {
+          "name": "10",
+          "count": 23
+        },
+        {
+          "name": "13",
+          "count": 23
+        },
+        {
+          "name": "16",
+          "count": 22
+        },
+        {
+          "name": "8",
+          "count": 19
+        },
+        {
+          "name": "12",
+          "count": 18
+        },
+        {
+          "name": "15",
+          "count": 18
+        },
+        {
+          "name": "3",
+          "count": 18
+        },
+        {
+          "name": "7",
+          "count": 18
+        },
+        {
+          "name": "6",
+          "count": 17
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 534,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 534,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      4
+    ],
+    "metadata": {
+      "name": "UNION",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "not_member",
+          "count": 438
+        },
+        {
+          "name": "member",
+          "count": 96
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      5
+    ],
+    "metadata": {
+      "name": "AGE",
+      "structural_type": "int",
+      "semantic_types": [
+        "http://schema.org/Integer",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "ratio_of_numeric_values": 1.0,
+      "number_of_outlier_numeric_values": 0,
+      "most_common_tokens": [
+        {
+          "name": "32",
+          "count": 24
+        },
+        {
+          "name": "26",
+          "count": 22
+        },
+        {
+          "name": "36",
+          "count": 21
+        },
+        {
+          "name": "33",
+          "count": 20
+        },
+        {
+          "name": "34",
+          "count": 20
+        },
+        {
+          "name": "28",
+          "count": 18
+        },
+        {
+          "name": "29",
+          "count": 18
+        },
+        {
+          "name": "35",
+          "count": 18
+        },
+        {
+          "name": "37",
+          "count": 18
+        },
+        {
+          "name": "38",
+          "count": 18
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 534,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 534,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      6
+    ],
+    "metadata": {
+      "name": "RACE",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "White",
+          "count": 440
+        },
+        {
+          "name": "Other",
+          "count": 67
+        },
+        {
+          "name": "Hispanic",
+          "count": 27
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      7
+    ],
+    "metadata": {
+      "name": "OCCUPATION",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Other",
+          "count": 156
+        },
+        {
+          "name": "Professional",
+          "count": 105
+        },
+        {
+          "name": "Clerical",
+          "count": 97
+        },
+        {
+          "name": "Service",
+          "count": 83
+        },
+        {
+          "name": "Management",
+          "count": 55
+        },
+        {
+          "name": "Sales",
+          "count": 38
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      8
+    ],
+    "metadata": {
+      "name": "SECTOR",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Other",
+          "count": 411
+        },
+        {
+          "name": "Manufacturing",
+          "count": 99
+        },
+        {
+          "name": "Construction",
+          "count": 24
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      9
+    ],
+    "metadata": {
+      "name": "MARR",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Married",
+          "count": 350
+        },
+        {
+          "name": "Unmarried",
+          "count": 184
+        }
+      ]
+    }
+  }
+]

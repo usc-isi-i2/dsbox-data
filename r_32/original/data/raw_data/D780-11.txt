@@ -1,1 +1,0 @@
-In an attempt to further ameliorate the " DLL hell " that plagued the past versions of Windows, improved side-by-side assembly technology in Windows XP allows side-by-side installation, registration and servicing of multiple versions of globally shared software components in full isolation.

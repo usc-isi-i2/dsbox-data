@@ -1,1 +1,0 @@
-A Fire Alarm Control Panel (FACP), or Fire Alarm Control Unit (FACU), is the controlling component of a Fire Alarm System.

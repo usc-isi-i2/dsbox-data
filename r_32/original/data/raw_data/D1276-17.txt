@@ -1,1 +1,0 @@
-OpenGL Architecture Review Board , a consortium previously governing OpenGL

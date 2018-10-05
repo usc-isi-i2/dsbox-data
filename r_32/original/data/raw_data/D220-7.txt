@@ -1,1 +1,0 @@
-The servicer places a tag on the extinguisher to indicate the type of service performed (annual inspection, recharge, new fire extinguisher) and when.

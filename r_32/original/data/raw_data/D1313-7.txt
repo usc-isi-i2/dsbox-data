@@ -1,1 +1,0 @@
-BMI can also be determined using a BMI chart, which displays BMI as a function of weight (horizontal axis) and height (vertical axis) using contour lines for different values of BMI or colors for different BMI categories.

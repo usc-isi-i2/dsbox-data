@@ -1,1 +1,0 @@
-Many genes are not polymorphic, meaning that only a single allele is present in the population: the gene is then said to be fixed .

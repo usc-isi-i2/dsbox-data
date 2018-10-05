@@ -1,1 +1,0 @@
-A diplexer is a passive device that implements frequency domain multiplexing .

@@ -1,1 +1,0 @@
-Sample view of an electronic health record based on images

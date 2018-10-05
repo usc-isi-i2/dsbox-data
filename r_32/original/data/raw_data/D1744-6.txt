@@ -1,1 +1,0 @@
-Internet Explorer 9 is the last version of Internet Explorer to be supported on Windows Vista.

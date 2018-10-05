@@ -1,1 +1,0 @@
-The size of the grouping varies so the set of integer sizes available varies between different types of computers.

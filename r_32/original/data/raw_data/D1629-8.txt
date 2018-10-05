@@ -1,1 +1,0 @@
-Other Microsoft applications including Microsoft SQL Server 2008 also expose their management interface via PowerShell cmdlets.

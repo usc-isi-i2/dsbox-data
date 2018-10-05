@@ -1,1 +1,0 @@
-Raster image processor , or RIP, a component of a printing system that performs rasterisation

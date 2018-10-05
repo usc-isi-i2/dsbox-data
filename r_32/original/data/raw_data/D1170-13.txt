@@ -1,1 +1,0 @@
-The integrated data source systems may be considered to be a part of a distributed operational data store layer.

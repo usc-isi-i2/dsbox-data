@@ -1,1 +1,0 @@
-The postmark indicates the date and point of origin of the mailing.

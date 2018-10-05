@@ -1,1 +1,0 @@
-This usage is discouraged by the SI authority , since it can lead to confusion as to whether a given quantity expressed in newton-meters is a torque or a quantity of energy.

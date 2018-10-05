@@ -1,1 +1,0 @@
-The skin interfaces with the environment and is the first line of defense from external factors.

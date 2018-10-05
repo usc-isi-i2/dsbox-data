@@ -1,1 +1,0 @@
-The shapes of these electrodes will determine the shapes that will appear when the LCD is turned ON.

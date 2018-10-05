@@ -1,1 +1,0 @@
-In the distributed computing model, problems are solved by a distributed interconnected set of processors.

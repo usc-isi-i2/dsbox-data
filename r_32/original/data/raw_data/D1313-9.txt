@@ -1,1 +1,0 @@
-To work from stone and pounds first multiply the stone by 14 then add the pounds to give the whole mass in pounds; to work from feet and inches first multiply the feet by 12 then add the inches to give the whole height in inches.

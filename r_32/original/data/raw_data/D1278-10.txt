@@ -1,1 +1,0 @@
-Each time the email platform is backed up, all 100 instances of the attachment are saved, requiring 100 MB storage space.

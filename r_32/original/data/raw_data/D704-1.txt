@@ -1,1 +1,0 @@
-Two ports (e.g., L and H) are multiplexed onto a third port (e.g., S).

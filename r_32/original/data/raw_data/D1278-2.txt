@@ -1,1 +1,0 @@
-The technique is used to improve storage utilization and can also be applied to network data transfers to reduce the number of bytes that must be sent.

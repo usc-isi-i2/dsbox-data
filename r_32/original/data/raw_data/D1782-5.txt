@@ -1,1 +1,0 @@
-It is responsible for arranging storage space; reliability, efficiency, and tuning with regard to the physical storage medium are important design considerations.

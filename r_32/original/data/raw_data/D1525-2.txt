@@ -1,1 +1,0 @@
-Commercial DVD movies are encoded using a combination of H.262/MPEG-2 Part 2 compressed video and audio of varying formats (often multi-channel formats as described below).

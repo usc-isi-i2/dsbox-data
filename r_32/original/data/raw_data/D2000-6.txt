@@ -1,1 +1,0 @@
-where is the mole fraction of the i-th component in the total mixture of n components .

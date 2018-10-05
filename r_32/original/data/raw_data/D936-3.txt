@@ -1,1 +1,0 @@
-Changes in total energy of systems can only be accomplished by adding or subtracting energy from them, as energy is a quantity which is conserved, according to the first law of thermodynamics .

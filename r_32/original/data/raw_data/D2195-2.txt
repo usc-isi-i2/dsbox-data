@@ -1,1 +1,0 @@
-There are a number of HDMI-standard cable connectors available, each of which can be used for any uncompressed TV or PC video format, including standard, enhanced, high definition , and 3D video signals; up to 8 channels of compressed or uncompressed digital audio; a CEC (Consumer Electronics Control) connection; and an Ethernet data connection.

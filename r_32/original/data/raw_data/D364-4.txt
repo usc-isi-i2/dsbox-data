@@ -1,1 +1,0 @@
-The ASP.NET SOAP extension framework allows ASP.NET components to process SOAP messages.

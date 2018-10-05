@@ -1,1 +1,0 @@
-The electron microscope uses electrostatic and electromagnetic lenses to control the electron beam and focus it to form an image.

@@ -1,1 +1,0 @@
-Windows PowerShell includes its own extensive, console-based help, similar to man pages in Unix shells , via the Get-Help cmdlet.

@@ -1,1 +1,0 @@
-Basis points are used as a convenient unit of measurement in contexts where percentage differences of less than 1% are discussed.

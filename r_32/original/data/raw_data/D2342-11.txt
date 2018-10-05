@@ -1,1 +1,0 @@
-Some reports also show that the number of pandas in the wild is on the rise.

@@ -1,1 +1,0 @@
-APL , designed by Ken Iverson , was the first programming language to provide array programming capabilities.

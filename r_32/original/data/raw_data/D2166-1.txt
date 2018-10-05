@@ -1,1 +1,0 @@
-Usually, this takes the form of a sequence of F-tests , but other techniques are possible, such as t-tests , adjusted R-square , Akaike information criterion , Bayesian information criterion , Mallows's Cp , or false discovery rate .

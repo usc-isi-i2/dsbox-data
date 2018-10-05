@@ -1,1 +1,0 @@
-A surface such as a plane or the surface of a cylinder or sphere has a dimension of two because two coordinates are needed to specify a point on it (for example, to locate a point on the surface of a sphere you need both its latitude and its longitude ).

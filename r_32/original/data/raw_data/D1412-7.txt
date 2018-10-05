@@ -1,1 +1,0 @@
-The maturity of a manufacturing process can be described by a sigma rating indicating its yield or the percentage of defect-free products it creates.

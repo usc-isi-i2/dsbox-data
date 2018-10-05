@@ -1,1 +1,0 @@
-The first APTIS version of the Network Card.

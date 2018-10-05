@@ -1,1 +1,0 @@
-Consequently, changing the configuration of pitches above a given bass note will typically result in a new note becoming the root.

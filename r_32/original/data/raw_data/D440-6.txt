@@ -1,1 +1,0 @@
-Since (Natural Gas) meters measure volume and not energy content, a therm factor is used by (Natural) gas companies to convert the volume of gas used to its heat equivalent, and thus calculate the actual energy use.

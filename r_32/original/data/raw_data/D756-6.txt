@@ -1,1 +1,0 @@
-Examples include transforming the data, storing history and storing metadata.

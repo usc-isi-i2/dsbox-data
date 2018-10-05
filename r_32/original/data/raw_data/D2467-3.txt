@@ -1,1 +1,0 @@
-The GSM standard was developed as a replacement for first generation ( 1G ) analog cellular networks, and originally described a digital, circuit switched network optimized for full duplex voice telephony .

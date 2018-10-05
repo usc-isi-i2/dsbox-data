@@ -1,0 +1,93 @@
+{
+  "about": {
+    "datasetID": "31_urbansound_dataset",
+    "datasetName": "UrbanSound dataset",
+    "description": "The data consists of raw audio files. The audio files are in multiple formats.",
+    "citation": "\n@inproceedings{Salamon:UrbanSound:ACMMM:14,\nAddress = {Orlando, FL, USA},\nAuthor = {Salamon, J. and Jacoby, C. and Bello, J. P.},\nBooktitle = {22st {ACM} International Conference on Multimedia ({ACM-MM'14})},\nMonth = {Nov.},\nTitle = {A Dataset and Taxonomy for Urban Sound Research},\nYear = {2014}}\n",
+    "license": "Creative Commons Attribution Noncommercial License (by-nc), version 3.0",
+    "source": "NYU and www.freesound.org",
+    "sourceURI": "https://serv.cusp.nyu.edu/projects/urbansounddataset/",
+    "approximateSize": "12 GB",
+    "datasetSchemaVersion": "3.1.1",
+    "redacted": false,
+    "datasetVersion": "1.0"
+  },
+  "dataResources": [
+    {
+      "resID": "0",
+      "resPath": "media/",
+      "resType": "audio",
+      "resFormat": [
+        "audio/wav",
+        "audio/aiff",
+        "audio/flac",
+        "audio/ogg",
+        "audio/mpeg"
+      ],
+      "isCollection": true
+    },
+    {
+      "resID": "1",
+      "resPath": "tables/learningData.csv",
+      "resType": "table",
+      "resFormat": [
+        "text/csv"
+      ],
+      "isCollection": false,
+      "columns": [
+        {
+          "colIndex": 0,
+          "colName": "d3mIndex",
+          "colType": "integer",
+          "role": [
+            "index"
+          ]
+        },
+        {
+          "colIndex": 1,
+          "colName": "filename",
+          "colType": "string",
+          "role": [
+            "attribute"
+          ],
+          "refersTo": {
+            "resID": "0",
+            "resObject": "item"
+          }
+        },
+        {
+          "colIndex": 2,
+          "colName": "start",
+          "colType": "real",
+          "role": [
+            "boundaryIndicator"
+          ]
+        },
+        {
+          "colIndex": 3,
+          "colName": "end",
+          "colType": "real",
+          "role": [
+            "boundaryIndicator"
+          ]
+        },
+        {
+          "colIndex": 4,
+          "colName": "salience",
+          "colType": "integer",
+          "role": [
+            "instanceWeight"
+          ]
+        },
+        {
+          "colIndex": 5,
+          "colName": "class",
+          "colType": "categorical",
+          "role": [
+            "suggestedTarget"
+          ]
+        }
+      ]
+    }
+  ]
+}

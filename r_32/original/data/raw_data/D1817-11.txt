@@ -1,1 +1,0 @@
-In addition to accuracy and precision, measurements may also have a measurement resolution , which is the smallest change in the underlying physical quantity that produces a response in the measurement.

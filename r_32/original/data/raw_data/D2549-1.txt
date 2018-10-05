@@ -1,1 +1,0 @@
-Initially developed by Macromedia and then acquired by Adobe Systems , Flex was donated by Adobe to the Apache Software Foundation in 2011 and promoted to a top-level project in December 2012.

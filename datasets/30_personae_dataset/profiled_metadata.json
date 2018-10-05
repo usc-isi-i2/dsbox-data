@@ -1,0 +1,217 @@
+[
+  {
+    "selector": [],
+    "metadata": {
+      "structural_type": "d3m.container.pandas.DataFrame",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/Table"
+      ],
+      "dimension": {
+        "name": "rows",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularRow"
+        ],
+        "length": 145
+      },
+      "schema": "https://metadata.datadrivendiscovery.org/schemas/v0/container.json"
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__"
+    ],
+    "metadata": {
+      "dimension": {
+        "name": "columns",
+        "semantic_types": [
+          "https://metadata.datadrivendiscovery.org/types/TabularColumn"
+        ],
+        "length": 5
+      }
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      "__ALL_ELEMENTS__"
+    ],
+    "metadata": {
+      "structural_type": "str"
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      0
+    ],
+    "metadata": {
+      "name": "filename",
+      "structural_type": "str",
+      "location_base_uris": [
+        "file:///Users/runqishao/Documents/github/dsbox-rqs/dsbox-data/datasets/30_personae_dataset/text/"
+      ],
+      "media_types": [
+        "text/plain"
+      ],
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/FileName",
+        "http://schema.org/Text",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "1.txt",
+          "count": 1
+        },
+        {
+          "name": "10.txt",
+          "count": 1
+        },
+        {
+          "name": "100.txt",
+          "count": 1
+        },
+        {
+          "name": "101.txt",
+          "count": 1
+        },
+        {
+          "name": "102.txt",
+          "count": 1
+        },
+        {
+          "name": "103.txt",
+          "count": 1
+        },
+        {
+          "name": "104.txt",
+          "count": 1
+        },
+        {
+          "name": "105.txt",
+          "count": 1
+        },
+        {
+          "name": "106.txt",
+          "count": 1
+        },
+        {
+          "name": "107.txt",
+          "count": 1
+        }
+      ],
+      "number_of_tokens_containing_numeric_char": 145,
+      "ratio_of_tokens_containing_numeric_char": 1.0,
+      "number_of_values_containing_numeric_char": 145,
+      "ratio_of_values_containing_numeric_char": 1.0
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      1
+    ],
+    "metadata": {
+      "name": "text_language",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Dutch",
+          "count": 145
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      2
+    ],
+    "metadata": {
+      "name": "author_gender",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "female",
+          "count": 111
+        },
+        {
+          "name": "male",
+          "count": 34
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      3
+    ],
+    "metadata": {
+      "name": "author_language",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "Dutch",
+          "count": 141
+        },
+        {
+          "name": "Other",
+          "count": 4
+        }
+      ]
+    }
+  },
+  {
+    "selector": [
+      "__ALL_ELEMENTS__",
+      4
+    ],
+    "metadata": {
+      "name": "author_region",
+      "structural_type": "str",
+      "semantic_types": [
+        "https://metadata.datadrivendiscovery.org/types/CategoricalData",
+        "https://metadata.datadrivendiscovery.org/types/Attribute"
+      ],
+      "most_common_tokens": [
+        {
+          "name": "A",
+          "count": 111
+        },
+        {
+          "name": "OV",
+          "count": 11
+        },
+        {
+          "name": "Other",
+          "count": 11
+        },
+        {
+          "name": "L",
+          "count": 7
+        },
+        {
+          "name": "WV",
+          "count": 3
+        },
+        {
+          "name": "B",
+          "count": 2
+        }
+      ]
+    }
+  }
+]

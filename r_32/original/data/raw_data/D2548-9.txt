@@ -1,1 +1,0 @@
-It does not account for the heat loss through the container or the heat capacity of the thermometer and container itself.

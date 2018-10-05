@@ -1,1 +1,0 @@
-The different schemes or architectures are named by the word RAID followed by a number (e.g. RAID 0, RAID 1).

@@ -1,1 +1,0 @@
-World population estimates from 1800 to 2100, based on UN 2010 projections (red, orange, green) and US Census Bureau historical estimates (black).

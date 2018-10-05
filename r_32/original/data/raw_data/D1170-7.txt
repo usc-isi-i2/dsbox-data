@@ -1,1 +1,0 @@
-The staging layer or staging database stores raw data extracted from each of the disparate source data systems.

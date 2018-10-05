@@ -1,1 +1,0 @@
-Because seasons and astronomical events do not repeat in a whole number of days, a calendar that had the same number of days in each year would, over time, drift with respect to the event it was supposed to track.

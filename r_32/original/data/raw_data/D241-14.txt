@@ -1,1 +1,0 @@
-Coulomb's Law has the product of two charges in place of the product of the masses, and the electrostatic constant in place of the gravitational constant.

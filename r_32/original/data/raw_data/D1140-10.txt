@@ -1,1 +1,0 @@
-The component lights may be inherently colored or simply white light that has passed through suitable subtractive color filters; their combination is an additive one in either case.

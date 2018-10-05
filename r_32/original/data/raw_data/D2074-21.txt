@@ -1,1 +1,0 @@
-Collections of functions with the same domain and the same codomain are called function spaces , the properties of which are studied in such mathematical disciplines as real analysis and complex analysis .

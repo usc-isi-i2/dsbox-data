@@ -1,1 +1,0 @@
-The installation information, and often the files themselves, are packaged in installation packages , loosely relational databases structured as COM Structured Storages and commonly known as "MSI files", from their default file extension .

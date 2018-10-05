@@ -1,1 +1,0 @@
-Adaptive models of thermal comfort consider occupants as dynamically interacting with their environment, and controlling their thermal comfort by means of clothing or window-opening and closing.

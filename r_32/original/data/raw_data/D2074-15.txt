@@ -1,1 +1,0 @@
-The input and output of a function can be expressed as an ordered pair , ordered so that the first element is the input (or tuple of inputs, if the function takes more than one input), and the second is the output.

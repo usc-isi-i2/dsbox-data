@@ -1,1 +1,0 @@
-In computing , a data warehouse or enterprise data warehouse (DW, DWH, or EDW) is a database used for reporting and data analysis .

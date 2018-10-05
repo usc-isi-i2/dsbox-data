@@ -1,1 +1,0 @@
-A common type of CAPTCHA requires the user to type letters and/or digits from a distorted image that appears on the screen.

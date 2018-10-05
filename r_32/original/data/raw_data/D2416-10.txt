@@ -1,1 +1,0 @@
-Windows 95 did not launch with DirectX, but DirectX was included with Windows 95 OEM Service Release 2.

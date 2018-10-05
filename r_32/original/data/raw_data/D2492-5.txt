@@ -1,1 +1,0 @@
-H.264 is perhaps best known as being one of the codec standards for Blu-ray Discs ; all Blu-ray Disc players must be able to decode H.264.

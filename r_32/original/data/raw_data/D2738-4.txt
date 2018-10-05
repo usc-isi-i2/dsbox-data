@@ -1,1 +1,0 @@
-Rasterisation , or rasterization, conversion of a vector image to a raster image

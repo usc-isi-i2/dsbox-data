@@ -1,1 +1,0 @@
-The purchasing power of a unit of currency, say a dollar, in a given year, expressed in dollars of the base year, is 100/P, where P is the price index in that year.

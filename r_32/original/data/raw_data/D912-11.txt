@@ -1,1 +1,0 @@
-For example, a phone number in North America will start with three numbers (such as 661), which is the area code, followed by seven digits split into sections of three and four (such as 550-1212), which is the local number.

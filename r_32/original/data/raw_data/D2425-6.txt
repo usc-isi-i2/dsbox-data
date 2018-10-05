@@ -1,1 +1,0 @@
-The process usually involves a computer asking a user to complete a simple test which the computer is able to grade.

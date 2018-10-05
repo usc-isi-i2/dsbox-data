@@ -1,1 +1,0 @@
-Sometimes "range" refers to the codomain and sometimes to the image.

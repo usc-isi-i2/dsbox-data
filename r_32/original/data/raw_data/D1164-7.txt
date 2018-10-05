@@ -1,1 +1,0 @@
-The term GUI is not usually applied to other low-resolution types of interfaces that are non-generic, such as video games (where HUD is preferred), or not restricted to flat screens, like volumetric displays .

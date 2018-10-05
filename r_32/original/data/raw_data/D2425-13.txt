@@ -1,1 +1,0 @@
-It is an acronym based on the word "capture" and standing for "Completely Automated Public Turing test to tell Computers and Humans Apart".

@@ -1,1 +1,0 @@
-In this technique, the total population is divided into these groups (or clusters) and a simple random sample of the groups is selected.

@@ -1,1 +1,0 @@
-These, or other axes, may be referenced to uniquely identify a point or structure in its attitude and relationship to other objects and occurrences.

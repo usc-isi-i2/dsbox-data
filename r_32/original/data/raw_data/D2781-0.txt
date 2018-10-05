@@ -1,1 +1,0 @@
-The ARM architecture describes a family of RISC -based computer processors designed and licensed by British company ARM Holdings .
