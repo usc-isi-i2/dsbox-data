@@ -7,5 +7,5 @@ The rest of the raw datasets may be found at: https://datadrivendiscovery.org/da
 
 In this repository you may find all the provided datasets except 2:
 
-* /tables/learningData.csv	--- contains original dataset
-* profiled	--- contains profiled metadata in JSON file
+* `datasets/{some_dataset}/tables/learningData.csv`	--- contains original dataset
+* `datasets/{some_dataset}/profiled_metadata.json`	--- contains profiled metadata in JSON file
